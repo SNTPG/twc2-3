@@ -1,0 +1,362 @@
+{{Stub}}
+[[File:Editexample.png|thumb|An example of what an edit war may look like.]]
+An [[Edit War]] is when two users or groups of users on a wiki disruptively overwrite each other's edits, usually due to having conflicting views on how the article should be presented. A [[LiSt|list]] of notable edit wars can be found on [[Wikipedia]]’s [https://en.wikipedia.org/wiki/Wikipedia:Lamest_edit_wars Lamest edit wars].
+
+==History==
+The Edit War began during [[Challenge 3: Edit War|Challenge 3]]. On November 11, 2022, [[The Divine Goddess]] told the contestants to violently kill this poor article{{Citation needed}}. It is unknown why She wanted the page to suffer such a gruesome fate.
+
+==Early life==
+
+==Gameplay==
+
+==Personality==
+
+==Ingredients==
+
+==Geography==
+
+==Controversy==
+
+==Death==
+
+==Discography==
+
+==References in other media==
+
+==Judging Criteria==
+
+==Results==
+
+==Yard sale==
+Hello, this is [[Diary]]. Throughout this competition I've been collecting a lot of these [[The Toy Where You Put The Shape In The Corresponding Hole|weird toys]], and figured I’ve gathered enough to start my own [[yard sale]]. Look through these gizmos and follow the instructions of the [[Toy Blocks|toy(s)]] you want to play with. Or, don’t do that and play with the toys in ways the toymakers haven’t intended…? I dunno, I just want to get rid of all this [[Paper Niko|useless junk]]. Have fun.
+
+=== Toy 1: Make Your Own Statler and Waldorf Joke ===
+Toy instructions:
+#Below should be a template for a joke you’d find on the [[Statler and Waldorf]] page.
+#Fill in the blank Dia templates with your own dialogue.
+
+{{Dia|Statler|}}
+{{Dia|Waldorf|}}
+{{Dia|Statler|}}
+{{Dia|SWLaugh|}}
+
+=== Toy 2: Ninety-player tic tac toe ===
+Toy instructions:
+#Below is a 10x10 table.
+#This toy works like a game of [[tic-tac-toe]], but there are [[like]] ninety of you. You’re all expected to be split into 2 teams
+#Whichever team gets 10 of their respective symbols in a row first wins.
+
+{| class="wikitable" style="text-align:center"
+!colspan="10"|THE GRID
+|-
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|}
+
+=== Toy 3: Become Viral On Twitter ===
+Toy instructions:
+
+#Below is a template for a [[Viral Tweet|viral tweet]]. Fill in the blank words appropriately.
+#When the challenge ends, @starlight_DP will post the final tweet to [[Twitter]].
+#The more likes and retweets this post gets by the time results are posted, the more points you score. If this tweet gets 100 or more points, I will make this my Twitter pfp for a day: [[File:Funnyimage.png|50px]]
+#The image linked in the previous step is broken on purpose. Feel free to upload the nonexistent image yourself.
+
+{{Tweet
+| name = diary
+| username = starlight_DP
+| text = '''(adjective)''' people who '''(verb)''' '''(noun)''' are '''(adjective)'''
+| date = Nov 23, 2022
+| reference = &nbsp;
+| image = Diarystarico.jpg
+| width = 300px
+| left = y
+}}
+{{clear}}
+
+=== Toy 4: Dunk him ===
+Toy instructions:
+#do it
+
+{{:Damn seal/Dunk him}}
+
+=== Toy 5: Toba Tots® Transclusion Toy ===
+Toy instructions:
+
+#It is not advised to use this toy.
+##Like please, don’t use it.
+#This is not a toy, but a pipe bomb.
+#This bomb in particular is a very dangerous weapon. If you go into the source editor and surround the below string with <nowiki>{{curly brackets}}</nowiki> the entire page will blow up.
+##You win if nobody sets off the bomb.
+
+:Damn seal
+
+=== Toy 6: Magic mirror ===
+Toy instructions;
+
+#This toy makes the whole page flip.
+#Click "Expand" to turn it on!
+#After that you can click “ɘƨqɒlloƆ” to turn it off if you don’t like it
+#This toy might not work on certain browsers. [[Sorry :(]]
+#Maybe in collaborative spirit you can… fix that for me? 😀😀😀
+
+{| class="navbox mw-collapsible mw-collapsed" style="width: 100%; max-width: 100%; z-index:10000;"
+|-
+! style="text-align:center; color:inherit;" |Click "Expand" to activate mirror mode. -->
+|-
+| style="padding: 8px;" |
+
+{{#css:
+body:has(.mw-collapsible-toggle-expanded) {
+ transform: rotateY(180deg);
+}
+}}
+
+<big>'''bǝɿoɿɿiM υʞobυƧ :γoT ƨυnoꓭ'''</big><br>
+
+(ǝɿǝʜ υʞobυƨ llɒɔ ǝw Ɉɒʜw ƨ'ɈɒʜT) ⸮[[Sudoku Mirrored|bǝɿoɿɿiM υʞobυƧ]] ʇo ǝmɒϱ ɒ ɿoʇ ǝɿɒƆ .blɿow ɿoɿɿim ǝʜɈ oɈ ǝmoɔlǝW
+
+;ƨnoiɈɔυɿɈƨni γoT
+#υʞobυƨ Ɉƨυį ƨ'ɈI
+#γɒlq oɈ woʜ wonʞ Ɉ'nob υoγ ʇi qυ ɈɒʜɈ ʞoo⅃
+
+<templatestyles src="Sudoku.css" />
+{|class="wikitable sudoku"
+|-
+|{{Sudoku cell}}
+|{{Sudoku cell}}
+|{{Sudoku cell}}
+|{{Sudoku cell|4}}
+|{{Sudoku cell}}
+|{{Sudoku cell}}
+|{{Sudoku cell}}
+|{{Sudoku cell|5}}
+|{{Sudoku cell}}
+|-
+|{{Sudoku cell}}
+|{{Sudoku cell}}
+|{{Sudoku cell|4}}
+|{{Sudoku cell}}
+|{{Sudoku cell|8}}
+|{{Sudoku cell}}
+|{{Sudoku cell}}
+|{{Sudoku cell|9}}
+|{{Sudoku cell|2}}
+|-
+|{{Sudoku cell}}
+|{{Sudoku cell}}
+|{{Sudoku cell}}
+|{{Sudoku cell|5}}
+|{{Sudoku cell|9}}
+|{{Sudoku cell|1}}
+|{{Sudoku cell}}
+|{{Sudoku cell}}
+|{{Sudoku cell}}
+|-
+|{{Sudoku cell|3}}
+|{{Sudoku cell}}
+|{{Sudoku cell}}
+|{{Sudoku cell|7}}
+|{{Sudoku cell|5}}
+|{{Sudoku cell}}
+|{{Sudoku cell}}
+|{{Sudoku cell}}
+|{{Sudoku cell}}
+|-
+|{{Sudoku cell|7}}
+|{{Sudoku cell}}
+|{{Sudoku cell|5}}
+|{{Sudoku cell|8}}
+|{{Sudoku cell|4}}
+|{{Sudoku cell}}
+|{{Sudoku cell|9}}
+|{{Sudoku cell|3}}
+|{{Sudoku cell|6}}
+|-
+|{{Sudoku cell}}
+|{{Sudoku cell}}
+|{{Sudoku cell|2}}
+|{{Sudoku cell}}
+|{{Sudoku cell}}
+|{{Sudoku cell}}
+|{{Sudoku cell|5}}
+|{{Sudoku cell}}
+|{{Sudoku cell}}
+|-
+|{{Sudoku cell|2}}
+|{{Sudoku cell}}
+|{{Sudoku cell}}
+|{{Sudoku cell}}
+|{{Sudoku cell}}
+|{{Sudoku cell}}
+|{{Sudoku cell|4}}
+|{{Sudoku cell}}
+|{{Sudoku cell}}
+|-
+|{{Sudoku cell}}
+|{{Sudoku cell}}
+|{{Sudoku cell|6}}
+|{{Sudoku cell}}
+|{{Sudoku cell}}
+|{{Sudoku cell}}
+|{{Sudoku cell}}
+|{{Sudoku cell}}
+|{{Sudoku cell}}
+|-
+|{{Sudoku cell|4}}
+|{{Sudoku cell}}
+|{{Sudoku cell}}
+|{{Sudoku cell}}
+|{{Sudoku cell}}
+|{{Sudoku cell}}
+|{{Sudoku cell}}
+|{{Sudoku cell}}
+|{{Sudoku cell}}
+|}
+|}
+
+=== Toy 7: Make Your Own Toy ===
+There are no instructions. Write them yourself.
+
+==Trivia==
+*Edit warring is allowed on this article, despite edit wars being against the [[rules]].
+**I hope we get a page where (being a dick) is allowed.
+
+==See also==
+*[[Challenge 3: Edit War]]
+*This thang [[File:okinberries.png|20x20px]]
+
+==External links==
+https://www.youtube.com/watch?v=dQw4w9WgXcQ
+
+<div style="position: fixed; left:98%; bottom: 2%; z-index: 9000;">[[File:Bloodmoon.png|20px|link=Edit War (Hard Mode)]]</div>
+[[Category:Events]]
+[[Category:Wars]]
+[[Category:World Wars]]
+[[Category:Conflicts in 2022]]
+[[Category:Global conflicts]]
+[[Category:Nuclear warfare]]
+[[Category:Wars involving A Clique of Radical Omnicool Nonchalant Young-ish Members]]
+[[Category:Wars involving AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA]]
+[[Category:Wars involving Anyone Who’s Played Candy Crush Level 87 Understands That the Idea of a Compassionate God Is a Naive One]]
+[[Category:Wars involving BREAKFAST Party]]
+[[Category:Wars involving Checkpoint]]
+[[Category:Wars involving Damn seal]]
+[[Category:Wars involving Epic Evil]]
+[[Category:Wars involving Host]]
+[[Category:Wars involving I like this Team Name]]
+[[Category:Wars involving Low Hangers]]
+[[Category:Wars involving Team 17]]
+[[Category:Wars involving Teem Fair-E Land]]
+[[Category:Wars involving The Mario Party]]
+[[Category:Wars involving The Ostaps]]
+[[Category:Wars involving The Sponsored Segments]]
+[[Category:Wars involving The Ultimate Heist Crew]]
+[[Category:Wars involving Wanted contestants]]
+[[Category:Wars involving \\err:404]]
+[[Category:Pages User:Misch13vous is not allowed to interact with]]
