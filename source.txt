@@ -830,6 +830,7 @@ The Edit War has not yet suffered any fatal [[accident]]s, but it sure is suffer
 ==Discography==
 {| class="wikitable sortable plainrowheaders" style="text-align:center;"
 |+ Name of song, featured performers, writers, originating album, and year released.
+! scope="col"| Title
 ! scope="col"| Song
 ! scope="col"| Artist(s)
 ! scope="col" class="unsortable"| Writer(s)
@@ -837,30 +838,35 @@ The Edit War has not yet suffered any fatal [[accident]]s, but it sure is suffer
 ! scope="col"| Year
 |-
 ! scope="row"| "[[I Have Been So Edited]]"
+|[[File:I Have Been So Edited.mp3]]
 | Edit Wiki
 | Edit Wiki
 | ''[[Edit Wiki (Edit Wiki album)|Edit Wiki]]''
 | 2022
 |-
 ! scope="row"| "[[The Goddess Is Among Us All]]"
+|[[File:TheGoddessIsAmongUsAll.mp3]]
 | Edit Wiki and The Toy
 | Edit Wiki
 | ''[[Edit Wiki (Edit Wiki album)|Edit Wiki]]''
 | 2022
 |-
 ! scope="row"| "[[Edit Wars Are So Fun]]"
+|[DATA LOST]
 | Edit Wiki
 | Edit Wiki and Pibby
 | ''[[Edit Wiki (Edit Wiki album)|Edit Wiki]]''
 | 2022
 |-
 ! scope="row"| "[[Challenged For The Third Time]]"
+|[[File:Challenged For The Third Time.mp3]]
 | Edit Wiki
 | Edit Wiki
 | ''[[Edit Wiki (Edit Wiki album)|Edit Wiki]]''
 | 2022
 |-
 ! scope="row"| "[[Reverted Edits]]"
+|[[File:EditReverted.mp3|frameless]]
 | Edit Wiki
 | Edit Wiki
 | ''[[Edit Wiki (Edit Wiki album)|Edit Wiki]]''
@@ -1393,7 +1399,7 @@ In an [[alternate timeline]], Edit War is known as Edit Peace, where everyone ed
 {{Dia|Beato1|Even more beings here talking... even more players in this strange, strange case...}}
 '''( those two were annoying )> >:<'''
 
-=== Beatrice's Game ===
+=== [[Beatrice]]'s Game ===
 
 <center>This story is undoubtedly nothing more than fantasy. <br>It could not possibly have any relation to real persons, <br>organizations, places or events.</center>
 
@@ -2723,7 +2729,7 @@ While at the time, it seemed like nobody would've even thought of doing it, its 
 
 We all remember a time before everything fell apart. Where rules were customary, where things could not just happen out of the blue, where concepts could not just be destroyed at the whims of a lone rouge. When the Goddess of our world decided to bring the Edit War upon her subjects, waiving divine intervention in favor of seeing the turf go aflame, I knew it had the potential to happen, and I braced. I could not have imagined how bad it would get.
 
-Once the damned were upon us, of course everything went downhill - when you drop the atomic bomb as your first move, people will bring their own horrific warfare. [[Main Page/Page that might crash your computer|<span style="color: #ccccff">Horrors beyond visible comprehension</span>]] were afoot, [[OH DEER GOD|<span style="color: #ccccff">monstrous creations of the underworld</span>]] were abound, [[Category:Pages from another timeline|<span style="color: #ccccff">temporal sidelines</span>]] brought into ours. [[Mark Genuine|<span style="color: #ccccff">Our fellow competitor</span>]], more demon than man, even came back to join the fun, commanding an army of [[The Hogs|<span style="color: #ccccff">wild beasts</span>]]. 
+Once the damned were upon us, of course everything went downhill - when you drop the atomic bomb as your first move, people will bring their own horrific warfare. [[Main Page/Page that might crash your computer|<span style="color: #ccccff">Horrors beyond visible comprehension</span>]] were afoot, [[OH DEER GOD|<span style="color: #ccccff">monstrous creations of the underworld</span>]] were abound, [[Category:Pages from another timeline|<span style="color: #ccccff">temporal sidelines</span>]] brought into ours. [[Mark Genuine|<span style="color: #ccccff">Our fellow competitor</span>]], more demon than man, even came back to join the fun, commanding an army of [[The Hogs|<span style="color: #ccccff">wild beasts</span>]]. It was as if the powers that be were trying to fit every peg they could into the square hole of normal reality.
 
 Nobody's really sure who started everything. As far as we can guess, it was somebody associated with the Four Factions, for sure, but nobody can say the exact entity. ...or at least Host argues a lot if it was the CSS Faction or Faction 4, anyway. But, like, it was totally the Unwilling Participants, right? Somebody just saw that the chaos pieces were there, and decided to do it. It wouldn't make any sense for the CSS Faction to do it, they could bend reality in their own ways, and... ugh. Whatever. It doesn't matter anymore. After everything went to hell the factions very quickly dissolved, anyway.
 
@@ -2752,6 +2758,31 @@ We've managed to carve a little slice of living here, in the nightmare. We can l
 
 
 If you've received this message, then it's worked. Please, listen to me - don't set it off. We all win if nobody sets off the bomb. It will spell the doom of us all.
+
+<ref>https://twitter.com/cakophon/status/1574417149065629699</ref>
+<ref>[[Smobo]] is not on [[This]] team.</ref>
+<ref>[[Smobo]] is dead.</ref>
+<ref>Famous character from [[Danganronpa]].</ref>
+<ref>This danger is endorsed by [[The Mario Party]].</ref>
+<ref>{{Cube|[[File:JUST. SO. EVIL!.jpg|200px|link=Damn seal/Wiki Camp 2 Challenge Crystal]]|[[File:Volcanizedglass.gif|200px]]|[[File:Volcanizedglass.gif|200px]]|[[File:Volcanizedglass.gif|200px]]|[[File:Volcanizedglass.gif|200px]]|[[File:Volcanizedglass.gif|200px]]|200}}</ref>
+<ref>[[Hahaha Okin Salad Toss]]</ref>
+<ref>This seal will die.</ref>
+<ref>https://twitter.com/CHUBSWORLD_/status/1495842889179488257</ref>
+<ref>The phocineflu Vaccine contains lots of [[Poison|poisons]],<br>it will mess you up and slowly [[Death|kill]] you<br><br>search google and [[YouTube|youtube]]<br>for the truth about [[It|it]]</ref>
+<ref>[[Open Sesame]] has since then escaped [[Damn seal]].</ref>
+<ref>He's so cute...</ref>
+<ref>''Dole'' is the brand that sponsored ''[[Super Monkey Ball]]''. Hell makes people go "bananas", hence the allusion to Dole.</ref>
+<ref>Alluding to Tyler the Creator. See [[Song of the day|this article]] for more.</ref>
+<ref>One of my followers (on Twitter). The protagonist and oomf are heavily implied to be mutuals.</ref>
+<ref>Slang originating from [[YouTube Poop]]. Not to be confused with the Among Us usage of the word.</ref>
+<ref>Nerpas have forsaken God's gift of wisdom. Lmfao!</ref>
+<ref>Not yaoi. This yaoi scene has symbolic connotations.</ref>
+<ref>Author was [[Tower of Babel]]'d in the middle of writing this stanza.</ref>
+<ref>Author was [[Elizabeth Tower]]'d in the middle of writing this stanza.</ref>
+<ref>For Glory (''ガチ, Serious'') is an online mode that appears in [[https://www.ssbwiki.com/Super_Smash_Bros._4|''Super Smash Bros. 4'']]. In this mode, all matches are played on Ω form stages, with no items naturally spawning, and with character customization disabled. Among other rulesets, players can select to play two-stock one-on-one matches with a five minute time limit in For Glory.</ref>
+<ref>Allusion to Terraria; specifically, the Guide, who is known for being Terraria's first ever [[Gay]] character.</ref>
+{{Reflist}}
+
 </div></div><br>
 </div>
 
