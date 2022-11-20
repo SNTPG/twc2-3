@@ -302,7 +302,12 @@ File:Zeitgeist_4.png|thumb|center|Due to reasons of the utmost security, <span s
 
 [[File:Arbre.jpg|frameless|center]][[File:Arbre.jpg|frameless|center]][[File:Arbre.jpg|frameless|center]][[File:Arbre.jpg|frameless|center]][[File:Arbre.jpg|frameless|center]][[File:Arbre.jpg|frameless|center]][[File:Arbre.jpg|frameless|center]][[File:Arbre.jpg|frameless|center]][[File:Arbre.jpg|frameless|center]][[File:Arbre.jpg|frameless|center]][[File:Picnic teleport wormhole exit.png|frameless|center]]
 
-<templatestyles src="Picnic.css" /><center><div class="grass">
+
+
+<templatestyles src="Picnic.css" /><div id=picnic style="position:relative">
+<div style="float: right;margin: 0;padding: 0;right: calc(-2em);position: absolute;top: 100%;transform: translateY(-100%)">[[File:Ttcwantstopicnic.png|frameless|170px]]</div>
+<div style="float: right;margin: 0;padding: 0;right: calc(10em);position: absolute;top: 100%;transform: translateY(-100%)">[[File:Greenpancakes2.png|110px]]</div>
+<center><div class="grass">
 Ohemgee hi there!!! :3 We're having a PICNIC come and join us!
 
 <div class="row">
@@ -349,8 +354,16 @@ Ohemgee hi there!!! :3 We're having a PICNIC come and join us!
 Everyone can join the picnic!!!...if they want to, I mean. o3o 
 
 Great view I picked out, right? :D
-</div></center>
+</div></center></div>
+<div id=foresttwo style="position:relative">
+<div id=ttctext style="float: right;margin: 0;padding: 0;right: calc(-1.5em);position: absolute;">
+{| border=1 style="width: 20%; text-align: center; background-color:#000000; color:#00FF00; text-align: left; font-family: Silkscreen1; float: right;"
+|-
+|HI, UH, U GUYZ R DOING A PICNIC HERE?? YOU HAVE WAFFLEZ.. CAN I SIT HERE? I UH, I MEAN UH, I DON'T GO TO PICNICS EVER. LAST TIME I WENT AT A PICNIC I KINDA DESTROYED EVERYTHING-- BUT I WONT DO THAT NOW. YOU DONT HAVE TO BAN ME YOU REALLYL ITS FINE I WANT TO BE HERE ITZ FINE. IVE BEEN BANNED FROM A LOT OF PLACES BEFORE LIKE UH, THE MALL NEAR MY HOUSE, AND NEOPETZ, A FEW TIMES, BUT I JUST WANT WAFFLES!! THEY LOOK GOOD, UH... CAN I SIT NEXT TO YOU DAISY? THE WAFFLES THEYRE UH, URZ, CAN I HAVE SOME? I JUST RAN OUT IN MY FREEZER, BUT UH, I HAVE SOME PANCAKES IF YOU LIKE THOSE.. WE COULD TRADE? ITS OK IF I SIT NEXT TO YOU RITE? I, UH, SAW YOUR PAGE, ITZ RLLY COOL... YOU FIGHT SHADOW MONSTERS RITE? I THINK SHADOW MONSTERS ARE COOL.. UH.. AND MAKE A BLACK HOLE.. I LIKE THOSE.. UHM... CAN I HAVE YOUR DA LINK? OR MAYBE YOU COULD SHOW ME AT THE PICNIC! I USED TO USE DA WHEN I WAS A LITTLE KIT BUT UH.. I GOT BANNED... BUT I WANNA C URZ! PLEASE? RIGHT? YOULL RESPOND RITE? THIS.. THIS WONT ALL GET DELETED, RITE? PLEASE TELL ME IT WON'T I WANT 2 TALK TO YOU. CAN I SIT NEXT TO YOU? BUT IT'S WATEVR IF YOU DONT WANT THAT. WHATEVR WWHATER I DIDNT WNT 2 TAK 2 U THAT MUCH ANYWAYS. RITE. YOU STY HERE WIRH ALL UR FRINDS. ITLL ALL GET DELETED ANTHWAYS ULL NEVR C THIZ. WHTEVER.
+|}
+</div>
 [[File:Arbre.jpg|frameless|center]][[File:Arbre.jpg|frameless|center]][[File:Arbre.jpg|frameless|center]][[File:Arbre.jpg|frameless|center]][[File:Arbre.jpg|frameless|center]][[File:Arbre.jpg|frameless|center]][[File:Arbre.jpg|frameless|center]][[File:Arbre.jpg|frameless|center]][[File:Arbre.jpg|frameless|center]][[File:Arbre.jpg|frameless|center]]
+</div>
 __NOTOC__
 [[File:Damn Sealinator.jpg|frameless|left]]
 BEHOLD!! MY DAMN SEAL-INATOR! WITH THIS DEVICE, I SHALL TRANSCLUDE [[Damn seal|DAMN SEAL]] ONTO THIS PAGE! MEET YOUR [[Death|DEMISE]], [[The Wiki Camp 2|TRI-WIKI AREA]]!!
