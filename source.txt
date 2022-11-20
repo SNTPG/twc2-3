@@ -1,3 +1,5 @@
+<templatestyles src="IExist.css"/>
+
 {{#css:
 #gdpage {
 background: #F8F9FA;
@@ -110,4 +112,147 @@ honestly idk what to do for the challenge.
 <br>wanna take this to the apartment and we'll talk there?
 <br>'''Sure.'''
 </div>
+</div>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<div class=itisme style="text-align:center;">
+
+Alright, Team 17ers! It's time for an edit...
+
+...war?
+
+Huh!
+
+This place seems to be as barren as my grasp on the Homestuck series!
+
+...
+
+I guess it could only mean one thing...
+
+...
+
+...
+
+Some peace and quiet!
+
+Gosh, this place has been ballistic for so long that I cannot even keep track of anything!
+
+I guess while I am at it, I can probably muster up some ideas for...
+
+...*yawn*! But then again... with this kind of atmosphere, I could probably use some shut-eye...
+
+...warfare can come later...
+
+...what could possibly go wrong?
+
+...
+
+...
+
+...
+
+zzzzzzz
+
+[[File:Santo-Johnny-Sleep-walk-Original.mp3]]
+
+[[File:Fictional sleeping.png|250px]]
 </div>
