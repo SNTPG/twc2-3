@@ -1671,4 +1671,889 @@ https://www.youtube.com/watch?v=dQw4w9WgXcQ
 </div>
 |-|Ghost of Edit War Future=
 The future doesn't exist.
+|-|Twitter=
+{{Dia|Luigi|I DON'T GIVE A FUCK ABOUT THESE GHOSTS!!!!!!!!!}}
+{{Dia|Luigi2|RAHHHH!!! DIE!!! DIEEE!!! DIEEEEEEEEEEE!!!!!!!!!!!!!!}}
+{{#css:
+#blink{
+  animation: blinker 5s linear infinite;
+}
+@keyframes blinker {
+  50% {
+    opacity: 0;
+  }
+}
+#flippant:hover #alttext{
+display:block;
+}
+#altoverride{
+display:none;
+}
+#flippant:hover #altoverride{
+display:inline;
+}
+#flippant:hover #ogtext{
+display:none;
+}
+}}
+<templatestyles src="ZEITGEIST.css" />
+==@CHUBSWORLD_==
+O.o what's goin on with this guy's [[Twitter]] account? he seems pretty [[Based]]...let's check his tweets out! <-- [[Emoticon|EMOTICON]] SAID THIS! OMG!
+{{Tweet
+| name = chubs
+| username = CHUBSWORLD_
+| text = bro. my paper niko is SCHNASTY af!!! [[The Wiki Camp 2|#TheWikiCamp2]]<br>[[File:Owned.gif|275px]]
+| date = Nov 12, 2022
+| reference = &nbsp;
+| image = DiaCHUBSWORLD_.jpg
+| width = 300px
+| left = y
+}}
+{{Tweet
+| name = chubs
+| username = CHUBSWORLD_
+| text = wtff 100 likes! anyway stan Loona<ref>https://i.kym-cdn.com/entries/icons/original/000/039/096/A4322493-1023-4857-8480-1E2D48D28722.jpeg</ref>...And look at my pets irl<br>[[File:Nerpamedley.png|275px]]
+| date = Nov 12, 2022
+| reference = &nbsp;
+| image = DiaCHUBSWORLD_.jpg
+| width = 300px
+| left = y
+}}
+{{Tweet
+| name = chubs
+| username = CHUBSWORLD_
+| text = yo this tweet blew up. plugging my [[Damn seal|#Damnseal]] if you care. but also while i have ur attention lets talk about The Wiki Camp 2 and how much i love it. read my Twitlonger here: [[Edit War#The TwitLonger in question:|http://tl.gd/laladoga]]
+| date = Nov 12, 2022
+| reference = &nbsp;
+| image = DiaCHUBSWORLD_.jpg
+| width = 300px
+| left = y
+}}
+
+==The TwitLonger in question:==
+{{Dia|CHUBSWORLD_|Hi. I'm an up and coming Paper Niko main. You're probably here from my banger of a Tweet.}}
+{{Dia|SWLaugh|Not that that narrows it down much! Ohoho! @CHUBSWORLD_ is so awesome and '''We''' think his [[NerpaPunch]] [[Missed the Bowl Award]] should be revoked!<br>'''[Message was edited by @CHUBSWORLD_.]'''}}
+{{Dia|CHUBSWORLD_|Thanks, guys. Anyway, I'm sure you're aware of The Wiki Camp 2's exciting competitive scene. But, what I really want to talk about is the singleplayer content.}}
+{{Dia|CHUBSWORLD_|It's such an underrated gem and I really wish it were brought up more. Did you know they have a Classic Mode now, where every [[:Category:Competitors (official)|character]] has their own route and stuff? Whoa!}}
+{{Dia|CHUBSWORLD_|TAke a look, y'all: [[Edit War#Classic Mode|IMG_4346.jpeg]]}}
+
+==Classic Mode==
+{{Distinguish|Edit War (Hard Mode)}}
+'''Classic Mode''' is a single-player campaign mode in [[The Wiki Camp 2]]. This mode features six rounds of battles featuring pre-determined opponents, stages, and music, followed by a bonus game and a final round that ''usually'' involves a bossfight with [[The Divine Goddess]]. Notably, each character has a unique, titled route that is themed around them. 
+
+Players can adjust the intensity of their routes at the start by use of an interactable mural, which scales from 2.0 to 9.9. From there, the intensity will increase or decrease depending on the player's performance in each round. The higher the intensity, the farther the player will progress into the mural. Although players only have one [[Stock]] to complete Classic Mode, should they [[Die]], they can revive themselves for [[2000 Coins]] (or for [[free]] if they have a [[Wiki Camp 2 Premium]] membership) and continue, albeit with a decreased score and intensity. 
+
+After completing Classic Mode, the [[Credits]] will [[Roll]] and the [[Player]] will be able to play a [[Touhous]] throughout the credits, accompanied by [[Music]]. At the end of this [[Touhous]], they will be given a [[Congratulations Screen]] at the end of said minigame! What fun! The [[Music]] and [[Congratulations Screen]] [[Image]] vary from character to character. 
+
+Below are some of the routes I've played through thus far. My memory is a bit fuzzy just because there's so much packed in each, so there might be some inaccuracies. I've played through all of the [[Damn seal|Damn seal members']] routes (and then some), so I hope that might give you a good preview of just what [[Classic Mode]] is all about.
+
+
+''Classic mode opponents that are non-competitors, i.e. [[Boss|bosses]], will be indicated with an asterisk (*).''
+
+==[[Paper Niko]]: [[Rock]], [[Paper]], [[Scissors]]!==
+[[File:PaperNiko AllStarCongrats.png|thumb|right|300px|Paper Niko's congratulations screen.]]
+True to the route's title, Paper Niko's Classic Mode opponents consist of stone, paper, and blade-related characters, with his evil counterpart Paper Okin appearing at the end of the route. Items, [[Assist Trophy]] summons, and [[Pokémon]] for each round will always correspond to the opponent's elemental weaknesses (ie. on rounds with paper-[[based]] opponents, Poké Balls will only release [[Scizor]] and [[Snivy]]). The route is both a nod to Paper Niko being made out of paper and a reference to [[Rock paper scissors matchup chart|''Rock paper scissors'']], an iconic [[A Fighting Game|Fighting Game]] within many esports circles.
+{| class="wikitable" style="text-align:center"
+!Round
+!Opponent
+!Stage
+!Music
+!Notes
+|-
+|1
+|Giant {{Opponent|Staffa Island}}
+|[[Tortimer Island]]
+|''[[Tortimer Island Medley]]''
+|
+|-
+|2
+|{{Opponent|Perry Llelogram}}, {{Opponent|Sketchy}}, and {{Opponent|Strawberry}}
+|[[PictoChat 2]]
+|''[[Noisy Notebook]]''
+|
+|-
+|3
+|{{Opponent|Push Dagger}}
+|[[New Pork City]]
+|''[[Cut Man Stage]]''
+|Music choice references Push Dagger being a bladed weapon.
+|-
+|4
+|{{Opponent|Tombstone}}
+|[[Dracula|Dracula's Castle]]
+|''[[Lament of Innocence]]''
+|Music choice references [[Niko]] being forced to eat cement when he was [[6]].
+|-
+|5
+|{{Opponent|Creative Commons & Copyright}}, {{Opponent|Diary|}}, and {{Opponent|SummerMelon.docx}}
+|[[Gamer]]
+|''[[PERFORMANCE]]''
+|
+|-
+|6
+|{{Opponent|Teenage Trouble Claws}}
+|[[Frigate Orpheon]]
+|''[[Vs. Meta Ridley]]''
+|
+|-
+|Bonus
+| colspan="2" |[[Damn seal/Dunk him]]
+|{{Cquote|''Tension''|File:Tension.mp3}}
+|This seal will die.
+|-
+|Final
+|{{PaperNikoStockIcon|fileName=PaperOkinStockIcon.png}} [[Paper Niko#Paper Okin-0|Paper Okin]], then {{DivineGoddess|25|25}} [[The Divine Goddess]]
+|[[Damn seal]] (Ω form)
+|{{Cquote|''One Winged Angel''|File:One Winged Angel.mp3}}<small>(Paper Okin)</small>{{Cquote|''Monastery in Disguise''|File:Cursed Abbey.mp3}}
+<small>(The Divine Goddess)</small>
+|If playing as Paper Okin, the first opponent will be {{Opponent|Paper Niko}}. Similarly, when playing as either characters' {{Stock|Paper Niko#Aged_Paper_Niko-0|DiaNiko.png}}{{Stock|Paper Niko#Aged_Paper_Okin-0|DiaOkin1.png}} [[Paper Niko#Aged Paper Niko-0|aged]] [[Paper Niko#Aged Paper Okin-0|forms]], the first opponent will also use their respective aged costume.
+|}
+[[Credits]] roll after completing Classic Mode. Completing it as Paper Niko has ''[[Flipper Flop]]'' accompany the credits.
+
+==[[Dexter Cut]]: The Lost Media Huntdown== 
+[[File:NormalCactus.png|thumb|right|[[File:Dexter cut catchphrase.png|200px]]<br>Dexter Cut's congratulations screen.|link=Cactus|200px]]
+Dexter Cut's opponents consist of characters with a relation to missing or obfuscated information. All rounds are [[Stamina battle|stamina battles]] in which Dexter Cut starts with 150 HP.
+
+Although playable, the route appears to be unfinished; in addition to being the only route that lacks a {{Blink|final opponent}}, many players have pointed out that the bonus round—notorious for its tendency to crash the wiki—is a placeholder carried over from the development of [[The Wiki Camp|The Wiki Camp 1]]. These issues have yet to be fixed as of [[Challenge 3: Edit War|Patch 3.0]].
+{| class="wikitable" style="text-align:center"
+|+
+
+!Round
+!Opponent
+!Stage
+!Music
+!Notes
+|-
+|1
+|[[File:Lost artifact 1.png|25px|link=Lost Artifact]] [[Lost Artifact]]
+|[[Palutena's Temple]]
+|[[Underground Theme (Super Mario Land)|''Underground Theme (Super Mario Land)'']]
+|Lost Artifact has 1 HP and will flee from the player.
+|-
+|2
+|[[File:Brokenicon.png|x25px|link=Terra]] [[Terra]]
+|[[Distant Planet]]
+|''[[Forest of Hope]]''
+|Terra has 100 HP. 
+Stage hazards are off, except for [[rain]]. [[Lip's Stick|Lip's Sticks]] will spawn often, referencing Terra's morning glory.
+|-
+|3
+|Tiny [[File:GenuineMark.png|x25px|link=Mark Genuine]] [[Mark Genuine]]
+|[[King of Fighters Stadium]]
+|''[[Baseball]] [[(Training)]]''
+|Mark Genuine has 100 HP.
+References [[Mark Genuine#Early life|Mark Genuine's early life]]. [[Home Run Bat|Home-Run Bats]] and [[Beast Ball|Beast Balls]] will spawn often.
+|-
+|4
+|[[File:Cellphone.png|x25px|link=Cellphone]] [[Cellphone]]
+|[[Dreamland GB]] (Battlefield Form)
+|''[[Flat Zone]]''
+|References [[Cellphone#History|Cellphone's missing files]].
+|-
+|5
+|[[File:TEOWbutTransparbent?!.png|x25px|link=The Eater of Wikis]] [[The Eater of Wikis]]
+|[[Find Mii]]
+|''[[Vs. Ridley]]''
+|The Eater Of Wikis has 300 HP.  [[File:The wiki machine.png|25px|link=The Wiki Machine]] [[The Wiki Machine]] is a [[CPU]] ally with 100 HP.
+Stage hazards are off.
+|-
+|6
+|[[File:Image Contestant.png|x25px|link=Image]] [[Image]]
+|[[Checkpoint]]
+|{{Cquote|''Stickerbrush Symphony''|File:Stickerbrush Symphony.mp3|className=dexterlala}}
+|Image has 150 HP.
+|-
+|Bonus
+| colspan="2" |[[Test Page]]
+|
+|It is advised to [[Death|self-destruct]] and skip this round, as attempting to complete it can cause the wiki to crash.
+|-
+|Final
+|{{Blink|Giant [[File:055.png|25px|9150625?|link=9150625]] [[9150625]]}}
+|[[Void]] (Ω form)
+|{{Cquote|''Escape Brinstar!''|File:Brinstar (Adventure Mode).mp3|className=055lala}}
+|{{Blink|9150625}} has 300 HP.
+|}
+[[Credits]] roll after completing Classic Mode. Completing it as Dexter Cut has ''[[Blue Birds]]'' accompany the credits.
+
+==[[In a Nutshell]]: Show Yourself!==
+[[File:Goplubaikal c.gif|thumb|right|<br>[[File:Damnfire.gif|150px]]In a Nutshell's dumbfuck congratulations screen.|200px]]
+[[File:Bomba atomica.gif|thumb|right|<br>In a Nutshell's awesome death screen. Hooray! This totally merits a [[:Category:Peace and Love on Planet Earth]]!|150px]]
+[[Category:Peace and Love on Planet Earth]]
+In a Nutshell's opponents are characters who conceal their true identities or appearances. The route...ugh. Do I seriously [[have]] to write about [[this]] character? [[No one]] even plays this guy, and besides, there's way too many [[Fire Emblem]] characters in this camp already. What a [[sorry]] waste of a character slot. Let's hope [[The Divine Goddess|The Devs Find Progress]] in the next camp and add [[Geno]], [[Banjo]], [[Bomberman]], [[Red Circle|Goku]], [[Shadow]], [[Mega Man]], [[Razputin Aquato|Raz]], [[Sora]], [[Animal Crossing Joe Biden|Animal Crossing Joe Biden, but, like, he has a different moveset from]] [[Villager]], [[Crash Bandicoot]], [[Gex]], [[Dash Dingo]], [[The Dud]], [[Thanos]], [[CrystalForce]], [[Team Fortress 2#Scout|Jerma]], [[Jerma|The Scout]], [[Diddy Kong]], [[Son of Dracula]], [[Squirtle]], [[Patrick Star]], [[Ryu|Ryu (from ''Streets'', don't get it twisted)]], [[:Category:Women|more women]], [[Shinji Ikari]], [[Goplu's food bowl]], less [[zoners]], [[Sam]], [[Max]], [[Daft Henry]], [[Blocky]], [[Rocko Rama]], [[Okin Rama]], [[Godzilla]], [[Okin Sesame]], [[Rotating CSS Cube]], [[Niko Cube]], [[Niko]], [[Pibby]], [[Godzilla]], [[Batman]], [[Bruce Wayne]], [[Shaquille O'Neal]], [[Aaron Carter]] (maybe [[Jesse Pinkman|Aaron Paul]], too), [[Abraham Lincoln]], [[Optimus Prime]], [[McGruff|McGruff the Crime Dog]], [[Jackie Chan]], [[Indiana]] [[Jones]], [[Care Bear]], [[Chuck Norris]], and [[Gandalf|Gandalf the Grey]] and [[Gandalf the]] [[White]] and [[Monty Python and the Holy Grail's Black Knight]], and [[Benito Mussolini]], and [[TheBlueMeanie32]] and [[Cowboy Curtis]] and [[Jambi the Genie]], [[RoboCop]], [[Terminator]], [[Captain Kirk]], [[Darth Vader]], [[Lo Pan]], [[Superman]], [[every single Power Ranger]], [[Bill S. Kreston]] and [[Theodore Logan]], [[Spock]], [[The Rock]], [[Doc Ock]], [[Hulk Hogan]], [[Mr. Rogers]], and all the other characters that [[fans]] actually want in the [[roster]].   
+
+And, hey, if we wanna be [[optimistic]], maybe they'll come to their senses once the [[DLC]] for this camp drops! I'm holding out for the [[Fighter's Pass]], baby!  
+{| class="wikitable" style="text-align:center"
+!Round
+!Opponent
+!Stage
+!Music
+!Notes
+|-
+|1
+|[[File:Mugshot.png|25px|link=Mugshot]] [[Mugshot]]
+|[[Town & City|Town and City]]
+|''[[Town Hall and Tom Nook's Store]]''
+|The stage takes place at noon and is set in its [[Town]] phase.
+|-
+|2
+|[[File:Brokenicon.png|x25px|link=Dodgeball]] [[Dodgeball]], [[File:Lost artifact 1.png|25px|link=Lost Artifact]] [[Lost Artifact]], and [[File:Brokenicon.png|x25px|link=Terra]] [[Terra]]
+|[[Garden of Hope]]
+|{{Cquote|''Environmental Noises''|File:Environmental Noises.mp3|'''Certified banger'''. Did you know this song has the same BPM as the [[Space Jam theme song]]?|className=spacejalalaa}}
+|
+|-
+|3
+|[[File:Let Tumes Tari.png|25px|link=Let Tumes Tari]] [[Let Tumes Tari]] and [[File:Mahjong Tile.png|x25px|link=Mahjong Tile]] [[Mahjong Tile]]
+|[[Tomodachi Life]]
+|''[[Monkey]] [[Watch]]''
+|
+|-
+|4
+|[[File:Cauldron.png|25px|link=Cauldron]] [[Cauldron]], [[File:Uufo.png|25px|link=U.U.F.O.]] [[U.U.F.O.]], and [[File:WikiVandalism.png|25px|link=Vandalism on The Wiki Camp 2]] [[Vandalism on The Wiki Camp 2]]
+|[[Fourside]]
+|''[[Fourside (Melee)]]''
+|U.U.F.O is passive and turns invisible periodically. Vandalism on The Wiki Camp 2 will flee from the player. Stage hazards are off.
+|-
+|5
+|[[File:Mugshot EVIL.png|25px|link=Mugshot#Night-0]] [[Mugshot]]
+|[[Town and City]]
+|''[[Go K.K. Rider!]]''
+|The stage takes place at midnight and is set in its [[City]] phase.
+Erm...[[Chekhov|Chekhov's]] Mugshot, much?
+|-
+|6
+|[[File:Brokenicon.png|x25px|link=Gsn1vy]] [[User:Gsn1vy|The Editor]]*
+|[[Editor Logs]]
+|[[Boss Battle Song 2|''Boss Battle (Brawl)'']]
+|[[File:SketchyIcon.png|x25px|link=Sketchy]] [[Sketchy]] is a CPU ally.
+|-
+|Bonus
+| colspan="2" |[[Chicken Game]]
+|{{Cquote|''Tension''|File:Tension.mp3|className=noopalalaalafa}}
+|Replaced by [[Chicken Game (Dark Mode) (Easy Mode)|Chicken Game (Easy Mode)]] at intensities below 2.0
+
+Replaced by [[Chicken Game (Hard Mode)]] at intensities above 8.0.
+
+Replaced by [[Chicken Game (Dark Mode) (Easy Mode) (Damn Mode)|Chicken Game (Damn Mode)]] at intensities of 9.9.
+|-
+|Final
+|[[File:Zeitgeist 3.png|25px|link=ZEITGEIST/Wikipedia]] [[ZEITGEIST/Wikipedia|<span class="wocky">'''[THE ZEITGEIST]'''</span>]], [[File:Zeitgeist 4.png|25px|link=ZEITGEIST/File]] [[ZEITGEIST/File|<span class="wocky">'''[THE ZEITGEIST]'''</span>]], [[File:Zeitgeist 1.png|25px|link=ZEITGEIST/SCP]] [[ZEITGEIST/SCP|<span class="wocky">'''[THE ZEITGEIST]'''</span>]],  [[File:Zeitgeist 2.png|25px|link=ZEITGEIST/Fandom]] [[ZEITGEIST/Fandom|<span class="wocky">'''[THE ZEITGEIST]'''</span>]], [[File:Zeitgeist 5.png|x25px|link=ZEITGEIST/Kevin]] [[ZEITGEIST/Kevin|<span class="wocky">'''[THE ZEITGEIST]'''</span>]], and Giant [[File:Static.gif|x25px|link=ZEITGEIST]] [[ZEITGEIST|<span class="wocky">'''[THE ZEITGEIST]'''</span>]]
+|
+[[Main Page]] (Ω form) <small>(<span class="wocky">'''[THE ZEITGEIST]'''</span>)</small><br>
+[[ZEITGEIST/File]] (Ω form) <small>(<span class="wocky">'''[THE ZEITGEIST]'''</span>)</small><br>
+[[Shadow Moses Island]] (Ω form) <small>(<span class="wocky">'''[THE ZEITGEIST]'''</span>)</small><br>
+[[King of Fighters Stadium]] (Ω form) <small>(<span class="wocky">'''[THE ZEITGEIST]'''</span>)</small><br>
+[[Pictochat 2]] (Ω form) <small>(<span class="wocky">'''[THE ZEITGEIST]'''</span>)</small><br>
+[[Final Destination]] <small>(<span class="wocky">'''[THE ZEITGEIST]'''</span>)</small><br>
+
+|''[https://hardwareoverclock.bandcamp.com/track/vanguard-stage-music-1 Vanguard]'' <small>(<span class="wocky">'''[THE ZEITGEIST]'''</span>)</small><br>
+''[https://hardwareoverclock.bandcamp.com/track/the-vanguardian-boss-1 THE VANGUARDIAN]'' <small>(<span class="wocky">'''[THE ZEITGEIST]'''</span>)</small><br>
+''[https://hardwareoverclock.bandcamp.com/track/rough-and-tumble-stage-music-2 Rough and Tumble]'' <small>(THE ZEITGEIST)</small><br>
+''[https://hardwareoverclock.bandcamp.com/track/tumble-dried-blood-boss-2 Tumble Dried Blood]'' <small>(THE ZEITGEIST)</small><br>
+[https://hardwareoverclock.bandcamp.com/track/from-somewhere-a-transmission-credits ''From Somewhere, A Transmission​.​.​.''] <small>(THE ZEITGEIST)</small><br>
+[https://hardwareoverclock.bandcamp.com/track/forbidden-and-foreboding-ex-boss ''Forbidden and Foreboding''] <small>(THE ZEITGEIST)</small>
+
+|Each opponent is fought individually in the order they are listed. Their corresponding stages and music are also listed in the same order.
+
+[[Stage Morph]] is on, and will come into effect each time an opponent is KO'd.
+|}
+[[Credits]] roll after completing Classic Mode...[[yeah]], [[no]]. I'm [[done]]. [[You]] already know a song's gonna accompany the credits, and given that this is In a Nutshell we're talking about, it's probably gonna be [https://www.youtube.com/playlist?list=PLpjTsX0Tvrwa0GEMd8RcsF4IJPRDceyEU the worst song you've ever heard in your life]. [[Go figure]].
+
+==[[Bean Sprout]]: [[Chartreuse]] Mode==
+[[File:Sproutle.png|right|thumb|200px|{{Dia|TheDeviousSeal32|What the...}}
+<br>Bean Sprout's congratulations screen.]]
+Referencing Sprout's lovely [[chartreuse]], Bean Sprout's route consists of predominantly [[green]] opponents and stages, with [[green]] items, [[Assist Trophy]] summons, and [[Poké|Poké Ball]] [[:Category:Pokémon|Pokémon]] appearing throughout. Of note is the [[Healing Sprout]], which has a higher spawnrate compared to other items. For the penultimate round, Bean Sprout fights [[The Grinch]], a boss character. 
+{| class="wikitable" style="text-align:center"
+!Round
+!Opponent
+!Stage
+!Music
+!Notes
+|-
+|1
+|[[File:MangroveAsset.png|x25px|link=Mangrove]] [[Mangrove]] and [[File:Dexter Cut.png|25px|link=Dexter Cut]] [[Dexter Cut]]
+|[[Green Greens]]
+|''[[Green Greens (Melee)]]''
+|Opponents are plant-related.
+|-
+|2
+|[[File:Font Mini.jpg|25px|link=Font Mini]] [[Font Mini]], [[File:Multiball.png|25px|link=Multiball]] [[Multiball]], and [[File:Paper sleaslug.png|x25px|link=Paper Niko#Paper Sleaslug-0]] [[Paper Niko#Paper Sleaslug-0|Paper Sleaslug]]
+|[[Hanenbow]]
+|''[[Electroplankton (Remix)]]''
+|Opponents are     [[IDK|Creatures]].
+|-
+|3
+|[[File:ASC Body.png|x25px|link=Atlanta Souviner Cup]] [[Atlanta Souviner Cup]], [[File:CandyStick2.png|25px|link=Candy Stick]] [[Candy Stick]], [[File:Sweetnsoury.png|x25px|link=McDonald's Sweet n' Sour Sauce]] [[McDonald's Sweet n' Sour Sauce]]
+|[[Dream Land GB|Dream Land]] [https://battlefordreamisland.fandom.com/wiki/Golf_Ball GB]
+|{{Cquote|''Mask (Nightcore Ver.)''|File:Dream - Mask (Official Music Video).mp3|OK, well, this file isn't actually the [[nightcore]] version. Just pretend it is, alright?|className=beansproutlala}}
+|Opponents are food-related. [[Assist Trophy|Assist Trophies]] will spawn {{Cquote|Orson||{{Dia|Orson|This [[Nightcore|nightcore]] remix is quite the banger! Why couldn't the [[Hexstallia Original Sound Track]] sound like this?}}|className=orsonlaladoga}} often.
+|-
+|4
+|[[File:123.png|x25px|link=123 Referee]] [[123 Referee]], [[File:Lettuce trudeau.png|x25px|link=Head of Lettuce]] [[Head of Lettuce]], and [[File:GoSignAngry.png|x25px|link=Go Sign]] [[Go Sign]]
+|[[Green Hill Zone]] (Battlefield form)
+|''[[Green Hill Zone]]''
+|[[Free-for-all]] battle.
+|-
+|5
+|[[File:Open sesame.png|x25px|link=Open Sesame]] [[Open Sesame]]
+|[[Host Green]]
+|{{Cquote|''The Scrybe of Magicks''|File:The Scrybe of Magicks.mp3|className=wahgia}}
+|[[Assist Trophy|Assist Trophies]] will spawn [[TheHexFan32]] and [[InscryptionFan23]] often.
+|-
+|6
+|[[File:GrinchStock.webp|x25px|link=The Grinch]] [[The Grinch]]*
+|[[Whovill|Whoville]]
+|''[[You're A Mean One, Mr. Grinch]]''
+|[[File:TEOWbutTransparbent?!.png|x25px|link=The Eater of Wikis]] [[The Eater of Wikis]] is a CPU ally.
+|-
+|Bonus
+| colspan="2" |[[Squid Games!!|Red Light, Green Light]]
+|{{Cquote|''Red Light, Green Light''|File:Red Light Green Light.mp3|className=lalabeansprouttteat}}
+|''Not to be confused with [[Splatoon]].''
+|-
+|Final
+|[[Chartreuse|Chartreused]] {{DivineGoddess|25|25}} [[The Divine Goddess]]*
+|[[Chartreuse]] (Ω form)
+|[[Chartreuse|''Chartreuse'']]
+|
+|}
+Credits roll after completing Classic Mode. Completing it as Bean Sprout has ''[[Chartreuse the Seal]]'' accompany the credits.
+
+==[[123 Referee]]: Face and Heel==
+[[File:AllBosses.png|right|thumb|350px|123 Referee's congratulations screen.]]
+True to its wrestling-themed title, 123 Referee's route features opponents who are foils to each other. All rounds consist of stamina battles set on the [[Boxing Ring]] stage, with standard rounds being free-for-alls in which 123 Referee and her opponents start with 100 HP and 200 HP respectively. Unusually, her opponents will not attempt to attack her until after the other has been KO'd. 
+
+As a nod to her real name, [[Banana Peels]] (and very rarely [[Banana Guns]]) are the only items besides [[Smash Ball|Smash Balls]] that spawn in 123 Referee's route.
+{| class="wikitable" style="text-align:center"
+!Round
+!Opponent
+!Stage
+!Music
+!Notes
+|-
+|1
+|[[File:The wiki machine.png|25px|link=The Wiki Machine]] [[The Wiki Machine]] and [[File:TEOWbutTransparbent?!.png|x25px|link=The Eater of Wikis]] [[The Eater of Wikis]]
+|[[Boxing Ring]]
+|''[[Minor Circuit (Remix)]]''
+|
+|-
+|2
+|[[File:Mahjong Tile.png|x25px|link=Mahjong Tile]] [[Mahjong Tile]] and [[File:Dora.png|x25px|link=Dora]] [[Dora]]
+|[[Boxing Ring]]
+|[[Minor Circuit (Remix)|''World Circuit Theme'']]
+|Dora is just...so...CRINGY!!! My bets are on Mahjong Tile. Gooooo!
+|-
+|3
+|[[File:Perry.png|x25px|link=Perry Llelogram]] [[Perry Llelogram]] and [[File:Counter-Perry.png|x25px|link=Perry Llelogram#The Counterpart]] [[Perry Llelogram#The Counterpart|Counter-Perry]]
+|[[Boxing Ring]]
+|''[[PictoChat]]''
+|Music choice references how both opponents are [[doodles]].
+|-
+|4
+|[[File:Vote 4 daisy.png|25px|link=Daisy]] [[Daisy]] and [[File:Teenage2.png|x25px|link=Teenage Trouble Claws]] [[Teenage Trouble Claws]]
+|[[Boxing Ring]]
+|''[[Vega Stage]]''
+|Music choice references how both opponents wield [[claws]].
+|-
+|5
+|{{PaperNikoStockIcon}} [[Paper Niko]] and {{PaperNikoStockIcon|fileName=PaperOkinStockIcon.png}} [[Paper Niko#Paper Okin-0|Paper Okin]]
+|[[Boxing Ring]]
+|''[[Marine Stadium, Japan]]''
+|Music choice references the opponents' home franchise, ''[[Toba Aquarium]]''.
+|-
+|6
+|[[File:Cakepop!!!render.jpg|x25px|link=Cake pop!!!!!!!!!!!!!]] [[Cake pop!!!!!!!!!!!!!]] and [[File:Evilcakepoprender.png|x25px|link=EVIL Cake Pop¡¡¡¡¡]] [[EVIL Cake Pop¡¡¡¡¡]]
+|[[Boxing Ring]]
+|''[[Fight On!]]''
+|
+|-
+|Bonus
+| colspan="2" |[[Break The Targets]]
+|{{Cquote|''Break The Targets''|File:Break The Targets.mp3|className=targeetet}}
+|
+|-
+|Final
+|{{DivineGoddess|25|25}} [[The Divine Goddess]]
+|[[Boxing Ring]] (Ω form)
+|''[[Battle! Elite Four/Solgaleo and]] [[User:LUNA|Luna]][[Nerpa|ladoga]]''
+|123 Referee has 200 HP.
+The previous rounds' winning opponents return as CPU allies with 50 HP.
+|}
+Credits roll after completing Classic Mode. Completing it as 123 Referee has ''[[POO Pro Wrestling Theme Song]]'' accompany the credits.
+
+==[[Font Mini]]: Uses and Applications of Font Mini==
+[[File:Babyphoto.jpg|thumb|right|200px|[[File:The_Toy_Where_You_Put_The_Shape_In_The_Corresponding_Hole.jpg|200px|link=The Toy Where You Put The Shape In The Corresponding Hole]]<br>Font Mini's congratulations screen.]]
+Font Mini's route explores the many ways you can incorporate a [[Font Mini]] into your everyday life. If you want to learn more, keep reading—Round 6 will shock you! I've got a Font Mini in my house. Why don't ''you''?
+{| class="wikitable" style="text-align:center"
+!Round
+!Opponent
+!Stage
+!Music
+!Notes
+|-
+|1
+|[[File:T Series Car 5134.png|25px|link=T Series Car 5134]] [[T Series Car 5134]] and [[File:Big Boy.jpg|25px|link=Big Boy]] [[Big Boy]]
+|[[Moray Towers]]
+|''[[Ink or Sink]]''
+|[[File:WikiVandalism.png|25px|link=Vandalism on The Wiki Camp 2]] [[Vandalism on The Wiki Camp 2]] is a CPU ally.
+Font Mini can be used for [[Painting]]!
+|-
+|2
+|[[File:Lost artifact 1.png|25px|link=Lost Artifact]] [[Lost Artifact]]
+|[[Castle Siege]]
+|''[[Temple]]''
+|[[File:PadlockFIXED.png|25px|link=Padlock]] [[Padlock]] is a CPU ally. Stage hazards are off. 
+
+Stage is set in its throne room phase.
+
+Font Mini can be used for [[Robbery|Stealing]]!
+|-
+|3
+|[[File:Mugshot.png|25px|link=Mugshot]] [[Mugshot]]
+|[[Some Starbucks in Los Angeles, California]]
+|[[Fever|''Personal Trainer: Cooking'']]
+|[[File:ASC Body.png|x25px|link=Atlanta Souviner Cup]] [[Atlanta Souviner Cup]] is a CPU ally.
+
+Font Mini can be used for [[Ordering a Drink from Starbucks]]!
+|-
+|4
+|Ignited {{Loop|3|[[File:CandyStick2.png|25px|link=Candy Stick]]}} [[Candy Stick]] (x3)
+|[[Fourside]]
+|''[[Devil's Call in Your Heart]]''
+|Font Mini can be used for {{Cquote|Taking a Smoke Break(s)!|{{Dia|Ponsuke|Googoogaga! [[Ponsuke]] love [[Malboro Reds]]!}}|'''The twin Ponsukes. A most trifling sight. Beware...''' [[File:Doubleboogers.png|100px|link=Double Cherry]]|className=aaaaaaaaaaaaaaaaaaaaaa}}
+|-
+|5
+|[[File:Emoticons Puck 1881.png|x25px|link=Emoticon]][[File:Emoticons Puck 1881.png|x25px|link=Emoticon]] [[Emoticon]] (x8)
+|[[Pictochat 2]]
+|''[[Ice Cream Island]]''
+|Horde battle. {{Blink|[[File:055.png|25px|9150625?|link=9150625]] [[9150625]]}}, [[File:Brokenicon.png|x25px|link=Terra]] [[Terra]], and [[File:Static.gif|x25px|link=ZEITGEIST]] [[ZEITGEIST|<span class="wocky">'''[THE ZEITGEIST]'''</span>]] are CPU allies. Stage hazards are off.
+
+''[[Font Mini#Personality|"This is a lady who is not easily read."]]'' 
+
+Font Mini can be used for [[Just Absolutely Fucking Your Text Up. Jesus Christ|Just <span class="wocky">'''[ABSOLUTELY]'''</span> Fucking {{Blink|Your}} Text Up. █████ Christ]]!
+|-
+|6
+|Giant [[File:Toasty.png|25px|link=Toasty]] [[Toasty|Me]]
+|[[Some Panera Bread in Los Angeles, California]]
+|''[[Personal Trainer: Cooking]]''
+|Tiny [[File:SCREENSHOT071209-5890275 MAGAZINE.png|25px|link=In a Nutshell]] [[In a Nutshell]] and Tiny [[File:64B45A84-69E7-49A0-8F31-1427FD39F6F6.jpeg|25px|link=Slime]] [[Slime]] are CPU allies.
+
+Font Mini can be used for [[Ordering a Breads from Panera Bread Also, So That She May Make a Peanut Butter and Jelly Sandwich]]!
+|-
+|Bonus
+| colspan="2" |[[Break the Bacteria]]
+|{{Cquote|''Break The Targets''|File:Break The Targets.mp3|className=targeet22et}}
+|It's [[Break The Targets]]. The target textures were just replaced with bacteria [[.jpegs.]]
+
+Font Mini can be used for [[Destroying Harmful Bacteria]]!
+|-
+|Final
+|{{DivineGoddess|25|25}} [[The Divine Goddess]]
+|[[Ancient Tomb]] (Ω form)
+|''[[The Divine Goddess (song)|The Divine Goddess]]''
+|Font Mini can be used for [[Killing God|Usurping Higher Powers]]!
+|}
+Credits roll after completing Classic Mode. Completing it as Font Mini has ''[[New Friendly]]'' accompany the credits.
+
+==[[Vandalism on The Wiki Camp 2]]: The Tag of Vandalism on The Wiki Camp 2==
+[[File:CORRECTSIZEGRAFFITI..png|thumb|right|[[File:WikiVandalism.png|150px]]<br>'''"I did that! [[File:JoeBidenAnimalCrossing.png|25px]]"'''<br><br>Vandalism on The Wiki Camp 2's congratulations screen.|150px]]
+Vandalism on The Wiki Camp 2's route follows Vandalism on The Wiki Camp 2 as they commit increasingly heinous acts of vandalism to various characters. This culminates in the final round, where these characters collectively return to fight them. With a whopping 11 opponents in the final round, Vandalism on The Wiki Camp 2's Classic Mode route is notorious for being among the hardest in the camp. 
+
+This route has been a subject of [[urban legend]] on [[YouTube]] for quite some time. Many players claim that in some copies of The Wiki Camp 2, Vandalism on The Wiki Camp 2's tag becomes progressively warped and evil-looking the further they [[advance]] into the [[route]]. Whether this is a bug or an intentional feature, players posit that Vandalism on The Wiki Camp 2's actual appearance is unaffected by this phenomenon.
+{| class="wikitable" style="text-align:center"
+!Round
+!Opponent
+!Stage
+!Music
+!Notes
+|-
+|1
+|[[File:EmoticonIcon.png|25px|link=Emoticon]] [[Emoticon]], [[File:The wiki machine.png|25px|link=The Wiki Machine]] [[The Wiki Machine]], [[File:Image.png|25px|link=SswtUPtyOLI]] [[SswtUPtyOLI]],
+|[[Main Page]]
+|''[[Menu - Brain Age 2: More Training in Minutes a Day!]]''
+|
+|-
+|3
+|[[File:Diaryasset front.png|x25px|link=Diary]] [[Diary]]
+|[[Gamer]]
+|{{Cquote|''Around The World''|File:Metal Head.mp3|why does the end of this song sound like [[Around The World]] its so [[uncanny]]|className=daft}}
+|[[File:CrAIyon NEW!.png|x25px|link=CrAIyon]] [[CrAIyon]] is a CPU ally. Stage hazards are off.
+|-
+|2
+|[[File:GoSignAngry.png|x25px|link=Go Sign]] [[Go Sign]], [[File:TrafficRegulator.jpg|x25px|link=Traffic Regulator]] [[Traffic Regulator]], and [[File:T Series Car 5134.png|25px|link=T Series Car 5134]] [[T Series Car 5134]]
+|[[New Donk City]]
+|''[[New Donk City]]''
+|
+|-
+|4
+|[[File:Drapeau-Flag NewStyle 2K22.png|x25px|link=Flag]] [[Flag]]
+|[[Town and City]]
+|''[[Plaza/Title Theme (City Folk/Wild World)]]''
+|Incendiary items, such as [[Fire Flower|Fire Flowers]], will spawn often.
+|-
+|5
+|[[File:Mona Lisa.png|x25px|link=Painting]] [[Painting|The ''Mona Lisa'']]*
+|[[The Louvre]]
+|''[https://youtu.be/JTEFKFiXSx4 4'33"]''
+|The security guards threatened to kick us out if we played actual battle music for this round
+|-
+|6
+|[[File:Twobroshanginout.png|25px|link=Tombstone]] [[Tombstone]] and Ghost [[File:Hewasnumberone.png|x25px|link=Number 1 Pen]] [[Number 1 Pen]]
+|[[Spear Pillar]]
+|''[[Main Theme - Luigi's Mansion (Brawl)]]''
+|Stage hazards are off.
+''<small>Are you [[really]] going to defile this [[grave]] for [[money]]? Of [[course]] you are!</small>''
+|-
+|Bonus
+| colspan="2" |[[Break the Targets]]
+|{{Cquote|''Break The Targets''|File:Break The Targets.mp3|className=tarfhdgeetet}}
+|
+|-
+|Final
+|Vandalized [[File:EmoticonIcon.png|25px|link=Emoticon]] [[Emoticon]], Vandalized [[File:The wiki machine.png|25px|link=The Wiki Machine]] [[The Wiki Machine]], Vandalized [[File:Image.png|25px|link=SswtUPtyOLI]] [[SswtUPtyOLI|SswtUPtyOLI,]] Vandalized [[File:Diaryasset front.png|x25px|link=Diary]] [[Diary]], Vandalized [[File:GoSignAngry.png|x25px|link=Go Sign]] [[Go Sign]], Vandalized [[File:TrafficRegulator.jpg|x25px|link=Traffic Regulator]] [[Traffic Regulator]], Vandalized [[File:T Series Car 5134.png|25px|link=T Series Car 5134]] [[T Series Car 5134]], Vandalized [[File:Drapeau-Flag NewStyle 2K22.png|x25px|link=Flag]] [[Flag]], Pissed Off Because You Vandalized The Thing They Were Gonna Steal [[File:MangroveAsset.png|x25px|link=Mangrove]] [[Mangrove]], Vandalized [[File:Twobroshanginout.png|25px|link=Tombstone]] [[Tombstone]], and Vengeful Ghost [[File:Hewasnumberone.png|x25px|link=Number 1 Pen]] [[Number 1 Pen]]
+|[[Final Destination]]
+|''[[Metal Battle]]''
+|Horde battle.
+|}
+Credits roll after completing Classic Mode. Completing it as Vandalism on The Wiki Camp 2 has ''[[Audio File That, When Put Into a Visualizer, Reveals a Spectrogram of Vandalism on The Wiki Camp 2's Tag]]'' accompany the credits.
+
+==[[Lost Artifact]]: Lost Artifact, Invader of Europe==
+[[File:Elizabeth10.png|thumb|right|350px|Lost Artifact's congratulations screen.]]
+Each round in Lost Artifact's route is themed after countries in [[Europe]]. Starting with [[Italy]], the route eventually makes its way to [[Britain]], where [[Queen Elizabeth II]] is fought as the final boss. Defeating Queen Elizabeth II is assumed to represent Lost Artifact taking the crown and later becoming the route's namesake. <small>But, at what cost? Was it really worth it?</small>
+{| class="wikitable" style="text-align:center"
+!Round
+!Opponent
+!Stage
+!Music
+!Notes
+|-
+|1
+|[[File:2022 08 30 0p3 Kleki.png|25px|link=Little Caesar's Pizza]] [[Little Caesars Pizza]], [[File:Votetheman.png|25px|link=THE BIG CHEESE]] [[THE BIG CHEESE]], and [[File:TahmahtohWikiCamp.png|25px|link=Tahmahtoh]] [[Tahmahtoh]]
+|[[Mushroom Kingdom]]
+|{{Cquote|''Ground Theme - Super Mario Bros.''|File:MarioOverworld.mp3|Banger alert! Waaah! <br> erm...hi [[Wario]]...what're you doing here|className=marioemgssee}}
+|Assist trophies will summon [[Chris Pratt]] often.
+Reference to [[Italy]].
+|-
+|2
+|[[File:Diaryasset front.png|x25px|link=Diary]] [[Diary]], [[File:Drapeau-Flag NewStyle 2K22.png|x25px|link=Flag]] [[Flag]], {{Opponent|Kumon}}, [[File:Push Dagger asset.png|x25px|link=Push Dagger]] [[Push Dagger]]
+|[[Prism Tower]]
+|''[[Lumiose City]]''
+|Assist trophies will summon [[Daft Punk]] often.
+Reference to [[France]].
+|-
+|3
+|{{Loop|2|[[File:CandyStick2.png|25px|link=Candy Stick]]}} [[Candy Stick]] (x2) and [[File:WC trans.png|25px|link=Witch's Cauldron]] [[Witch's Cauldron]]
+|[[Green Greens]]
+|''[[Butter Building (Wii U/3DS)]]''
+|Reference to ''Hansel & Gretel'', a [[German]] fairy tale.
+|-
+|4
+|[[File:Duplo.png|25px|link=Duplo]] [[File:Duplo.png|25px|link=Duplo]] [[File:Duplo.png|25px|link=Duplo]] [[File:Duplo.png|25px|link=Duplo]] [[File:Duplo.png|25px|link=Duplo]] [[File:Duplo.png|25px|link=Duplo]] [[File:Duplo.png|25px|link=Duplo]] Fighting [[Duplo]] Team (x7)
+|[[Living Room]]
+|''[[Bein' Friends]]''
+|Horde battle. 
+Reference to LEGO, a [[Danish]] toy.
+|-
+|5
+|[[File:Rolly.png|x25px|link=Rolly]] [[Rolly]] and [[File:Biscuit Tin asset.png|25px|link=Biscuit Tin]] [[Biscuit Tin]]
+|[[IKEA Warehouse]]
+|''[[Night of Fate]]''
+|Assist trophies will summon [[Bow]] from ''[[Inanimate Insanity]]'' often.
+Reference to [[Sweden]].
+|-
+|6
+|[[File:Staffa island.png|25px|link=Staffa Island]] [[Staffa Island]]
+|[[Wuhu Island]]
+|''[[Afternoon on the Island]]''
+|Stage is set in its [[Ocean Rocks]] phase.
+Reference to [[Britain]].
+|-
+|Bonus
+| colspan="2" |<choose uncached=""><option>Lost Artifact's Universal Gravitation</option><option>Lost Artifact's Fun Pak</option><option>Lost Artifact: Let's Go to the City</option></choose>
+|{{Cquote|''...''||{{Dia|HungrySeal900|Oh. My. [[Friday Night Fun King|Freaking]]. God. That song was soooo [[delicious]]! Sorry, [[pal]]—I [[already]] ate [[It|it]]! [[Gulped]] it up in one [[big bite]]! Better [[luck]] next [[time]]!}}|className=agjknajkngjkg}}
+|Aw, [[shit]]! Lost Artifact's gone off the [[deep end]]! Now we have to play the [[PAL]] version of their [[bonus game]]!
+|-
+|Final
+|[[File:Pinnibeth.png|x25px|link=Queen Elizabeth II]] [[Queen Elizabeth II]]*
+|[[Buckingham Palace]]
+|''[[Brinstar Depths (Melee)]]''
+|Also a reference to [[Britain]].
+|}
+Credits roll after completing Classic Mode. Completing it as Lost Artifact has ''[[Ruler of Everything]]'' accompany the credits.
+
+==[[Bullseye]]: I'm More of a Bullseye Person, Really...==
+[[File:Bullseye Official Render.png|thumb|right|{{Loop|5|[[File:MeleeTarget.png|40px]]}}[[File:Lego skeleton.png|75px]][[File:Tastygood.jpg|50px]][[File:Uncanny8.png|50px]]<br>Bullseye's congratulations screen.|220px]]
+Except for the final round, all of Bullseye's opponents are cat characters. Assist Trophies will exclusively summon dog-themed characters, including [[Nintendogs]], [[Chain Chomp|Chain Chomps]], and [[:File:Cakepop.webp|Not Cake Pop]], while items such as [[Bone|Bones]] have an increased spawnrate. The songs that play during Rounds 2-5 are also related to dogs. As the title suggests, the route is an ironic nod to Bullseye being the roster's [[Token Dog Character]].
+
+Huh. She really is the only dog character here...
+
+...
+
+songoku... we gotta save this [[dog gone]] earth.
+{{Dia|Goku|saven ablar español??}}
+no time for dat [[goku]]..
+
+{| class="wikitable" style="text-align:center"
+!Round
+!Opponent
+!Stage
+!Music
+!Notes
+|-
+|1
+|[[File:Vote 4 daisy.png|25px|link=Daisy]] [[Daisy]]
+|[[Yoshi's Island]]
+|''[[Yoshi's Island (Brawl)]]''
+|Stage uses its [[Spring]] variant.
+|-
+|2
+|{{Opponent|Kiny}}
+|[[Living Room]]
+|''[[Bathtime Theme (Vocal Mix)]]''
+|
+|-
+|3
+|{{Opponent|Jurta}}
+|[[Onett]]
+|''[[Okinesque of a Little Dog]]''
+|
+|-
+|4
+|[[File:Twimblesit.png|x25px|link=Twimble]] [[Twimble]]
+|[[WarioWare, Inc.]]
+|''[[Duck Hunt Medley]]''
+|
+|-
+|5
+|[[File:Teenage2.png|x25px|link=Teenage Trouble Claws]] [[Teenage Trouble Claws]]
+|[[Host|Mid]][[Midgar|gar]]
+|''[[Star Wolf (Brawl)]]''
+|Stage is set in its [[Index.php?title=Combo Cannon|Combo Cannon Deck]] phase.
+|-
+|6
+|[[File:Plushold.png|25px|link=Bot the mew]] [[Bot the mew]]
+|[[Spear Pillar]]
+|''[[Poké Floats]]''
+|Stage hazards are off.
+|-
+|Bonus
+| colspan="2" |[[Break the Targets|Break the Yargets]]
+|[[Break the Yargets|''Break the Yargets'']]
+|Sponsored by [[Yarget Corporation]]!
+|-
+|Final
+|[[File:Thismightbebroken.png|25px|link=Schrödinger's cat]] [[Schrödinger's cat]]*
+|[[This Dog Gone Earth]]. (Ω form)
+|{{Cquote|''Dead or Alive''||[[File:SchrodingersStfu.jpg|250px]]}}
+|[[File:DiaGoku.png|25px|link=Bot the mew]] [[Goku]] is a CPU ally.
+|}
+Credits roll after completing Classic Mode. Completing it as Bullseye has ''[[The Radio Song from Portal]]'' accompany the credits.
+
+==[[Candy Stick]]: Sweet Tooth==
+[[File:Fruit gushers.jpg|thumb|right|200px|'''DOES [[Fruit gusher]] DESERVE DEATH?'''<br>{{Loop|4|[[File:CandyStick2.png|50px]]}}<br>'''"Yes they do! Yes they do!"'''<br><br>Candy Stick's congratulation's screen.]]
+Candy Stick's route consist entirely of opponents themed after sweet foods. Fittingly, a handful of the characters encountered on this route are on the team [[Anyone Who’s Played Candy Crush Level 87 Understands That the Idea of a Compassionate God Is a Naive One]].
+{| class="wikitable" style="text-align:center"
+!Round
+!Opponent
+!Stage
+!Music
+!Notes
+|-
+|1
+|Tiny Slimed {{Loop|12|{{Stock|Bean Sprout}}}}Fighting [[Bean Sprout]] Team (x12)
+|[[Rainbow Cruise]]
+|''[[Slide (Melee)]]''
+|Horde battle.
+Reference to [[Jellybeans]]! Mmm!
+|-
+|2
+|Giant Chartreused {{Opponent|Slime}}
+|[[Magicant]]
+|''[[Personal Trainer: Cooking]]''
+|[[Gelatin]]
+|-
+|3
+|Toasted {{Opponent|Lost Artifact}}
+|[[Pac-Land]]
+|[[Now or Never!|''Now or Never! (but, like, the horrible remix of it from Smash Ultimate)'']]
+|{{Stock|Toasty}} [[Toasty|I]] am a CPU ally.
+Lost Artifact will flee from the player. Due to the stage having walkoff blastzones, this may result in them accidentally self-destructing.
+
+''[[Walk cycles|Run, run,]] as fast as you can—you can't catch me, I'm the gingerbread man!'' [[File:Lost artifact run.gif|30px]]
+|-
+|4
+|{{Opponent|McDonald's Sweet n' Sour Sauce}}
+|[[Smashville]]
+|''[[K.K. Bubblegum]]''
+|McDonald's Sweet n' Sour Sauce will not use attacks involving the sour part of their sauce.
+|-
+|5
+|{{Loop|4|{{Stock|Strawberry}}}}Fighting [[Strawberry]] Team (x4)
+|[[PictoChat 2]]
+|''[[Fruit Basket]]''
+|Horde battle. Stage hazards are off.
+|-
+|6
+|{{Opponent|Cake pop!!!!!!!!!!!!!}} and {{Opponent|EVIL Cake Pop¡¡¡¡¡}}
+|[[Dream Land]]
+|{{Cquote|''Gourmet Race (64)''|File:Gourmet Race (64).mp3}}
+|Free-for-all.
+|-
+|Bonus
+| colspan="2" |[[Candy Crush Level 86]]
+|[[Candy Crush BGM#3|''Candy Crush BGM #3'']]
+|"Wow, this level sure is easy," you brag, blissfully unaware of the horrors that await the next level. How an innocent soul can exist in such a cruel world is beyond me. I'm jealous, really. Maybe you're better off like this.
+|-
+|Final
+|{{Opponent|Witch's Cauldron}}, then {{DivineGoddess|25|25}}
+[[The Divine Goddess]]*
+|[[Fountain of Dreams]] (Ω form)
+|{{Cquote|''...''||{{Dia|HungrySeal900|Mmm! Just...so...DELICIOUS!!! The [[200 bpm amen break sample]] is quite strong and tangy in this one!}}<br>'''We should [[Explosion|kill]] this fucking guy.'''|className=agjknffajkngjkg}}
+|
+|}
+Credits roll after completing Classic Mode. Completing it as Candy Stick has— {{Dia|TheDeviousSeal32|...[[music]] accompany the credits?}}
+{{Dia|TheDeviousSeal32_Smirk|Well, I'll be the judge of that.}}
+God damnit. Uuuugh. I don't even remember what the song was, so just imagine yourself a decadent little tune.
+{{Dia|Niko2|...has ''[[Baby Neepa Sensory Videos Compilation #5]]'' accompany the credits!}}
+Sure. Okay. FIne.
+
+==[[Dora]]: Trigger Happy Havoc==
+As a reference to their [[Cringe|Cringiness]], Dora's route is themed around [[Danganronpa]], their favorite game ever! Each opponent is a characterryw4rhugsh{IT#*($%#RUFE (*u89eu9h8998J9WEJ8E9JYWWWWWWWWWWWWW22222222222222222
+{| class="wikitable" style="text-align:center"
+!Round
+!Opponent
+!Stage
+!Music
+!Notes
+|-
+|1
+|{{Opponent|Mark Genuine}}
+|[[King of Fighters Stadium]]
+|''[[Baseball]] [[(Training)]]''
+|Inked [[Daisy]] is a CPU ally. [[Beast Ball|Beast Balls]] will spawn often.
+|-
+|2
+|[[Mugshot]]
+|[[Port Town Aero Dive]]
+|''[[Butter Building (Brawl)]]''
+|Inked [[
+Stage is set in its last phase.
+|-
+|3
+|[[Witch's Cauldron]]
+|[[Arena Ferox]]
+|''[[Power Hungry Fool]]''
+|Inked [[Big Boy]] and Inked [[Head of Lettuce]] are CPU allies.
+Incendiary items, such as [[Fire Flower|Fire Flowers]], will spawn often. 
+
+Assist trophies will summon [[Kapp'n]] often.
+|-
+|5
+|[[Atlanta Souviner Cup]], [[Diary]], and [[Pentagon]]
+|
+|
+|Inked [[Nurse Cap]] and Crying shamed [[Font Mini]] are CPU allies.
+|-
+|4
+|[[Monitor]]
+|[[Halberd]]
+|
+|Stage is set in its [[Index.php?title=Combo Cannon|Combo Cannon]] phase.
+|-
+|6
+|
+|
+|
+|
+|-
+|Bonus
+| colspan="2" |
+|
+|
+|-
+|Final
+|[[File:Zeitgeist 3.png|25px|link=ZEITGEIST/Wikipedia]] [[ZEITGEIST/Wikipedia|<span class="wocky">'''[THE ZEITGEIST]'''</span>]], [[File:Zeitgeist 4.png|25px|link=ZEITGEIST/File]] [[ZEITGEIST/File|<span class="wocky">'''[THE ZEITGEIST]'''</span>]], [[File:Zeitgeist 1.png|25px|link=ZEITGEIST/SCP]] [[ZEITGEIST/SCP|<span class="wocky">'''[THE ZEITGEIST]'''</span>]],  [[File:Zeitgeist 2.png|25px|link=ZEITGEIST/Fandom]] [[ZEITGEIST/Fandom|<span class="wocky">'''[THE ZEITGEIST]'''</span>]], and [[File:Zeitgeist 5.png|x25px|link=ZEITGEIST/Kevin]] [[ZEITGEIST/Kevin|<span class="wocky">'''[THE ZEITGEIST]'''</span>]]
+|
+|Danganornpa theme song
+|
+|}
+I Am Not Finishing This Section Bruh If I Have To Think About Danganronpa For Any Longer I Might Actually '''[[Die]]''' Or Something Fuck
+
+==[[Gamer]]: My Life Is Like A Videogame Trying Hard To Beat The Stage All While I Am Still Collecting Coins==
+[[File:Smash.png|right|thumb|300px|[[File:Soup.png|150px]]{{Loop|10|[[File:Gamerpose.png|50px]]}}<br>Gamer's congratulations screen.]]
+All rounds in Gamer's Classic Mode route reference various videogames, both retro and contemporary. Tough luck for casual gamers and non-gamers—these references are quite the obscure handful! Gamer or not, this route's notorious difficulty is something everybody can agree on, as almost every round involves battles with multiple characters.
+{| class="wikitable" style="text-align:center"
+!Round
+!Opponent
+!Stage
+!Music
+!Notes
+|-
+|1
+|{{Loop|7|[[File:Gamerpose.png|x25px|link=Gamer]]}} [[Gamer]] (x7)
+|[[Gamer]]
+|''[[Gamer]]''
+|Reference to ''[[Game & Wario]]''.
+Free-for-all.
+
+Whoaaa! So many [[Gamer|Gamers]]! This will be [[EVO 2023|EVO in 2023]]!
+|-
+|2
+|[[File:Copper pepper asset.png|25px|link=Copper Pepper]] [[Copper Pepper]], [[File:MangroveAsset.png|x25px|link=Mangrove]] [[Mangrove]], and Chartreused [[File:64B45A84-69E7-49A0-8F31-1427FD39F6F6.jpeg|25px|link=Slime]] [[Slime]]
+|[[Minecraft World]]
+|''[[Index.php?title=Halland/Dalarna|Halland/Dalarna]]''
+|Reference to ''[[Minecraft]].''
+Stage uses its Plains variant. Assist Trophies will summon [[Dream]] often.
+|-
+|3
+|[[File:Kiny's pose.png|25px|link=Kiny]] [[Kiny]], [[File:SunnyHeadTWC2.png|25px|link=Sunny]] [[Sunny]], and [[File:TahmahtohWikiCamp.png|25px|link=Tahmahtoh]] [[Tahmahtoh]]<br>
+|[[Windy Hill Zone]]
+|{{Cquote|''Sonic Heroes''|File:Sonic Heroes.mp3|className=Soniclalalaa}}
+|Reference to ''[[Sonic Heroes]]...<small>Sonic Heroes...</small>''
+|-
+|4
+|[[File:The Joker.png|25px|link=The Joker]] [[The Joker]]
+|[[Mementos]]
+|{{Cquote|''Last Surprise''|File:Last Surprise.mp3|Hooooly shit. This is a super [[deep cut]]! I didn't know the Wiki Camp 2 developers were so [[based]]!|className=persona55555}}
+|Reference to ''[[Persona 5]]''.
+|-
+|5
+|{{Loop|7|[[File:Toy blocks.png|25px|link=Toy Blocks]]}} Fighting [[Toy Blocks]] Team (x7)
+|[[Living Room]]
+|[[Tetris: Type B|''Tetris: Type A'']]
+|Reference to ''[[Tetris]]''. 
+Horde battle.
+|-
+|6
+|[[File:NurseAsset.png|25px|link=Nurse Cap]] [[Nurse Cap]]
+|[[Suzaku Castle]] (Ω form)
+|[[Chun-Li Stage Type B|''Chun-Li Stage Type A'']]
+|Reference to ''[[Street Fighter]]''.
+|-
+|Bonus
+| colspan="2" |[[Every Single Videogame Ever]]
+|[[Every Single Videogame Music Ever]]
+|Reference to [[videogames]].
+|-
+|Final
+|{{PaperNikoStockIcon}} [[Paper Niko]] and [[File:Summermelondotdoc.png|x25px|link=SummerMelon.docx]] [[SummerMelon.docx]], then {{DivineGoddess|25|25}} [[The Divine Goddess]]* and {{IrreverentNonbeliever}} [[The Irreverent Nonbeliever]]*
+|[[Final Destination]]
+|''[[Multi-Man Melee 2]]'' <small>(Paper Niko and SummerMelon.docx)</small>
+''[[Final Destination (Melee)]]'' <small>(The Divine Goddess and The Irreverent Nonbeliever)</small>
+|Reference to ''[[Super Smash Bros. Melee]].''
+|}
+Credits roll after completing Classic Mode. Completing it as Gamer has {{Cquote|''Ground Theme - Super Mario Bros.''|File:MarioOverworld.mp3|Damn. This song is what separates the [[ancient]] gamers from the [[new-age]] gamers...If [[You|you]] know, [[You|you]] know. I can tell the developers definitely did their homework making this route!|className=marioemee}} accompany the credits.
+
+Sorry to break format. I just couldn't help but emphasize [[Ground Theme - Super Mario Bros.]], y'know? If there's one thing I love more than [[File:Sssssssss.png|x25px|link=Bowser]] [[Male|'''men''']], it's a good reference. <small>Yeah, okay. I'll see myself out and file this under [[:Category:Gay]].</small>
+[[Category:Gay]]
+
+==THE END==
+{{Dia|CHUBSWORLD_|Thanks for listening. Don't forget to subscribe and follow @CHUBSWORLD_ on T-}}
+{{Dia|Okin2|Maaaan, shut the hell up!}}
+{{Dia|Niko2|Yeah! You should [[Die]]!}}
+{{Dia|Okin3|Boooo! Get off the stage!}}
+{{Dia|Niko|You fell off!}}
+{{Dia|CHUBSWORLD_|}}
+
+<references />
 </tabber>
