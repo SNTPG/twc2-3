@@ -867,6 +867,54 @@ The Edit War has not yet suffered any fatal [[accident]]s, but it sure is suffer
 | 2022
 |}
 
+==Daisy's Picnic Spot==
+
+<templatestyles src="Picnic.css" /><center><div class="grass">
+Ohemgee hi there!!! :3 We're having a PICNIC come and join us!
+
+<div class="row">
+<div class="col">
+[[File:DaisyWaffles.png]]
+</div>
+<div class="col">
+{| class="wikitable"
+|-
+|
+|
+|
+|
+|
+|-
+|
+|[[File:Waffleicious.png|100px|frameless]]
+|
+|
+|
+|-
+|
+|
+|
+|
+|
+|-
+|
+|
+|
+|
+|
+|-
+|
+|
+|
+|
+|
+|}
+</div>
+</div>
+Everyone can join the picnic!!!...if they want to, I mean. o3o 
+
+Great view I picked out, right? :D
+</div></center>
 ==Bowser's Castle==
 [[File:Super-mario-world-castle.gif]]
 
