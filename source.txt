@@ -684,7 +684,7 @@ Actually, is that even remotely a Fortnite dance?
 ⣶⣿⣿⠀⠀⠀⠀⣿⣿⣿
 ⠛⣿⣿⣀⠀⠀⠀⣿⣿⣿⣿⣶⣀
 ⠀⣿⣿⠉⠀⠀⠀⠉⠉⠉⠛⠛⠿⣿⣶
-⠀⠀⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣿
+   ⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣿
 ⠀⠀⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠉⠉
 ⣀⣶⣿⠛
 
@@ -1781,9 +1781,23 @@ xxxd:'.                         .;cllooolllc;;c,......',:ccc:,.                .
 {{Dia|Heisenburgy|This is the worst day of my life.}}
 ==The Mug Broke Bad==
 {{Dia|Heisenburgy|Ouch! My hand!}}
+{{Dia|ry|GROWL!! GROWL!! GROWL!!}}
+{{Dia|Heisenburgy|WHAT}}
 |-|Twitter=
 {{Dia|Luigi|I DON'T GIVE A FUCK ABOUT THESE GHOSTS!!!!!!!!!}}
 {{Dia|Luigi2|RAHHHH!!! DIE!!! DIEEE!!! DIEEEEEEEEEEE!!!!!!!!!!!!!!}}
+
+{{Dia|KingBoo|...kyehahahahaha!!! Oh, how silly.}}
+{{Dia|KingBoo|This Luigi fool won't know what hit him!}}
+{{Dia|KingBoo|GET EM, BOYS!!}}
+
+[[File:Ghost.gif]][[File:Ghost.gif]][[File:Ghost.gif]][[File:Ghost.gif]][[File:Ghost.gif]]<br><span style="font-size: 40px;">OOOOOOOOOOOOOO</span><br>
+[[File:Ghost.gif]][[File:Ghost.gif]][[File:Ghost.gif]][[File:Ghost.gif]][[File:Ghost.gif]]<br><span style="font-size: 40px;">OOOOOOOOOOOOOO</span><br>
+[[File:Ghost.gif]][[File:Ghost.gif]][[File:Ghost.gif]][[File:Ghost.gif]][[File:Ghost.gif]]<br><span style="font-size: 40px;">OOOOOOOOOOOOOO</span><br>
+[[File:Ghost.gif]][[File:Ghost.gif]][[File:Ghost.gif]][[File:Ghost.gif]][[File:Ghost.gif]]<br><span style="font-size: 40px;">OOOOOOOOOOOOOO</span><br>
+[[File:Ghost.gif]][[File:Ghost.gif]][[File:Ghost.gif]][[File:Ghost.gif]][[File:Ghost.gif]]<br><span style="font-size: 40px;">OOOOOOOOOOOOOO</span><br>
+[[File:Ghost.gif]][[File:Ghost.gif]][[File:Ghost.gif]][[File:Ghost.gif]][[File:Ghost.gif]]<br><span style="font-size: 40px;">OOOOOOOOOOOOOO</span><br>
+
 {{#css:
 #blink{
   animation: blinker 5s linear infinite;
@@ -2068,6 +2082,12 @@ Replaced by [[Chicken Game (Dark Mode) (Easy Mode) (Damn Mode)|Chicken Game (Dam
 [[Stage Morph]] is on, and will come into effect each time an opponent is KO'd.
 |}
 [[Credits]] roll after completing Classic Mode...[[yeah]], [[no]]. I'm [[done]]. [[You]] already know a song's gonna accompany the credits, and given that this is In a Nutshell we're talking about, it's probably gonna be [https://www.youtube.com/playlist?list=PLpjTsX0Tvrwa0GEMd8RcsF4IJPRDceyEU the worst song you've ever heard in your life]. [[Go figure]].
+
+{{Dia|KingBoo|Oh, you thought I was just up there? SIKE!!}}
+
+
+[[File:Ghost.gif]][[File:Ghost.gif]][[File:Ghost.gif]][[File:Ghost.gif]][[File:Ghost.gif]]<br><span style="font-size: 40px;">OOOOOOOOOOOOOO</span><br>
+[[File:Ghost.gif]][[File:Ghost.gif]][[File:Ghost.gif]][[File:Ghost.gif]][[File:Ghost.gif]]<br><span style="font-size: 40px;">OOOOO</span><br>
 
 ==[[Bean Sprout]]: [[Chartreuse]] Mode==
 [[File:Sproutle.png|right|thumb|200px|{{Dia|TheDeviousSeal32|What the...}}
@@ -2664,20 +2684,91 @@ Sorry to break format. I just couldn't help but emphasize [[Ground Theme - Super
 {{Dia|Okin3|Boooo! Get off the stage!}}
 {{Dia|Niko|You fell off!}}
 {{Dia|CHUBSWORLD_|}}
-
+[[File:Ghost.gif]][[File:Ghost.gif]][[File:Ghost.gif]][[File:Ghost.gif]][[File:Ghost.gif]]<br><span style="font-size: 80px;">O</span><br>
 <references />
 
-|-|Ghost of Edit War Future=
+|-|Ghost of Edit War Bad Future=
 [[File:Palmtree Panic Bad Future - Sonic the Hedgehog CD OST.mp3]]
-The future doesn't {{Blink|exist.}}
-<div style="background:linear-gradient(-180deg, #242b36 5%, #353457 26%, #475469 60%, #6d809e 79%, #8da5cc 99%);">
-==Bowser's Castle==
-[[File:Castleafter.png]]
-==The Aftermath==
-<gallery>
-File:Obliterated.png|It's all over...
-</gallery>
+{{#css: 
+#special{
+width: 80%; 
+margin: auto;
+border: 7px solid #444444;
+border-radius: 10px;
+padding: 5px;
+background-image: linear-gradient(to top, #08080f 0%, #08080f 36%, #2c3a43 35%, #08080f 50%, #08080f 100%); 
+background-size: 400% 400%; 
+animation: Top 13s infinite linear;
+color: #ffffff;
+text-shadow: -1px 0 0 #444, 1px 0 0 #444, 0 -1px 0 #444, 0 1px 0 #444, -1px -1px 0 #444, 1px -1px 0 #444, -1px 1px 0 #444, 1px 1px 0 #444;
+}
+#special2{
+background-image: repeating-linear-gradient(rgba(0,0,0,0), rgba(0,0,0,0) .25%, rgba(255,255,255,.1) .5%);
+}
+@keyframes Top {
+0% {background-position: 0 100%;} 
+100% {background-position: 0 0;}
+}
+}}
+<div style="background-color: #000000><br>
+<div style="" id=special><div style="" id=special2>For those that can hear me, please heed my warning. What I have to say is of dire consequence.
 
+The current year is unimportant to the story that must be told. I'd be surprised if anybody could even remember it at this point. What is important, however, is what has happened since your present, and how that changed the tides of the Edit War forever.
+
+The damned were brought upon us. 
+
+While at the time, it seemed like nobody would've even thought of doing it, its existence in our world cause a chain reaction that destroyed our infrastructure as we know it. The skies soon turned hellish shades of red and brown, the reek of gasoline placed itself over anything as far as you could comprehend, and the dead and damned were risen to roam the world we inhabit. The world once clean as a slate, white as marble, was reduced to the Coliseum washed in blood. CityWhereWikiCamp2TakesPlace City was reduced to piles of metal and concrete. The chaosbringers, those that mold and control our world like clay, had finally done it - they had made it so that there was truly no way to escape hell but to die.
+
+<center>[[File:EditWarToba.png]]</center>
+
+We all remember a time before everything fell apart. Where rules were customary, where things could not just happen out of the blue, where concepts could not just be destroyed at the whims of a lone rouge. When the Goddess of our world decided to bring the Edit War upon her subjects, waiving divine intervention in favor of seeing the turf go aflame, I knew it had the potential to happen, and I braced. I could not have imagined how bad it would get.
+
+Once the damned were upon us, of course everything went downhill - when you drop the atomic bomb as your first move, people will bring their own horrific warfare. [[Main Page/Page that might crash your computer|<span style="color: #ccccff">Horrors beyond visible comprehension</span>]] were afoot, [[OH DEER GOD|<span style="color: #ccccff">monstrous creations of the underworld</span>]] were abound, [[Category:Pages from another timeline|<span style="color: #ccccff">temporal sidelines</span>]] brought into ours. [[Mark Genuine|<span style="color: #ccccff">Our fellow competitor</span>]], more demon than man, even came back to join the fun, commanding an army of [[The Hogs|<span style="color: #ccccff">wild beasts</span>]]. 
+
+Nobody's really sure who started everything. As far as we can guess, it was somebody associated with the Four Factions, for sure, but nobody can say the exact entity. ...or at least Host argues a lot if it was the CSS Faction or Faction 4, anyway. But, like, it was totally the Unwilling Participants, right? Somebody just saw that the chaos pieces were there, and decided to do it. It wouldn't make any sense for the CSS Faction to do it, they could bend reality in their own ways, and... ugh. Whatever. It doesn't matter anymore. After everything went to hell the factions very quickly dissolved, anyway.
+
+<center>[[File:EditWarScavenge.png]]</center>
+
+At some point, the concept of us being on "teams" in a competition-based sense was disbanded. It would've happened even if the competition was ongoing, I think. It was a fight for survival, now, not a fight for some nebulous definition of clout. We had to scramble and scavenge if any of us wanted to survive.
+
+It was better for some of us to just go with the groupings that we already had. [[The Ultimate Heist Crew|<span style="color: #ccccff">The Ultimate Heist Crew</span>]], for example, have become pretty good scavengers, even turned their base of operations into a bomb shelter of sorts. Some of the tinies decided to bond together, numbers is better of course, but some decided to go their own path. On the other hand, [[\\err:404|<span style="color: #ccccff">The Bad and the Ugly</span>]] broke apart almost immediately from each other. Considering how much The Wiki Machine went mad dealing with them, it's unsurprising. Every single member from [[BREAKFAST Party|<span style="color: #ccccff">the BREAKFAST Party</span>]] and [[Teem Fair-E Land|<span style="color: #ccccff">Teem Fair-E Land</span>]] ripped each other limb from limb.
+
+<center>[[File:EditWarGroupShot.png]]</center>
+
+Host ended up sticking together after the disbandment of the Four Factions - ironic, considering our unusual circumstances of team creation.
+
+Those of us in Host did suffer a loss, however - the disappearance of Diary. None of us are sure if she's a goner or just went missing. Not even our {{Blink|eyes in the skies}} (by which I mean U.U.F.O. and Smobo, of course) can find her. Some of us can remember the last time we saw her, some of us can't - my personal theory is that after the yard sale she just went mad. Either way you slice it, the loss of a leader figure who created a section of Host is a big problem, and something we've had to figure out as a group.
+
+<center>[[File:EditWarCrater.png]]</center>
+
+The competitors that are alive come here as a pilgrimage. Some of us call it the Impact site, some call it the Gateway, some call it the Transclusion. I call it the beginning of the end.
+
+<center>[[File:EditWarSign.png]]</center>
+
+For something so disastrous, it really is quite easy, isn't it? Just as the atomic bomb to its basic components is a chain reaction of particles slamming into each other, or how a gun is just a collection of gunpowder being set off all at once. Four brackets and a colon. That's all you need.
+
+We've managed to carve a little slice of living here, in the nightmare. We can live, sure - but we all know that it could be so, so much better.
+
+
+
+If you've received this message, then it's worked. Please, listen to me - don't set it off. We all win if nobody sets off the bomb. It will spell the doom of us all.
+</div></div><br>
+</div>
+
+[[Category:Pages from another timeline]]
+
+|-|Ghost of Edit War Good Future=
+[[File:Palmtree Panic Good Future (JP) - Sonic the Hedgehog CD OST.mp3]]
+<div style="background-image: linear-gradient(#e40303 0%, #ff8c00 20%, #ffed00 40%, #008026 60%, #004dff 80%, #750787 100%);">
+[[File:Confetti.gif]][[File:Confetti.gif]][[File:Confetti.gif]]
+[[File:EditWarGoodFuture.png]]
+
+seal wasnt used as a pipe bomb
+
+ALSO this guys name is jeremy he has no relation to anybody on the Wiki camp hes just a little guy who wears a hat and is very fun and silly and he won!!!!! and YOU DID too
+
+[[File:Confetti.gif]][[File:Confetti.gif]][[File:Confetti.gif]]
+</div>
 |-|Ghost of Edit War Smobo=
 </br>
 [[File:Dolphin Shoals.mp3]]
@@ -2688,9 +2779,21 @@ File:Obliterated.png|It's all over...
 {{IRC message|??:??:??|Smobo|{{Smobo Cube}}|color=#8875E1}}
 {{IRC message|??:??:??|Smobo|Is That Cool Or What|color=#8875E1}}
 {{IRC message|??:??:??|Smobo|Hahaha|color=#8875E1}}
+{{IRC message|??:??:??|nerpaseymour|yeah thats pretty cool the seal|color=#a6a383}}
+{{IRC message|??:??:??|nerpaseymour|anyway look at this thang [[File:okinberries.png|link=Nerpy Scuba|20x20px]]|color=#a6a383}}
+{{IRC message|??:??:??|Smobo|Ok I Will Look At It|color=#8875E1}}
+{{IRC message|??:??:??|Smobo|Wait|color=#8875E1}}
+{{IRC message|??:??:??|Smobo|Who Are You Again|color=#8875E1}}
+{{IRC message|??:??:??|nerpaseymour|idk the seal|color=#a6a383}}
+{{IRC message|??:??:??|Smobo|Ok|color=#8875E1}}
+{{IRC message|??:??:??|SYSTEM|nerpaseymour left the chat.}}
+{{IRC message|??:??:??|Smobo|Bye|color=#8875E1}}
 </table></div>
 [[Category:Pages containing a rotating css cube]]
 [[Category:Smobo]]
 [[Category:Pages that are having fun in the Summer]]
 
+|-|Ghost of A=
+
+a {{:Screams of the damne 
 </tabber>
