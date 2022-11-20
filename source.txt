@@ -22,7 +22,7 @@ background: white;
 An [[Edit War]] is when two users or groups of users on a wiki disruptively overwrite each other's edits, usually due to having conflicting views on how the article should be presented. A [[LiSt|list]] of notable edit wars can be found on [[Wikipedia]]’s [https://en.wikipedia.org/wiki/Wikipedia:Lamest_edit_wars Lamest edit wars].
 
 ==History==
-The Edit War began during [[Challenge 3: Edit War|Challenge 3]]. On November 11, 2022, [[The Divine Goddess]] told the contestants to violently kill this poor article{{Citation needed}}. It is unknown why She wanted the page to suffer such a gruesome fate.
+The Edit War began during [[Challenge 3: Ed<small>i</small>t War|Challenge 3]]. On November 11, 2022, [[The Divine Goddess]] told the contestants to violently <small>kill</small> this poor article{{Citation needed}}. It is unknown why She want<small>ed</small> <small>the</small> page to suffer such a grueso<small>m</small>e fate.
 
 ==Early life==
 
@@ -275,7 +275,7 @@ Jerry Workdon
 #This bomb in particular is a very dangerous weapon. If you go into the source editor and surround the below string with <nowiki>{{curly brackets}}</nowiki> the entire page will blow up.
 ##You win if nobody sets off the bomb.
 
-<span style="color:#ff0055;">>:? <( <nowiki>{{curly brackets}}</nowiki> )</span>:Damn seal<span style="color:#ff0055;">( <nowiki>{{curly brackets}}</nowiki> )> ?:<</span>
+<nowiki>{{curly brackets}} <span style="color:#ff0055;">>:? <(  )</span>:Damn seal<span style="color:#ff0055;">(  )> ?:<</span> </nowiki>
 
 <span style="color:#ff0055;">@@ <( that didn't work )
 
@@ -448,7 +448,7 @@ https://www.youtube.com/watch?v=dQw4w9WgXcQ
 <span style="color:#ff0055;"> ^U^ <( that was fun!! )
 |-|Ghost of Edit War Present=
 [[File:Palmtree Panic - Sonic the Hedgehog CD OST.mp3]]
-I am the ghost of [[e]]<nowiki/>dit war present. Now have a look at what the page has become:
+<small>I</small> am the ghost of [[e]]<nowiki/>dit war present. Now have a look at what the page has become:
 
 <span style="color:#ff0055;">[I thought you wanted to make a proper edit, not just play with toys.]
 
