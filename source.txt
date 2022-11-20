@@ -2629,4 +2629,20 @@ The future doesn't {{Blink|exist.}}
 <gallery>
 File:Obliterated.png|It's all over...
 </gallery>
+
+|-|Ghost of Edit War Smobo=
+</br>
+[[File:Dolphin Shoals.mp3]]
+</br>
+<templatestyles src="IRC.css"/><div class=box><table class=table>
+{{IRC message|??:??:??|Smobo|Hi|color=#8875E1}}
+{{IRC message|??:??:??|Smobo|Check Out Smobo Combo|color=#8875E1}}
+{{IRC message|??:??:??|Smobo|{{Smobo Cube}}|color=#8875E1}}
+{{IRC message|??:??:??|Smobo|Is That Cool Or What|color=#8875E1}}
+{{IRC message|??:??:??|Smobo|Hahaha|color=#8875E1}}
+</table></div>
+[[Category:Pages containing a rotating css cube]]
+[[Category:Smobo]]
+[[Category:Pages that are having fun in the Summer]]
+
 </tabber>
