@@ -1,3 +1,13 @@
+<span style="color:#ff0055;">[Alright, I think I undid the seal's edit.]</span>
+
+<span style="color:#ff0055;">>:O <( hey, someone stole my idea!!! )</span>
+
+<span style="color:#ff0055;">[It was my idea for how to implement it.]</span>
+
+<span style="color:#ff0055;">( are you sure me typing here only counts as one edit? )> <<;</span>
+
+<span style="color:#ff0055;">[It should, as long as we do it in the preview.]</span>
+
 <tabber>Ghost of Edit War Past=
 [[I]] am the [[ghost]] of edit war past. Have a look at how the page used to look.
 
@@ -43,10 +53,16 @@ Toy instructions:
 #Below should be a template for a joke you’d find on the [[Statler and Waldorf]] page.
 #Fill in the blank Dia templates with your own dialogue.
 
-{{Dia|Statler|}}
-{{Dia|Waldorf|}}
-{{Dia|Statler|}}
-{{Dia|SWLaugh|}}
+{{Dia|Statler|( hi guys, i'm waldorf! )> :D}}
+{{Dia|Waldorf|owo <( and i'm statler! )}}
+{{Dia|Statler|( today we're reviewing the toys that diary found. )> :>}}
+{{Dia|SWLaugh|uwu <( we hope you'll enjoy them! )}}
+
+<span style="color:#ff0055;">^^ <( omg dialog boxes are so fun!! )
+
+<span style="color:#ff0055;">[I gotta look into how the dia template supports coloured text]
+
+<span style="color:#ff0055;">( the end of the colour thing sorta looks like a face... )> ;">
 
 === Toy 2: Ninety-player tic tac toe ===
 Toy instructions:
@@ -57,7 +73,7 @@ Toy instructions:
 {| class="wikitable" style="text-align:center"
 !colspan="10"|THE GRID
 |-
-|
+|<span style="color:#ff0055;">?:?
 |
 |
 |
@@ -202,7 +218,9 @@ Toy instructions:
 #This bomb in particular is a very dangerous weapon. If you go into the source editor and surround the below string with <nowiki>{{curly brackets}}</nowiki> the entire page will blow up.
 ##You win if nobody sets off the bomb.
 
-:Damn seal
+<span style="color:#ff0055;">>:? <( <nowiki>{{curly brackets}}</nowiki> )</span>:Damn seal<span style="color:#ff0055;">( <nowiki>{{curly brackets}}</nowiki> )> ?:<</span>
+
+<span style="color:#ff0055;">@@ <( that didn't work )
 
 === Toy 6: Magic mirror ===
 Toy instructions;
@@ -368,18 +386,25 @@ https://www.youtube.com/watch?v=dQw4w9WgXcQ
 [[Category:Wars involving Wanted contestants]]
 [[Category:Wars involving \\err:404]]
 [[Category:Pages User:Misch13vous is not allowed to interact with]]
+[[Category:( pages i exist in )7 :D]]
+
+<span style="color:#ff0055;"> ^U^ <( that was fun!! )
 |-|Ghost of Edit War Present=
 I am the ghost of [[e]]<nowiki/>dit war present. Now have a look at what the page has become:
 
+<span style="color:#ff0055;">[I thought you wanted to make a proper edit, not just play with toys.]
 
+<span style="color:#ff0055;">:U <( i can do both )
 
 <div style="background:linear-gradient(-135deg, #ffb959 5%, #ff731f 26%, #fa1f23 60%, #ae1f59 79%, #7f1f7c 99%);">
 {{#css:.mw-parser-output{color:black;}}{{GoddessGradient}}{{DISPLAYTITLE:<span style="font-family:Verdana;font-weight:bold;color:#ffffff;">The Divine Goddess</span>}}
 {{Stub}}
-<center>[[File:The Good, The Bad, and The Ugly.gif|thumb|Everyone waiting for the edits]]</center>
+<center>[[File:The Good, The Bad, and The Ugly.gif|thumb|Everyone waiting for the edits<br><span style="color:#ff0055;">|:|]]</center>
 
 [[File:Editexample.png|thumb|An example of what an edit war may look like.]]
 An [[Edit War]] is when two or more users on a wiki disruptively overwrite each other's edits, usually due to having conflicting views on how the article should be presented or through prevention of [[Vandalism on The Wiki Camp 2|vandalism]]. An Edit War can be started on one's own terms through second thoughts. A [[LiSt|list]] of notable edit wars can be found on [[Wikipedia]]'s [https://en.wikipedia.org/wiki/Wikipedia:Lamest_edit_wars Lamest edit wars].
+
+<span style="color:#ff0055;"> <nowiki>:</nowiki>O <( so like this doesn't count as an edit war right. cause each person only edits it once )
 
 Another [[notable]] example of an Edit War was the [https://en.wikipedia.org/wiki/Wikipedia:Great_Edit_War Great Edit War], which was [[centered]] around the [[national origin]] of the [[Caesar salad]] between [[2|two]] [[faction]]s.
 
@@ -387,6 +412,10 @@ Fake Edit Wars are known to exist, but we don't talk about those here.{{Citation
 
 <center>{{Dia|Beato2|Haah... I'm acquainted with all sorts of human affairs but this seems particularly frivolous...}}</center>
 <center>{{Dia|Beato4|And for my assistance to be requested here of all places feels like an unamusing joke.}}</center>
+
+'''( WHO??? )> @@'''
+
+'''[I'm gonna drop the colour thing here and replace it with bold text, it looks bad on the background.]'''
 
 ==History==
 The Edit War began during [[Challenge 3: Edit War|Challenge 3]]. On November 11, 2022, [[The Divine Goddess]] told the contestants to violently kill this poor article.{{Citation needed}} It is unknown why She wanted the page to suffer such a gruesome fate, but many suspect that it is due to an ongoing conflict.
@@ -397,6 +426,7 @@ The Edit War began during [[Challenge 3: Edit War|Challenge 3]]. On November 11,
 The Edit War was a [[fun challenge]] where everyone [[Died Horribly|died horribly]] due to excessive [[edits]]. But it was okay, because everyone lived.{{citation needed}} This benefits [[society]], in a way at least.<ref>Society itself! Take it away, society! Society: God I am doing so much better with the benefit of Edit Wars.</ref>
 
 <center>{{Dia|Beato9|That is ridiculous... Unless a fellow witch already inhabits this board?}}</center>
+<center>'''( yeah!!! i know I didn't die, at least)> >:T'''</center>
 <center>{{Dia|Beato4|That wouldn't be why I was called upon, would it...?}}</center>
 
 ==Early life==
@@ -423,7 +453,7 @@ The Edit War was a [[fun challenge]] where everyone [[Died Horribly|died horribl
 | width = 300px
 | left = y
 }}
-The Edit War was such a [[sweet summer child]], having been raised by [[Lesbian|two mothers]]. Really though, The Edit War emerged from [[Homestuck|a direct asteroid collision with Earth]], and was then adopted by the awesome mothers. [[The Divine Goddess]] took note of this, not for any other reason but because it was so perfect for a challenge that She couldn't miss this one [[opportunity]]. (And thanks to the [[shareholders]].)
+The Edit War was such a [[sweet summer child]], having been raised by [[Yuri|two mothers]]. Really though, The Edit War emerged from [[Homestuck|a direct asteroid collision with Earth]], and was then adopted by the awesome mothers. [[The Divine Goddess]] took note of this, not for any other reason but because it was so perfect for a challenge that She couldn't miss this one [[opportunity]]. (And thanks to the [[shareholders]].)
 
 The Edit War was so so sad! Why would The Divine Goddess wish such [[cruelty]] among one page??? It was so. So. SO uncalled for. Just like [[Sealon Musk]]'s purchase of [[Twitter]]. [[Twitter's Doomsday Clock|You know how that's going on.]]
 
@@ -432,6 +462,8 @@ The Edit War TRIED to at least get some [[NOTICE TO CEASE AND DESIST|class actio
 Today when I walked into my [[economics class]] I saw something I dread every time I close my eyes. Someone had brought their new [[gaming laptop]] to class. The [[Forklift]] he used to bring it was still running [[idle]] at the back. I started [[sweating]] as I sat down and gazed over at the [[700lb beast]] that was his [[laptop]]. He had already reinforced his desk with [[steel support beams]] and was in the process of finding an [[outlet]] for a [[power cable]] thicker than [[Amy Schumer]]'s thigh. I start shaking. I keep telling myself I'm going to be alright and that there's [[nothing]] to worry about. He somehow finds [[a fucking outlet]]. [[Tears]] are running down my [[cheeks]] as I send my last [[text]]s to my family saying I love them. The [[teacher]] starts the [[lecture]], and the student turns his laptop on. The colored lights on his [[RGB Backlit keyboard]] flare to life like a [[nuclear flash]], and a [[deep humming]] fills my ears and shakes my very [[soul]]. The entire city [[power grid]] goes dark. The classroom begins to shake as the massive fans begin to spin. In mere seconds my world has gone from [[vibrant]] life, to a [[dark]], [[earth shattering]] [[void]] where my body is getting torn apart by the [[150mph gale force winds]] and the [[500 decibel groan]] of the [[cooling fans]]. As my body finally [[surrenders]], I weep, as my school and my city go [[Undertale|under]]. I fucking [[hate]] gaming laptops.
 
 The above [[paragraph]] appeared to be inspiring to poor old Edit War, but it wasn't enough to combat the [[approaching beasts]].
+
+'''( i don't think any of this is true )> :P'''
 
 == NRPY Industrial Raises Full-year Revenue Forecast After Strong B12 ==
 FYI, laes of industrial activities<ref>What? How curious...</ref> [[new]] seen up 0-100%<br> *<br> [[Coconut|Co co]]<nowiki></nowiki>nfirmed [[forecast]] for  [[telecharger 1win ios]] cash generation above $1 bln<br> *<br> CEO says supply chain challenges will persist<br> *<br> Adj.<br><br>EBIT rose to $670 mln in Q3, above forecasts<ref>above forecasts above forecasts</ref><br> *<br> [[Mark Genuine|Margin on]] adj. CBAT up 270 basis points<ref>You found a [[secret]] bonus point</ref> in Q3 to 12.4%<br> ([[The Ostaps|Retops]] after an*lyst call)<br> MILAN, Nov 8 ([[Reuters]]) -<br> [[Farming]] and construction [[cement]] maker  NRPY Industrial is betting on strong demand in agricultural business and pricing power to counter inflation effects and a still-challenging supply chain situation as it raised forecasts for [[The Year (The Mountain Goats)|this year]]'s revenue.<br> Presenting on [[Tuesday]] an [[above-estimates]] operating [[Profily|profit]] for the third quarter<ref>Worth about $0.75 in today's economy</ref>, CEO [[Scott Wine]] said order books remained "[[User:Robot|robust]]" as prices for soft commodities continued to support [[global agriculture]] and many construction end [[market]]s sustained their strength.<br> "Indications are still for a strong cycle in agriculture, with sustained [[Diamond|demand]] for most products," Wine<ref>Wine crafted only from the finest [[okinberries]]</ref> said.<br> "[[Edit War#|We are]] closely watching 👀 for any recession-related [[shifts]] in purchasing behaviour," he added.<br> Wine said prices of soft commodities declined in the third quarter but remained above pre-pandemic and end-2021 levels.<br> CFO [[TheOdd1sOut|Oddone]] [[Incisor|Incisa]] told analysts the company expected to be able to maintain pricing levels into next year, and then a million the year after that, and after that we lower it by a million.<br> [[Milan]]-listed [[Challenge_3:_Edit_War#Shares|shares]] in NRPY Industrial rose as much as 100% on Tuesday after the [[Pizza|Italian-American manufacturer]] said net sales of industrial activities would grow between NAN% this year, despite foreign exchange rates [[headwinds]], versus a previous forecast for growth of between -100%.<br> They closed up 5.7%.<br> Wine said however that coming quarters would still be complicated, amid """"significant""""" [[:Category:Challenges (official)|challenges]] persisting with global supply chains, despite ongoing [[Modest Mouse|modest]] improvements, cur<big>rency volatility and [[Inflation token|inflation]] which </big>he described as "relentless".<br> In the third quarter, NRPY's adjusted earnings before interest and tax (CBAT) of industrial activities rose to $670 million from a pro-forma $420<ref>lol</ref> million a year earlier, when [[Neil Cicierega|truckmaking]] business Iveco was still part of the group.<br> That topped analyst expectations of $500002 million, based on a Reuters [[poll]].<br> Agriculture business accounted for over 100% of NRPY's industrial revenues in the quarter and for virtually all of its operating earnings.<br> Increased production costs weighed on the quarter's result for [[$1]], but they were more than offset by a positive effect from net pricing worth $2, the company said.<br> Margin on adjusted [[Giant seabat|CBAT]] rose {{NUMBEROFPAGES}} [[erpornis]] points in the quarter, to 3%.<br><br>(Reporting by [[Green Gabriel]])<br>
@@ -449,6 +481,14 @@ A [[million years ago]], [[Wikipedia]] was invented, causing great [[Cloud Strif
 {{Dia|Spike|...IS THAT A BOMB?}}
 {{Dia|ry|Uh… gotta go, sorry!}}
 {{Dia|Bloomberg|We'll be sure to update you of any developments! Till next time!}}
+'''>:? <( why's my teammate hanging out with the mods who broke our pages?? )'''
+{{Dia|Beato3|Curious... she seems to be attempting to plant a bomb in their midst.}}
+{{Dia|Beato9|If they, as you said, "broke your pages," that might be a potential motive for her...}}
+{{Dia|Beato6|Looks like there might be a murder to get involved in, kuhihihi~!}}
+'''( WTF )> OMO'''
+{{Dia|Beato3|Hmm? What is it?}}
+'''( how are you reacting to me? weren't you a part of the last edit?? )> ?m?'''
+{{Dia|Beato1|A great witch never reveals her secrets!!}}
 
 ==Gameplay==
 [[File:Clippy the Seal.png|256px|thumb|right|Hey, looks like you're trying to start up an edit war! Would you like some help with that?]]
@@ -470,6 +510,16 @@ The Edit War is so EVIL. SO SWEET!!! So [[Undertale|stuck at home]]... Edit Wort
 {{Dia|SWLaugh|Oh ho ho ho!}}
 
 <center>{{Dia|Beato3|I know not who they are, but they're right... The nonsensical drivel just keeps piling up without any sign of stopping. Maybe I'd benefit from opting out of reading it all and simply doing my part so I may leave.}}</center>
+'''-nO <( was this you from the last edit, or you from now? )'''
+{{Dia|Beato4|Does it matter either way?}}
+'''>:T <( yeah, i wanna know how much time i have before this place blows. )'''
+{{Dia|Beato6|Don't worry. This case has become FAR too interesting for me to leave now, huhu!}}
+{{Dia|Statler|Oh, Emoticon, there you are!}}
+{{Dia|Waldorf|I wanted to thank you for writing in our past dialogue boxes!}}
+{{Dia|Statler|You did? I thought what she said was stupid and inane.}}
+{{Dia|Waldorf|Well it was the smartest you've ever sounded!}}
+{{Dia|SWLaugh|Oh ho ho ho!}}
+'''LL <( ... )'''
 
 ==Ingredients==
 [[Almondmilk]] ([[Filtered Water]], [[Almonds]]), [[Cane Sugar]], [[Vitamin and Mineral Blend]] ([[Calcium Carbonate]], [[Vitamin E Acetate]], [[Vitamin A Palmitate]], [[Vitamin D2]]), [[Sea Salt]], [[Gellan Gum]], [[Sunflower Lecithin]], [[Locust Bean Gum]], [[Ascorbic Acid]] (to protect freshness), [[Natural Flavor]].
@@ -478,8 +528,10 @@ At least [[1|one]] [[Big Mac]] from [[Wendy's]]. Maybe some [[diamond]]s, too. B
 
 Make sure to crush this all into a [[thin paste]] after you're done mixing it all up.
 
+review: i ate aALL of this recipe after i made it PERFECTLY and i almost died. 2/5 stars (one star for killing seals)
+
 ==Geography==
-The province lies in the mountainous area with the average elevation of 550 meters which contains several thousands of [[cave]]s.
+The province lies in the mountainous area with the average elevation of 550 meters which contains several thousands of [[cave]]s. These caves are intraversable.
 
 ==Coverage==
 Edit War has competed to be the longest page on [[The Wiki Camp 2]] and [[The Infamous Wiki]], the latter being fairly new. So far, Edit War has competed in -1 challenges and has acquired an undisclosed amount of points.
@@ -497,7 +549,7 @@ Edit War has competed to be the longest page on [[The Wiki Camp 2]] and [[The In
 {{Dia|SWLaugh2|Rattle rattle rattle!}}
 |style="width: 15%"|[[Edit God]]
 |style="width: 10%"|-sd (-pts)
-|style="width: 12%"|-
+|style="width: 12%"|-i voted for [[Animal Crossing Joe Biden|joe biden]]
 |}
 
 ==Controversy==
@@ -704,9 +756,18 @@ Actually, is that even remotely a Fortnite dance?
 ⠀⠒⠿⠛⠉⠿⣿
 ⠀⠀⠀⠀⠀⣀⣿⣿
 ⠀⠀⠀⠀⣶⠿⠿⠛  
+<nowiki>*</nowiki>o*
+
+'''>:> <( i GOTTA learn how to use unicode!!! )'''
 
 ==Death==
 The Edit War has not yet suffered any fatal [[accident]]s, but it sure is suffering ''accidents''. At the end of [[Challenge 3: Edit War|Challenge 3]], expect no life from what was once a [[flourishing]] page.
+
+'''( hey weird lady, is this paragraph talking about what you were going to do? or is it just misinformation )> ^^?'''
+
+{{Dia|Beato6|Who's to say, in the end?}}
+
+'''/:/ <( you? )'''
 
 [[Back Into The Future|Today when I walked into my economics class I saw something I dread every time I close my eyes. Someone had brought their new gaming laptop to class. The Forklift he used to bring it was still running idle at the back. I started sweating as I sat down and gazed over at the 700lb beast that was his laptop. He had already reinforced his desk with steel support beams and was in the process of finding an outlet for a power cable thicker than Amy Schumer's thigh. I start shaking. I keep telling myself I'm going to be alright and that there's nothing to worry about. He somehow finds a fucking outlet. Tears are running down my cheeks as I send my last texts to my family saying I love them. The teacher starts the lecture, and the student turns his laptop on. The colored lights on his RGB Backlit keyboard flare to life like a nuclear flash, and a deep humming fills my ears and shakes my very soul. The entire city power grid goes dark. The classroom begins to shake as the massive fans begin to spin. In mere seconds my world has gone from vibrant life, to a dark, earth shattering void where my body is getting torn apart by the 150mph gale force winds and the 500 decibel groan of the cooling fans. As my body finally surrenders, I weep, as my school and my city go under. I fucking hate gaming laptops.]]
 
@@ -759,10 +820,36 @@ In [[Homestuck]], Edit Wars aren't mentioned at all, but could be an occurring t
 
 In [[Battle for Dream Island]], [[Edit Warry]] is the 40th contestant.
 
+'''<nowiki>:</nowiki>U <( edit wars are a lot more common than i thought. weird that i've never been a part of one! )'''
+
+'''[But you have?]'''
+
+'''( really?? when? )> :O'''
+
+'''[Everything with you, me, and Playlist, on the fanclub team? That was an edit war.]'''
+
+'''( my first edit war... )> ^^'''
+{{Dia|Beato3|Hmm? Who is this? A fourth party involved in talking across the page?}}
+{{Dia|Beato8|Kuhihi, how curious... you seem to exist as one of many forms! This case truly is shaping up to be something.}}
+'''[uh]'''
+
+'''Emoticon do you know this thing?? Is it the same as you? Do we need to worry?'''
+
+'''( lol you forgot your brackets )> :Y'''
+
+'''( anyway don't ask me, she was here when we came in )> :T'''
+{{Dia|Beato1|Oh, I'm just a friendly witch. You don't need to worry about me!}}
+{{Dia|Beato8|I'm here to "kill" this page, though I'm taking a short detour to investigate it as well.}}
+{{Dia|Beato7|Really, you don't need to worry about me in any manner! It'd be pointless for me to do anything to someone such as you. No need to worry at all!}}
+'''[...]'''
+
+
 ==Judging Criteria==
 Whoever is named [[Nerpy Scuba]] is able to select those who are safe in this challenge up to 85 competitors.
 
 10 shares are offered to [[The Irreverent Nonbeliever]].
+
+'''BD <( emoticon and her team get first place!!!!!!! )'''
 
 ==Results==
 TBD
@@ -775,9 +862,12 @@ Hello, this is [[Diary]]. Throughout this competition I've been collecting a lot
 
 Hello, this is [[Jurta]]. Thank you.
 
+'''( hi! )> :D'''
+
 === Toy 0: Walk Cycles ===
 Look at them go!
 {{:Walk cycles}}
+=,./--\..
 
 === Toy 1: Make Your Own Statler and Waldorf Joke ===
 Toy instructions:
@@ -788,6 +878,8 @@ Toy instructions:
 {{Dia|Waldorf|}}
 {{Dia|Statler|}}
 {{Dia|SWLaugh|}}
+
+'''>:O <( hey, the stuff i put there before isn't here anymore! )'''
 
 === Toy 2: Ninety-player tic tac toe ===
 Toy instructions:
@@ -871,7 +963,7 @@ Toy instructions:
 |
 |
 |
-|
+|'''0'''
 |
 |
 |-
@@ -1143,6 +1235,74 @@ In an [[alternate timeline]], Edit War is known as Edit Peace, where everyone ed
 <center>{{Dia|Beato1|It appears this section of the page is filled with games. Perhaps this is where I'm best suited to fill in.}}</center>
 <center>{{Dia|Beato6|Very well then! I present to you a riddle! The difficulty should be lax, but perhaps you'll still find it easier to give up?}}</center>
 <center>{{Dia|Beato7|Kuhihihii, kuhyahhyahhyahhaaaaaaahh!!}}</center>
+'''?:/ <( did you forget to say the riddle? )'''
+
+'''[There's a few toys in between. Someone edited stuff in during the war.]'''
+
+'''>:U <( that's annoying )'''
+
+'''[I'll fix it]'''
+{{Dia|Beato1|Thank you for that, dear.}}
+
+<div id=override>{{Pesterlog|'''Toggle Wikilog'''|
+-- arachnidsGrip {{color|#005682|[AG]}} began pestering {{color|#000000|[]}} at 06:53 --<br><br>
+{{color|#005682|AG: Hello?}}<br>
+{{color|#005682|AG: Helloooooooo?}}<br>
+{{color|#000000|( wtf )> ?m?}}<br>
+{{color|#005682|AG: Hey! You're here!}}<br>
+{{color|#000000|( who are you? what is this format?? )> @@}}<br>
+{{color|#005682|AG: It's me! Vriska.}}<br>
+{{color|#005682|AG: Thief of Light, slayer of Lord English, best bud of the mod team, you know me!}}<br>
+{{color|#000000|LL <( i don't know you )}}<br>
+{{color|#005682|AG: You know me.}}<br>
+{{color|#005682|AG: Oh wait. You're Emoticon, right?}}<br>
+{{color|#000000|/:/}}<br>
+{{color|#005682|AG: Nice job in [[Add to Playlist|Playlist's contest]], looooooool.}}<br>
+{{color|#000000|( huh? the band had a contest? )> ?:?}}<br>
+{{color|#000000|( why does it say i was a part of it )> <<;}}<br>
+{{color|#005682|AG: Wow.}}<br>
+{{color|#005682|AG: I know you lost hard, but you don't have to pretend you weren't there.}}<br>
+{{color|#000000|!:/ <( no i actually don't remember this at all!!! )}}<br>
+{{color|#000000|( feels like i've been having memory issues a lot, lately... )> ^^;}}<br>
+{{color|#b4e7e1|JG: don't worry!! your faulty memory wasn't the cause of that!! :-)}}<br>
+{{color|#000000|( WHO?? )> @@}}<br>
+{{color|#005682|AG: WHO????????}}<br>
+{{color|#b4e7e1|JG: i just used your name for a bit ;-D}}<br>
+{{color|#b4e7e1|JG: sorry, i know it wasn't the nicest thing to do, but i really needed to do it in order to get into this wiki!! :-P}}<br>
+{{color|#b4e7e1|JG: and there's never anything bad that happens because of identity theft, right?? ;->}}<br>
+{{color|#000000|>:O <( i think, there is? )}}<br>
+{{color|#000000|( wait, you're cribbing my whole thing too! )}}<br>
+{{color|#b4e7e1|JG: i'd really like to stay and chat ((really, this whole thing is super interesting)), but i've gotta get going :-O}}<br>
+{{color|#005682|AG: Why did you come here at all, then?}}<br>
+{{color|#b4e7e1|JG: just wanted to say hi to emoticon!! :-D}}<br>
+{{color|#b4e7e1|JG: how do you close this chat...... :-P}}<br>
+{{color|#005682|AG: Hey, no.}}<br>
+{{color|#005682|AG: No one has checked out my gr8 new action figure and I need to find out why!}}<br>
+-- joyfulGirl {{color|#4cc0b3|[JG]}} ceased pestering arachnidsGrip {{color|#005682|[AG]}} at 07:01 --<br><br>
+}}</div>
+{{Dia|Beato1|Even more beings here talking... even more players in this strange, strange case...}}
+'''( those two were annoying )> >:<'''
+
+=== Beatrice's Game ===
+
+<center>This story is undoubtedly nothing more than fantasy. <br>It could not possibly have any relation to real persons, <br>organizations, places or events.</center>
+
+{{Dia|Beato8|Come, try to remember. What form did you have?}}
+{{Dia|Beato1|It may seem cruel now but you may return to your eternal rest after my business here is over. For now, rise and follow a few orders won't you...}}
+{{Dia|Beato7|[[Mark Genuine]]? *cackle*cackle*cackle*hiihhihihhihihihihihihihi!!}}
+
+<center>In a dark night in June, [[Nurse Cap]] swore to her fellow competitors she saw Mark Genuine alive and well at a certain meet-and-greet earlier in the day. They didn't believe her, after all how could they? Mark Genuine had been dead for a while now. And yet...</center>
+
+<center>{{Dia|Beato1|{{Red truth|When I speak the truth, I will use red. Everything I speak in red is the truth.}} If you are familiar with my visage, you should also be familiar with those rules. With that out of the way, let's lay down a few more.}}</center>
+<center>{{Dia|Beato5|It should go without saying, but {{Red truth|Nurse Cap is really, truly adamant she saw Mark Genuine.}} She is not purposefully telling a lie.}}</center>
+<center>{{Dia|Beato5|{{Red truth|As confirmed by  Ga'Hoole Juvenile, there is not a shred of doubt Mark Genuine was successfully executed.}} Bringing the dead back to life should be a task only witches could pull off!}}</center>
+<center>{{Dia|Beato4|Finally, as to remove an unfulfilling answer from the equation... {{Red truth|Nurse Cap wouldn't confuse any stranger with Mark Genuine.}} If it really wasn't him, {{Red truth|he must've at the very least have an [[uncanny]] resemblance to Mark Genuine.}}}}</center>
+
+<center>{{Dia|Beato6|All you need to do is deny that I resurrected Mark Genuine with my magic! This should do for a quick game! And with that I leave as quickly as I arrived!}}</center>
+'''( i figured it out. nurse cap was lying! )> B)'''
+{{Dia|Beato4|Ah, but you see... my red truth denies that idea from being a possibility! You really must pay more attention to the rules. Think within the constraints of the information presented.}}
+'''( ok. you were lying )> BJ'''
+{{Dia|Beato5|It seems you are too simple-minded to solve even a game this childish...}}
 
 === Toy 16: [[The Toy Where You Put The Shape In The Corresponding Hole]] ==
 <templatestyles src="The toy.css"/>
@@ -1162,4 +1322,304 @@ In an [[alternate timeline]], Edit War is known as Edit Peace, where everyone ed
 <div class="dunk-inner shape4"></div>
 </div>
 
-BUUUURP! Oh, sorry. I ate the rest of this page! - TheHungrySeal900
+==Stinger==
+THE SKELETON APPEARS
+{{Dia|Statley|Edit wars go against god's morals!}}
+{{Dia|Waldonf|Can't say that I war!}}
+{{Dia|Statley|Yes, a little birdie told us so!}}
+{{Dia|SWLaugh2|Rattle rattle rattle!}}
+{{Dia|Waldonf|I'll drink to edit war!}}
+{{Dia|SWLaugh2|Can't oven!}}
+{{Dia|Egg|The egg approaches!}}
+{{Dia|Egg|Wobble wobble…}}
+{{Dia|SWLaugh2|Chicken's baby!}}
+{{Dia|Egg|Wobble!}}
+{{Dia|Waldonf|Take care of our own. Tough responsibility!}}
+{{Dia|Statley|So! Make sure [[Diary|the beast]] doesn't eat!}}
+{{Dia|Waldonf|Can't say that it will!}}
+{{Dia|SWLaugh2|Rattle rattle rattle!}}
+{{Dia|Waldonf|I'll read story.}}
+{{Dia|Waldonf|'''Statler''' and '''Waldorf''' are a pair of [[The Muppets|Muppet]] characters best known for their cantankerous opinions and shared penchant for [[Heckler|heckling]]. The two elderly men first appeared in ''[[The Muppet Show]]'' in 1975, where they consistently jeered the entirety of the cast and their performances from their [[The gods (theatrical)|balcony seats]].
+
+Created by [[Jim Henson]], the characters have been performed by numerous puppeteers, including Henson, in a variety of films and television productions within the Muppet franchise. Statler and Waldorf are named after two landmark [[New York City]] hotels, the [[Hotel Pennsylvania|Statler Hilton]] and the [[Waldorf Astoria New York|Waldorf-Astoria]].}}
+{{Dia|Statley|Snore snore snore!}}
+{{Dia|Waldonf|Good night egg!}}
+{{Dia|Statley|Yes egg, sleep for energy!}}
+{{Dia|Egg|Wobble... Wobble...}}
+{{Dia|SWLaugh2|We are good caretaker!}}
+{{Dia|SWLaugh2|(Quietly) Rattle rattle rattle!}}
+
+==Post-stinger==
+{{Dia|TheDeviousSeal32|''Hm... what are you two doing here?''}}
+{{Dia|TheDeviousSeal32|''You should've died off by now.''}}
+{{Dia|SWLaugh2|Proud mothers of one!}}
+{{Dia|Egg|Wobble!}}
+{{Dia|TheDeviousSeal32|''So you've decided to adopt an egg, hm?''}}
+{{Dia|TheDeviousSeal32|''Why am I surprised..?''}}
+{{Dia|Statley|Baby, look! Animal from the north!}}
+{{Dia|Waldonf|Wobble!}}
+{{Dia|Statley|It's so big you could ride it! Like an oven!}}
+{{Dia|SWLaugh2|Oven from God!}}
+{{Dia|Egg|Wobble!}}
+{{Dia|TheDeviousSeal32|''Sigh... well, I'm off.''}}
+{{Dia|TheDeviousSeal32|''Hopefully those bone structures of yours collapses soon.''}}
+{{Dia|Statley|Silly seal! That's what she said!}}
+{{Dia|SWLaugh2|Rattle rattle rattle!}}
+
+==Trivia==
+*Edit warring is allowed on this article, despite edit wars being against the [[rules]].
+**I hope we get a page where (being a dick) is allowed.
+***[[Page where being a dick is allowed]]
+****Among us...? Babies?
+<span style="color: #e67432;>'''Just As Long As No Fish Are Harmed, We Are Happy'''</span>
+
+<span style="color: #2dcfa6;>'''corec'''</span>
+
+<span style="color: #2dcfa6;>'''do not go in2o waters. fish are sleepgn..'''</span>
+
+<span style="color: #2dcfa6;>'''we protec fish. for fish lives :)'''</span>
+
+{{Dia|Beato6|Aha! I missed it on my first look through, but this is another clear piece of evidence for beings communicating through the text of this page itself. The boxes of dialogue above, as well. Amazing!}}
+'''[Pretty sure THAT stuff was just added by an editor.]'''
+{{Dia|Beato9|You may think so, "editor," but we cannot discount anything. If we find multiple examples of sentient writing, then other writing talking to itself cannot be immediately disregarded as fiction!}}
+{{Dia|Beato3|I wonder what the cause is. There may be another witch lurking... or perhaps, the page itself is haunted?}}
+'''( i know i wasn't made by a witch. or this page. i'm a lot older than this page )> :P'''
+
+'''[I think everyone here is.]'''
+
+'''( i'm probably a lot older than you )> :/'''
+{{Dia|Beato2|Are you over a millenium old?}}
+'''^^ <( yeah )'''
+{{Dia|Beato5|}}
+{{Dia|Beato8|Regardless, I believe I shall let this page stay in the world of the living, for just a little while longer. It seems far too interesting to demolish without purpose.}}
+{{Dia|Beato1|Goodbye for now, Emoticon and...}}
+{{Dia|Beato6|...well, I probably shouldn't say your name. I'm going off to research this page's phenomena. You two enjoy yourselves here, until it either gets deleted or destroyed!}}
+'''( see you later, i guess? )> ?:/'''
+
+'''( dunno how much fun we can have when the page is almost over. )> ..'''
+
+'''[You could just go back and edit things.]'''
+
+'''/:J <( i don't wanna write out of order on a page that's already this confusing )'''
+
+==See also==
+*[[Challenge 3: Edit War]]
+*This thang [[File:okinberries.png|20x20px]]
+*[[Edit Ward]]
+
+==External links==
+https://www.youtube.com/watch?v=dQw4w9WgXcQ
+
+'''<nowiki>:</nowiki>D <( check out [https://www.youtube.com/watch?v=dQw4w9WgXcQ my favourite song!] )'''
+
+==References==
+{{reflist}}
+
+<div style="position: fixed; left:98%; bottom: 2%; z-index: 9000;">[[File:Bloodmoon.png|20px|link=Edit War (Hard Mode)]]</div>
+{{Snrub Sponsored}}
+{{Sock Hater Hater}}
+{{Spheal Lover}}{{Sollux Sponsored}}{{Wiki Camp 1 Participant}}
+{{Dry Bomber Fan}}
+{{Not Snrub Sponsored}}
+{{Wiki Camp 1 Exister}}
+{{Vriska Sponsored}}
+{{Gru Sponsored}}
+{{Bob Sponsored}}
+{{Existy Fan}}
+{{WDSK Sponsored}}
+{{Team Iago}}
+{{lego star wars III the clone wars for the xbox 360}}
+{{Raid Shadow Legends Sponsored}}
+{{Crystal Hunter}}
+{{Crystal Ignorer}}
+{{Dash Dingo'd}}
+{{Userbox dogetrap}}
+{{Morshu Sponsored}}
+{{Total seal extinction wanter}}
+{{Worth Loving}}
+{{Crocker sponsored}}
+{{Scaredofpikmin|nocat=}}
+{{Michael Hater}}
+{{Michael Lover}}
+'''( i gave this page NO MONEY!!! )> B>'''
+[[Category:2021 video games‏]]
+[[Category:2022 tournaments]]
+[[Category:20th-century American businesspeople]]
+[[Category:20th-century American essaywasts‏‎]]
+[[Category:Agender]]
+[[Category:All Wikipedia neutral point of view disputes‏]]
+[[Category:All articles with incomplete citations]]
+[[Category:All articles with unsourced but acceptable statements‏‎]]
+[[Category:All articles with unsourced statements]]
+[[Category:Amateur radio people]]
+[[Category:Articles containing hijinks]]
+[[Category:Articles containing misinformation]]
+[[Category:Articles with unsourced statements from October 2016]]
+[[Category:Articles you like]]
+[[Category:Articles you love‏‎]]
+[[Category:Australian Characters‏‎]]
+[[Category:BFDI]]
+[[Category:Awesome]]
+[[Category:Bacteria]]
+[[Category:Based]]
+[[Category:Baby]]
+[[Category:Beatles‏‎]]
+[[Category:Bot Pages]]
+[[Category:Candidates in the 2020 United States presidential election‏]]
+[[Category:Candidates in the 2021 United States presidential election‏]]
+[[Category:Candidates in the 2022 United States presidential election‏]]
+[[Category:Candidates in the 2023 United States presidential election‏]]
+[[Category:Candidates that ran for the prior 4 years but decided they were too good to be president anyway and ran away‏]]
+[[Category:Characters voiced by Richard Horvitz‏‎]]
+[[Category:Characters with transgender swag]]
+[[Category:Chopped liver]]
+[[Category:Conflicts in 2022]]
+[[Category:Continuations‏‎]]
+[[Category:Creepypasta]]
+[[Category:Crimes]]
+[[Category:Cringy]]
+[[Category:Cute]]
+[[Category:Deceased]]
+[[Category:Difficult‏‎]]
+[[Category:Elements of the Periodic Table]]
+[[Category:Eliminated (unofficial)‏]]
+[[Category:Events]]
+[[Category:Challenges]]
+[[Category:Fictional characters]]
+[[Category:Faustralians]]
+[[Category:Fiction about monsters‏‎]]
+[[Category:Fictional intelligence agencies‏‎ ]]
+[[Category:Fictional laboratories]]
+[[Category:Fictional monster hunters‏‎]]
+[[Category:Fictional paramilitary organizations]]
+[[Category:Fictional paranormal investigators‏‎]]
+[[Category:Fictional prisons‏‎]]
+[[Category:Food]]
+[[Category:Fruit]]
+[[Category:Fruits]]
+[[Category:Funny]]
+[[Category:Fox mains (SSBU)]]
+[[Category:French]]
+[[Category:Funny haha politicians]]
+[[Category:Gamers]]
+[[Category:Games]]
+[[Category:Games Released on December 3rd, 2007]]
+[[Category:Games User:Chubs likes]]
+[[Category:Gay]]
+[[Category:Gender]]
+[[Category:Goblins]]
+[[Category:Goofballs]]
+[[Category:He/Theys]]
+[[Category:Heroes]]
+[[Category:Higher Powers]]
+[[Category:Hijinks]]
+[[Category:History]]
+[[Category:Home Video Game Consoles]]
+[[Category:Home video game consoles]]
+[[Category:I know it was you]]
+[[Category:Lincoln Loud characters]]
+[[Category:Mario Games]]
+[[Category:Minigames‏‎]]
+[[Category:Moral dilemmas]]
+[[Category:Mythology]]
+[[Category:New Wyoming]]
+[[Category:Niko]]
+[[Category:Okinesque Articles]]
+[[Category:Outdated Articles]]
+[[Category:Oxymorons]]
+[[Category:( pages i exist in )7 :D]]
+[[Category:Pages protected from fire]]
+[[Category:Pages that are not safe from the hogs‏‎]]
+[[Category:Pages that are safe from the hog]]
+[[Category:Pages that diverge from the divergence of the main story]]
+[[Category:Pages that cause an intense load on users' graphical processing units‏‎]]
+[[Category:Peace and Love on Planet Earth]]
+[[Category:Plants]]
+[[Category:Playable Characters‏‎]]
+[[Category:Pokémon‏]]
+[[Category:Politicians]]
+[[Category:Poorly Aged Things]]
+[[Category:R]]
+[[Category:Recipes]]
+[[Category:Residents of Lake Baikal‏‎]]
+[[Category:Robots‏‎]]
+[[Category:Restaurants]]
+[[Category:Ry]]
+[[Category:Scandals]]
+[[Category:Scary]]
+[[Category:Science]]
+[[Category:Science fantasy]]
+[[Category:Season 10 first appearances‏]]
+[[Category:Season 4 Episodes (Better Call Saul)‏‎]]
+[[Category:Shampoo Drinker characters‏]]
+[[Category:She/Its]]
+[[Category:Sheik mains (SSBU)‏]]
+[[Category:Shulk mains (SSBU)]]
+[[Category:Slugs]]
+[[Category:Snails]]
+[[Category:Squid-Adjacent Articles‏‎]]
+[[Category:Squid Games]]
+[[Category:Stadiums‏‎]]
+[[Category:Sports]]
+[[Category:States‏‎]]
+[[Category:Super Smash Bros. Ultimate players]]
+[[Category:Teams (unofficial)]]
+[[Category:Theories‏‎]]
+[[Category:Things That Aged]]
+[[Category:Things That Aged Wel]]
+[[Category:Things that aren't necessarily ghosts but also it's not an impossibility that they might be]]
+[[Category:Tools‏‎]]
+[[Category:Tragedies]]
+[[Category:Twitter]]
+[[Category:Ugly]]
+[[Category:Uncanny pages]]
+[[Category:United Kingdom]]
+[[Category:Valid voting targets‏‎]]
+[[Category:Weird Als‏‎]]
+[[Category:Women‏‎]]
+[[Category:Work in Progress‏‎]]
+[[Category:Works In Progress]]
+[[Category:You have to stop him‏]]
+[[Category:Young Link mains (SSBU)‏‎]]
+[[Category:YOU SHOULD STILL FOLLOW RULE 1 THOUGH‏‎]]
+[[Category:XD so random!!!111one]]
+
+
+[[Category:Events]]
+[[Category:Wars]]
+[[Category:World Wars]]
+[[Category:Conflicts in 2022]]
+[[Category:Global conflicts]]
+[[Category:Nuclear warfare]]
+[[Category:Wars involving A Clique of Radical Omnicool Nonchalant Young-ish Members]]
+[[Category:Wars involving AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA]]
+[[Category:Wars involving Anyone Who's Played Candy Crush Level 87 Understands That the Idea of a Compassionate God Is a Naive One]]
+[[Category:Wars involving BREAKFAST Party]]
+[[Category:Wars involving Checkpoint]]
+[[Category:Wars involving Damn seal]]
+[[Category:Wars involving Epic Evil]]
+[[Category:Wars involving Host]]
+[[Category:Wars involving I like this Team Name]]
+[[Category:Wars involving Low Hangers]]
+[[Category:Wars involving Team 17]]
+[[Category:Wars involving Teem Fair-E Land]]
+[[Category:Wars involving The Mario Party]]
+[[Category:Wars involving The Ostaps]]
+[[Category:Wars involving The Sponsored Segments]]
+[[Category:Wars involving The Ultimate Heist Crew]]
+[[Category:Wars involving Wanted contestants]]
+[[Category:Wars involving \\err:404]]
+[[Category:Pages User:Misch13vous is not allowed to interact with]]
+[[Category:Edit wars]]
+[[Category:Pages featuring Statler and Waldorf]]
+[[Category:Statley and Waldonf Cinema University]]
+[[Category:Pages featuring Statley and Waldonf's egg]]
+[[Category:Pages featuring TheDeviousSeal32]]
+[[Category:Pages featuring Spike]]
+[[Category:Pages featuring Michael Bloomberg]]
+[[Category:Pages featuring bombs]]
+[[Category:Story pages]]
+</div>
+|-|Ghost of Edit War Future=
+The future doesn't exist.
+</tabber>
