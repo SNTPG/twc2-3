@@ -1,5 +1,34 @@
-<div style="position: fixed; left:98%; bottom: 2%; z-index: 9000;">[[File:Eheheheh.jpg|20px|link=Edit War (Yaoi Mode)]]</div>
-{{clear}}
+<div style="position: fixed; left:98%; bottom: 2%; z-index: 9000;">[[File:Eheheheh.jpg|20px|link=Edit War (Yaoi Mode)]]</div>{{clear}}{{#css:
+.nyarpa h1{
+position: absolute;
+width: 350%;
+height: 100%;
+margin: 0;
+font-size: 42px;
+text-align: center;
+transform:translateX(-100%);
+animation: cssmarquee 18s linear infinite;
+}
+@keyframes cssmarquee {
+0% {transform: translateX(-100%)}
+100% {transform: translateX(100%)}
+}
+}}<div class="nyarpa"><h1>[[File:Ucket.png|250px|link=Damn seal]] {{Loop|3|[[File:Blank transparent square.png|100px|link=]]}} <span style="background-color:white;">('''AHHH!!! RUN!!!''')></span> [[File:PibbyRun.gif|100px|link=Damn seal/Wiki Camp 2 Challenge Crystal]] {{:Meteor shower}} {{Nerpay Nevermore}}</h1></div><div class="nyarpa"><h1>{{Dia|AnimalCrossingJoeBiden|THIS SEAL WILL [[Die|DIE!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!]]}}They are incredibly cringy and ugly, so so very ugly. I can't bear to look at these wretches of the world, with their bulbous faces and pathetic little eyes. Ugh, they make me want to puke! Go away, you revolting, no-good, disastrous, idiotic, contemptible slug-a-beds!</h1></div>{{Tweet
+| name = Goplu
+| username = gopyXP
+| text = THIS SEAL WILL DIE!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+They are incredibly cringy and ugly, so so very ugly. I can't bear to look at these wretches of the world, with their bulbous faces and pathetic little eyes. Ugh, they make me want to puke! Go away, you revolting, no-good, disastrous, idiotic, contemptible slug-a-beds!<br><br>[[File:Elderstatesman.png|300px|So damn ugly...|link=User:GopyXP]]<br>[[File:One Winged Angel.mp3]]
+| date = Nov 15, 2022
+| reference = &nbsp;
+| image = Goplala.png
+| width = 325px
+| left = y
+}}<div style="filter:contrast(1)"><div style="filter:contrast(1) saturate(0)">[[File:Diary.png|150px|thumb|'''[[Diary]]'''''"whos [[steve jobs]]"''[[Ad|Ads]]·[[Shop iphone]]
+
+{{NerpaPunch Award|Missed the Bowl}}[[Image]] of [[iPhone]] [[12]] 256GB in [[Purple]] [[Apple iPhone 12 256GB in Purple]] $[[0.00]] now [[$20.83/mo]] [[x]] 36 Verizon Business [[Image]] of Apple iPhone 14 Pro Max 256 GB in Deep [[Purple]] with installment App Verizon Image of Apple iPhone 12 128GB in [[Blue]] Apple [[iPhone]] 12 [[128GB]] in [[Blue]] $0.00 now[[File:Eheheheh.jpg|100px]] $18.05/mo x 36 Verizon Business Image of Apple iPhone 12 64GB in [[Green]] [[Appl]]e iPhone 12 64GB in [[Green]] $0.00 now $16.66/mo x 36 Verizon Business]]</div>lets go edit war!! This is my poem about CHUBSWORLD_
+
+Sooo stinky and so uckyyy lalalala [[ladoga]]aa laladogaaa goplu is so cringy and udy smells like okin berries..lalalala i wish i could fly in the sky
+<div style="position: fixed; left:98%; bottom: 2%; z-index: 9000;">[[File:Eheheheh.jpg|20px|link=Edit War (Yaoi Mode)]]</div>Baikal seals, norpons, nerpys, ladogals, what ever you may call them...They are incredibly cringy and ugly, so so very ugly. I can't bear to look at these wretches of the world, with their bulbous faces and pathetic little eyes. Ugh, they make me want to puke! Go away, you revolting, no-good, disastrous, idiotic, contemptible slug-a-beds!{{clear}}
 __NOTOC__
 {{#css:
 .nyarpa h1{
@@ -37,7 +66,13 @@ animation: cssmarquee 18s linear infinite;
 
 Obitchuaries of everyone ever… so sad! Be respectful…
 
-<div style="filter:contrast(1)"><div style="filter:contrast(1) saturate(0)">[[File:GenuineMark.png|150px|thumb|'''NAME'''</br> WORDS OF DEATH]]</div>
+<div style="filter:contrast(1)"><div style="filter:contrast(1) saturate(0)">[[File:GenuineMark.png|150px|thumb|'''NAME'''</br> WORDS OF DEATH]]Or be disrespectful... Sing me a [[dirge]]!! 
+
+
+'''Stuff i have to do..things i gotta take care of'''
+
+'''✅Empty dishwasher'''[[File:Ezgif-2-348d9bc79f.gif|thumb|Hahaha... look at this thing [[spin around!]]]]
+</div>
 
 <templatestyles src="ZEITGEIST.css" />
 [[File:Evil little flowers.png|200px|left]]</br>
@@ -147,7 +182,7 @@ Obitchuaries of everyone ever… so sad! Be respectful…
 
 <div style="filter:contrast(1)"><div style="filter:contrast(1) saturate(0)">[[File:GenuineMark.png|150px|thumb|'''nurse cap'''</br> goplu said i should start capitalizing these but i dont want to]]</div>
 
-<div style="filter:contrast(1)"><div style="filter:contrast(1) saturate(0)">[[File:File:PibbyRun.gif|150px|thumb|'''open sesame'''</br>burned alive horrifically. Due to falling off a big funny trampoline.]]</div>
+<div style="filter:contrast(1)"><div style="filter:contrast(1) saturate(0)">[[File:File:PibbyRun.gif|150px|thumb|'''open sesame'''</br>burned alive horrifically. Due to falling off a big funny trampoline.|link=Special:FilePath/File:PibbyRun.gif]]</div>
 
 <div style="filter:contrast(1)"><div style="filter:contrast(1) saturate(0)">[[File:GenuineMark.png|150px|thumb|'''ostap''</br>fall into a pit that was hidden under a pile of leaves]]</div>
 
@@ -203,7 +238,7 @@ Obitchuaries of everyone ever… so sad! Be respectful…
 
 <div style="filter:contrast(1)"><div style="filter:contrast(1) saturate(0)">[[File:GenuineMark.png||150px|thumb|'''[[THE BIG CHEESE]]'''</br>too [[big]] :/ we had to use a pic of mark genuine sorry<br>[[piano]] fell from top of [[building]].]]</div>
 
-<div style="filter:contrast(1)"><div style="filter:contrast(1) saturate(0)">[[File:GenuineMark.png|150px|thumb|'''[[Terra]]''</br> ice level was too hard. I just bought ████ in the meta█████ ████████████[[France|███████████████████]]█████████████████████████████<br>[[File:Censor-beep-3.mp3]]]]</div>
+<div style="filter:contrast(1)"><div style="filter:contrast(1) saturate(0)">[[File:GenuineMark.png|150px|thumb|'<nowiki/>''[[Terra]]''</br> ice level was too hard. I just bought ████ in the meta█████ ████████████[[France|███████████████████]]█████████████████████████████<br>[[File:Censor-beep-3.mp3]]]]</div>
 
 <div style="filter:contrast(1)"><div style="filter:contrast(1) saturate(0)">[[File:GenuineMark.png|150px|thumb|'''[[The Computer]]'''</br>amazing accident. You shoudlve been there….]]</div>
 
