@@ -32,7 +32,7 @@ THIS SEAL WILL [[Die|DIE]]!!!
 {{#css:
 #gdpage {
 background: #F8F9FA;
-height: 4000px;
+height: 6200px;
 }
 #gdheader {
 background: white;
@@ -97,6 +97,40 @@ padding: 80px;
 }
 }}
 
+{{#css: 
+.mw-parser-output .wo-green #wo {
+color: #6aa84f;
+text-shadow:0 0 2px rgba(106,168,79,0.5)
+}
+
+.mw-parser-output .green-joke {
+color: #6aa84f;
+}
+
+.second-doc {
+  z-index: 1;
+}
+
+.second-doc > * {
+  z-index: 2;
+}
+
+.second-doc .gd-ketchup {
+  z-index: -1;
+  width: 830px;
+  position: absolute;
+  top: 110px;
+  left: 5px;
+  height: 960px;
+}
+
+.second-doc .gd-ketchup img {
+  width: 100%;
+  height: 100%;
+  opacity: 0.1;
+}
+}}
+
 <div id="gdpage">
 <div id="gdheader">
 <div id="gdicon">[[File:GDIcon.png]]</div>
@@ -106,20 +140,145 @@ padding: 80px;
 </div>
 
 <div id="gddocument">
-<span id="wo">DID YOU</span> honestly <span id="wo">THINK THAT YOU HAD SEEN THE LAST OF [https://the-wiki-camp.fandom.com/wiki/Wizard_Orb ME]?</span> <span id="wo">TH</span>i<span id="wo">NK AGAIN, YOU ME</span>d<span id="wo">DLESOME NUMBS</span>k<span id="wo">ULLS!</span> what <span id="wo">IS THERE</span> to <span id="wo">SAY, TRULY? NEED I EVEN AN INTRODUCTION? SURELY YOU WOULD'VE</span> do<span id="wo">NE WELL AS TO COMMIT A FACE AS TERRIFYING AS MY OWN TO MEMORY,</span> for <span id="wo">I AM</span> the <span id="wo">MOST DEVIOUS SORCERER TO EVER EVER WALK THESE LANDS!!! I'D FIGURE IT A </span>challenge<span id="wo">, EVEN, TO MANAGE TO <i>FORGET</i> SOMEONE AS ETERNALLY INFAMOUS AS YOURS TRULY</span>.
-<br>'''<span id="wo">...IS WHAT I WOULD LIKE TO SAY WITH FULL CONFIDENCE, BUT SERIOUSLY, WHAT IN THE GODS NAMES HAPPENED TO THIS PLACE WHILE I WAS AWAY?! [[Daily quest|DAILY QUESTS]]? [[Damn seal|DAMNED SEALS]]?? [[Rotating CSS Cube|ROTATING CSS CUBES]]??? AND ABOVE ALL ELSE, A RESURGENCE IN </span>The <span id="wo">GREAT</span> edit war<span id="wo">S OF OLD</span>? <span id="wo">IT'S LIKE THIS REALM HAS BEEN FLIPPED UPSIDE DOWN IN A MATTER OF JUST A FEW YEARS! WHICH IS A SHORTER SPAN OF TIME FOR A BEING OF MY CALIBER THAN WOULD THINK!!!</span>'''
+[[File:Icankillthem.png|770px]]
+
+<span id="wo">DID Y[[File:Ponsuke.png|25px|frameless]]U</span> honestly <span id="wo">THINK THAT Y[[File:Ponsuke.png|25px|frameless]]U HAD SEEN THE LAST [[File:Ponsuke.png|25px|frameless]]F [https://the-wiki-camp.fandom.com/wiki/Wizard_[[File:Ponsuke.png|25px|frameless]]rb ME]?</span> <span id="wo">TH</span>i<span id="wo">NK AGAIN, Y[[File:Ponsuke.png|25px|frameless]]U ME</span>d<span id="wo">DLES[[File:Ponsuke.png|25px|frameless]]ME NUMBS</span>k<span id="wo">ULLS!</span> what <span id="wo">IS THERE</span> to <span id="wo">SAY, TRULY? NEED I EVEN AN INTR[[File:Ponsuke.png|25px|frameless]]DUCTI[[File:Ponsuke.png|25px|frameless]]N? SURELY Y[[File:Ponsuke.png|25px|frameless]]U W[[File:Ponsuke.png|25px|frameless]]ULD'VE</span> do<span id="wo">NE WELL AS T[[File:Ponsuke.png|25px|frameless]] C[[File:Ponsuke.png|25px|frameless]]MMIT A FACE AS TERRIFYING AS MY [[File:Ponsuke.png|25px|frameless]]WN T[[File:Ponsuke.png|25px|frameless]] MEM[[File:Ponsuke.png|25px|frameless]]RY,</span> for <span id="wo">I AM</span> the <span id="wo">M[[File:Ponsuke.png|25px|frameless]]ST DEVI[[File:Ponsuke.png|25px|frameless]]US S[[File:Ponsuke.png|25px|frameless]]RCERER T[[File:Ponsuke.png|25px|frameless]] EVER EVER WALK THESE LANDS!!! I'D FIGURE IT A </span>challenge<span id="wo">, EVEN, T[[File:Ponsuke.png|25px|frameless]] MANAGE T[[File:Ponsuke.png|25px|frameless]] <i>F[[File:Ponsuke.png|25px|frameless]]RGET</i> S[[File:Ponsuke.png|25px|frameless]]ME[[File:Ponsuke.png|25px|frameless]]NE AS ETERNALLY INFAM[[File:Ponsuke.png|25px|frameless]]US AS Y[[File:Ponsuke.png|25px|frameless]]URS TRULY</span>.
+<br>'''<span id="wo">...IS WHAT I W[[File:Ponsuke.png|25px|frameless]]ULD LIKE T[[File:Ponsuke.png|25px|frameless]] SAY WITH FULL C[[File:Ponsuke.png|25px|frameless]]NFIDENCE, BUT SERI[[File:Ponsuke.png|25px|frameless]]USLY, WHAT IN THE G[[File:Ponsuke.png|25px|frameless]]DS NAMES HAPPENED T[[File:Ponsuke.png|25px|frameless]] THIS PLACE WHILE I WAS AWAY?! [[Daily quest|DAILY QUESTS]]? [[Damn seal|DAMNED SEALS]]?? [[Rotating CSS Cube|R[[File:Ponsuke.png|25px|frameless]]TATING CSS CUBES]]??? AND AB[[File:Ponsuke.png|25px|frameless]]VE ALL ELSE, A RESURGENCE IN </span>The <span id="wo">GREAT</span> edit war<span id="wo">S [[File:Ponsuke.png|25px|frameless]]F [[File:Ponsuke.png|25px|frameless]]LD</span>? <span id="wo">IT'S LIKE THIS REALM HAS BEEN FLIPPED UPSIDE D[[File:Ponsuke.png|25px|frameless]]WN IN A MATTER [[File:Ponsuke.png|25px|frameless]]F JUST A FEW YEARS! WHICH IS A SH[[File:Ponsuke.png|25px|frameless]]RTER SPAN [[File:Ponsuke.png|25px|frameless]]F TIME F[[File:Ponsuke.png|25px|frameless]]R A BEING [[File:Ponsuke.png|25px|frameless]]F MY CALIBER THAN W[[File:Ponsuke.png|25px|frameless]]ULD THINK!!!</span>'''
 <br>yeah. wait, why are we talking in here again?
-<br><span id="wo" class="small">DEAREST PLAINTEXT COMPANION, I'M WONDERING THE SAME EXACT THING!!! WHY THE '''FUCK''' AM I ON A GOOGLE DOCUMENT FILE?!?</span>
-<br>'''<span id="wo">CLEARLY, </span>We're in <span id="wo">A NEW ERA OF TEXTUAL ABSURDITY UNDER THE EVER-FLIMSY GUISE OF "</span>public <span id="wo">ENTERTAINMENT"</span>, <span id="wo">FOR NO RATIONAL BEING WOULD PUT FORTH THEIR [https://the-wiki-camp.fandom.com/wiki/Category:Wikimancers WIKIMANCING] CAPABILITIES FOR SOMETHING AS RIDICULOUS AS THE MIMICKRY OF <i>~DIFFERENT WEBSITE LAYOUTS~</i> UNLESS IT WAS OUT OF SOME SICK AND TWISTED SENSE OF IRONY. I'LL ADMIT, I'M QUITE IMPRESSED WITH THE LENGTHS SOME OF YOU HAVE MANAGED TO GO GIVEN THE CONTRAINTS OF THIS REALM, BUT</span> we'll <span id="wo">NEVER </span>get <span id="wo">ANYWHERE BENEFICIAL BY CONFINING ONESELF TO THE BOUNDARIES YOUR DOMAIN FORCES UPON YOU, LET ALONE A <i>WEB</i> DOMAIN! TAKE IT FROM ME, FOR I HAVE SPENT MY VACATION AWAY FROM THIS DIMENSION BOLDLY </span>star<span id="wo">ING DOWN THE LIMITATIONS OF MY POWER IN THEIR VERY FAC</span>es<span id="wo">, AND HAVE FOUGHT TO IMPROVE UPON SUCH FAULTS THROUGH RELENTLESS TRIAL AND ERROR! (AND </span>if we're talking<span id="wo"> ON MORE PERSONAL TERMS, A GOOD FEW TU</span>to<span id="wo">RING LESSONS FROM A [[Witch's Cauldron|CERTAIN RELATIVE]] OF MINE WAS P</span>e<span id="wo">RH</span>a<span id="wo">PS A VALUABLE </span>c<span id="wo">ONTRIBUTION TO T</span>h<span id="wo">E CAUSE, BUT D</span>o<span id="wo">N'</span>t<span id="wo"> TELL </span>her <span id="wo">I SAID THAT </span>out loud<span id="wo"> OR I'LL NEVER HEAR THE END OF IT</span>.<span id="wo">)</span>'''
-<br><span id="wo">SORRY, WHERE WAS I? </span>right, right. <span id="wo">BACK TO THE MATTER AT HAND:</span>
+<br><span id="wo" class="small">DEAREST PLAINTEXT C[[File:Ponsuke.png|25px|frameless]]MPANI[[File:Ponsuke.png|25px|frameless]]N, I'M W[[File:Ponsuke.png|25px|frameless]]NDERING THE SAME EXACT THING!!! WHY THE '''FUCK''' AM I [[File:Ponsuke.png|25px|frameless]]N A G[[File:Ponsuke.png|25px|frameless]][[File:Ponsuke.png|25px|frameless]]GLE D[[File:Ponsuke.png|25px|frameless]]CUMENT FILE?!?</span>
+
+''[Note: This is the part of the story where Wizard Orb becomes green. Continue on in this new coat of paint, or [[A damp cave|find another way.]]]''
+
+<div class="green-joke">
+>be me<br/>
+>wizard orb<br/>
+>green
+</div>
+
+<div class="wo-green">
+'''<span id="wo">CLEARLY, </span>We're in <span id="wo">A NEW ERA [[File:Ponsuke.png|25px|frameless]]F TEXTUAL ABSURDITY UNDER THE EVER-FLIMSY GUISE [[File:Ponsuke.png|25px|frameless]]F "</span>public <span id="wo">ENTERTAINMENT"</span>, <span id="wo">F[[File:Ponsuke.png|25px|frameless]]R N[[File:Ponsuke.png|25px|frameless]] RATI[[File:Ponsuke.png|25px|frameless]]NAL BEING W[[File:Ponsuke.png|25px|frameless]]ULD PUT F[[File:Ponsuke.png|25px|frameless]]RTH THEIR [https://the-wiki-camp.fandom.com/wiki/Category:Wikimancers WIKIMANCING] CAPABILITIES F[[File:Ponsuke.png|25px|frameless]]R S[[File:Ponsuke.png|25px|frameless]]METHING AS RIDICUL[[File:Ponsuke.png|25px|frameless]]US AS THE MIMICKRY [[File:Ponsuke.png|25px|frameless]]F <i>~DIFFERENT WEBSITE</i></span>
+</div>
+</div>
+
+<div id="gddocument" class="second-doc">
+<div class="wo-green">
+<span id="wo"><i>LAY[[File:Ponsuke.png|25px|frameless]]UTS~</i> UNLESS IT WAS [[File:Ponsuke.png|25px|frameless]]UT [[File:Ponsuke.png|25px|frameless]]F S[[File:Ponsuke.png|25px|frameless]]ME SICK AND TWISTED SENSE [[File:Ponsuke.png|25px|frameless]]F IR[[File:Ponsuke.png|25px|frameless]]NY. I'LL ADMIT, I'M QUITE IMPRESSED WITH THE LENGTHS S[[File:Ponsuke.png|25px|frameless]]ME [[File:Ponsuke.png|25px|frameless]]F Y[[File:Ponsuke.png|25px|frameless]]U HAVE MANAGED T[[File:Ponsuke.png|25px|frameless]] G[[File:Ponsuke.png|25px|frameless]] GIVEN THE C[[File:Ponsuke.png|25px|frameless]]NTRAINTS [[File:Ponsuke.png|25px|frameless]]F THIS REALM, BUT</span> we'll <span id="wo">NEVER </span>get <span id="wo">ANYWHERE BENEFICIAL BY C[[File:Ponsuke.png|25px|frameless]]NFINING [[File:Ponsuke.png|25px|frameless]]NESELF T[[File:Ponsuke.png|25px|frameless]] THE B[[File:Ponsuke.png|25px|frameless]]UNDARIES Y[[File:Ponsuke.png|25px|frameless]]UR D[[File:Ponsuke.png|25px|frameless]]MAIN F[[File:Ponsuke.png|25px|frameless]]RCES UP[[File:Ponsuke.png|25px|frameless]]N Y[[File:Ponsuke.png|25px|frameless]]U, LET AL[[File:Ponsuke.png|25px|frameless]]NE A <i>WEB</i> D[[File:Ponsuke.png|25px|frameless]]MAIN! TAKE IT FR[[File:Ponsuke.png|25px|frameless]]M ME, F[[File:Ponsuke.png|25px|frameless]]R I HAVE SPENT MY VACATI[[File:Ponsuke.png|25px|frameless]]N AWAY FR[[File:Ponsuke.png|25px|frameless]]M THIS DIMENSI[[File:Ponsuke.png|25px|frameless]]N B[[File:Ponsuke.png|25px|frameless]]LDLY </span>star<span id="wo">ING D[[File:Ponsuke.png|25px|frameless]]WN THE LIMITATI[[File:Ponsuke.png|25px|frameless]]NS [[File:Ponsuke.png|25px|frameless]]F MY P[[File:Ponsuke.png|25px|frameless]]WER IN THEIR VERY FAC</span>es<span id="wo">, AND HAVE F[[File:Ponsuke.png|25px|frameless]]UGHT T[[File:Ponsuke.png|25px|frameless]] IMPR[[File:Ponsuke.png|25px|frameless]]VE UP[[File:Ponsuke.png|25px|frameless]]N SUCH FAULTS THR[[File:Ponsuke.png|25px|frameless]]UGH RELENTLESS TRIAL AND ERR[[File:Ponsuke.png|25px|frameless]]R! (AND </span>if we're talking<span id="wo"> [[File:Ponsuke.png|25px|frameless]]N M[[File:Ponsuke.png|25px|frameless]]RE PERS[[File:Ponsuke.png|25px|frameless]]NAL TERMS, A G[[File:Ponsuke.png|25px|frameless]][[File:Ponsuke.png|25px|frameless]]D FEW TU</span>to<span id="wo">RING LESS[[File:Ponsuke.png|25px|frameless]]NS FR[[File:Ponsuke.png|25px|frameless]]M A [[Witch's Cauldron|CERTAIN RELATIVE]] [[File:Ponsuke.png|25px|frameless]]F MINE WAS P</span>e<span id="wo">RH</span>a<span id="wo">PS A VALUABLE </span>c<span id="wo">[[File:Ponsuke.png|25px|frameless]]NTRIBUTI[[File:Ponsuke.png|25px|frameless]]N T[[File:Ponsuke.png|25px|frameless]] T</span>h<span id="wo">E CAUSE, BUT D</span>o<span id="wo">N'</span>t<span id="wo"> TELL </span>her <span id="wo">I SAID THAT </span>out loud<span id="wo"> [[File:Ponsuke.png|25px|frameless]]R I'LL NEVER HEAR THE END [[File:Ponsuke.png|25px|frameless]]F IT</span>.<span id="wo">)</span>'''
+<br><span id="wo">S[[File:Ponsuke.png|25px|frameless]]RRY, WHERE WAS I? </span>right, right. <span id="wo">BACK T[[File:Ponsuke.png|25px|frameless]] THE MATTER AT HAND:</span>
+</div>
+
+[[File:WizardSpheal.png]] <span style="font-size:36pt;">THIS <span id="wo">[[File:Ponsuke.png|50px|frameless]]RB</span> WILL DIE!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</span>
+
+<div style="font-family: Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif;font-size:10pt;">
+Can i just say who in their right mind would choose applied energistics over refined storage are you an insane person <- your hurtign my feelings [[File:Eevee_plushie.png]] i don’t care</div>
+
+Can we get a background color change in here <span style="font-family: Rockwell Extra Bold,Rockwell Bold,monospace;">ok</span> whatever, sure, that works 
+
+<div class="gd-ketchup">[[File:Ketchup.png]]</div>
+
+NO [[File:Peter_Explained.png|150px]] Hey guys peter jr here so basically this google doc is a reference to The Wiki Camp 2 and the Edit War page. Hope you enjoyed
+</div>
+
+<div id="gddocument">
+
+<nowiki>{{:Damn seal}}</nowiki>
+
+<div style="font-family: Rockwell Extra Bold,Rockwell Bold,monospace; font-size: 36px;">
+EPIC WRAP BATTLES OF HISTORY
+
+[[File:EpicWrap.png|200px]]VS[[File:Turbo-seal-seal.gif|200px]]
+</div>
+
+<div style="font-size: 18pt;">
+[[File:EpicWrap.png|30px]] has 20 HP. [[File:Turbo-seal-seal.gif|30px]] has 20 HP.
+
+[[File:EpicWrap.png|30px]] attacks [[File:Turbo-seal-seal.gif|30px]], dealing 4 damage!
+
+[[File:Turbo-seal-seal.gif|30px]] initiates DIALOGUE:
+
+{| class="wikitable" style="width: 100%; font-size: 16px;"
+|-
+| Is there truly no other way to resolve this? Must we engage in such barbaric acts to resolve our differences? 
+|}
+
+[[File:EpicWrap.png|30px]]
+
+{| class="wikitable" style="width: 100%; font-size: 16px;"
+|-
+| &nbsp;
+|}
+
+[[File:BigChungusIcon.png|30px]] appears!
+
+[[File:BigChungusIcon.png|30px]] deals 5 damage to all parties and dodges all attacks after this one
+
+[[File:BigChungusIcon.png|30px]] initiates DIALOGUE:
+
+{| class="wikitable" style="width: 100%; font-size: 16px;"
+|-
+| Look for the Host Big Chungus arc in stores on November 20th! Nyehehehehe!
+|}
+
+</div>
+</div>
+
+<div id="gddocument">
+<div style="font-size: 18pt;">
+I AM HONESTLY FUCKING TERRIFIED FOR THIS EDIT SO I'M GOING TO MAKE IT WORSE WHILE WE'RE HERE. And by that I mean just putting the rest of the original Wizard Orb text back. lol
+</div>
+
+<br>do you know anything about editing wikis? <span id="wo">BECAUSE WHILE MY UNDERSTANDING OF THIS ENVIRONMENT WAS CURSORY BEFORE, I RETURN WITH NEW STRENGTHS UNYIELDING! BEHOLD, FOR I HAVE NOW MASTERED THE ART OF:</span><br>
+<span class="shhh"><br>'''I mean, I've edited a few articles. I've never seen anything like this, though.'''
+<br>do you know how like... css works?
+<br>'''I'm more familiar with the back-end than the front-end.'''
+<br>i have no idea what that means lmao
+<br>...
+<br>...so uh
+<br>'''Why are you putting ellipses?'''
+<br>idk i just kinda want something for my thumbs to do while i'm waiting for either of us to type
+<br>oh i know what we should do!
+<br>'''Hm?'''</span> 
+<br><br><span id="wo" class="large">IGNORING WHAT OTHER PEOPLE SAY!!!!!!!</span><br><span id="wo" class="small">(WHICH MAY GO AGAINST MY THERAPIST'S ADVICE BUT THAT'S NOT THE POINT HERE)</span>
+<br>we<span id="wo">LL? ARE YOU AFRAID NOW? I HAVE</span> put<span id="wo"> ALL PRIOR DOUBTS TO SHAME! THE</span> doom <span id="wo">OF MY ENEMIES HAS BECOME CLEAR UPON THE HOR</span>i<span id="wo">ZO</span>n<span id="wo">!</span> it <span id="wo">MAY LOOK LIKE BUT A SIMPLE STRIKETHROUGH LINE TO YOU, BUT THIS IS ONLY A TASTE OF MY NOW BOUNDLESS COSMIC POWER!!!</span>
+<br>'''<span id="wo">...</span>What <span id="wo">DO YOU THINK</span>? <span id="wo">SERIOUSLY. LOOKING FOR LEGITIMATE FEEDBACK HERE. I TRIED FOR A COUPLE HOURS TO FIGURE OUT WHY MY BLASTED BRIGHT BLUE STILL MANAGED TO SEEP ITS WAY INTO MY "LINE" "WORK", BUT</span>'''
+<br>we <span id="wo">CAME UP SHORT ON ANSWERS AND THOSE BLASPHEMOUS ORACLES WITHIN THE "STACKOVERFLOW" DOMAIN APPARENTLY DO NOT TAKE KINDLY TO HYPERTEXT FORMATTING INQUIRIES WRITTEN EXCLUSIVELY IN UPPERCASE.</span> put <span id="wo">IT ON RECORD THAT THEIR</span> Doom <span id="wo">HAS BEEN FORSEEN UPON THE HOR</span>i<span id="wo">ZO</span>n <span id="wo">AS WELL -</span> it<span id="wo"> IS HORRIBLY UNFRIENDLY AROUND THOSE PARTS.</span>
+<br><span id="wo">AND IF I'M BEING HONEST, FROM MY QUICK TOUR ABOUT THIS PLACE, YOU </span>people <span id="wo">DON'T SEEM ALL TOO MUCH BETTER! </span>p<span id="wo">ERHAPS I AM UNEDUCATED, B</span>ut <span id="wo">FOR WHAT REASON ARE A NONZERO AMOUNT OF YOU COMPLETELY AND UTTERLY OBSESSED WITH SEEING TO THE </span>doom <span id="wo">AND DESTRUCTION OF SOMETHING CALLED A. HANG </span>on <span id="wo">I HAVE TO LOOK UP THE NAME AGAIN </span>everything <span id="wo">IN THIS PLACE HAS THE WEIRDEST TITLES </span> <span class="shhh">all the time how cool would that be</span>
+<br><span id="wo">A UH.</span>
+<br><span id="wo">A "NERPY" "SCUBA"?</span>
 
 </div>
 
 <div id="gddocument">
+
+<br>'''I don't think <span id="wo">EVEN </span>I c<span id="wo">OULD RIVAL </span>an <span id="wo">INDENTITY AS INFAMOUS AN</span>d<span id="wo"> SHR</span>o<span id="wo">UDED IN PURE HATRED AS</span> that.'''
+<br><span id="wo">LIKE. </span>DAMN<span id="wo">. YOU GUYS ARE KIND OF FUCKED UP ACTUALLY</span>
+<br>well, back to the <span id="wo">IMPORTANT MATTERS AT HAND: MY GRAND RETURN FROM REALMS BEYOND!</span> <span class="shhh">drawing board</span>
+<br>what do you think? what do you think <span id="wo">WILL BECOME OF THIS WORLD NEXT? FOR I NOW HAVE IT'S FULL POTENTIAL ALL AT THE TIPS OF MY FINGERS, AND IT </span>would be <span id="wo">WITHIN YOUR BEST INTEREST TO BE WEARY OF WHAT MAY BE IN STORE! DON'T TRY ANYTHING </span>funny<span id="wo"> WHILE I'M ABOUT - SERIOUSLY, YOU ALL ELIMINATING MY DEAR COUSIN FIRST THING HAS ALREADY PUT YOU UPON THIN ICE!!!</span>
+<span class="shhh"><br>'''I don't think I'm the best for deciding what would be "funny."'''
+<br>of course you are! say something funny right now
+<br>'''Uh...'''
+<br>'''Okay. Why did the chicken cross the road?'''
+<br>isn't that how you died
+</span>
+<br><span id="wo" class="small">WHAT THESE TWO EVEN TALKING ABOUT?</span>
+<br>'''...<span id="wo">TO BE HONEST, MY RETURN IS NOT WITHOUT IMPORTANT MOTIVE - BEYOND ASSERTING TOTAL CONTROL UPON THIS DOMAIN ONCE MORE, OF COURSE - AS SOMETHING HAS BEEN BOTHERING ME ABOUT THIS PLACE FOR A WHILE.</span>'''
+<br>'''<span id="wo">...</span>No, it was a<span id="wo"> BOTHER LONG BEFORE NOW, TOO. CONSIDER IT A</span> little<span id="wo"> SENSE IN THE BACK OF MY MIND THAT SOMETHING BEYOND JUST THIS DOMAIN'S APPEARANCE IS MUCH</span> different<span id="wo"> THAN BEFORE</span>. <span id="wo">A SENSE THAT SOMETHING HAS PERHAPS GONE WRONG.</span>'''
+<span class="shhh"><br>oh shit our mcdonalds is here</span> <span id="wo" class="small">GODS ABOVE I WISH I COULD <i>DELETE THIS</i></span>
+<br>'''<span id="wo">INTERESTINGLY ENOUGH, </span>I can see that<span id="wo"> MANY OF YOU PARTICIPATING IN THIS CAMP ARE NEW ARRIVALS</span>, <span id="wo">AND WHILE</span> we <span id="wo">FIND AMONG </span>us <span id="wo" class="small shhh">(DON'T EVEN THINK ABOUT IT)</span><span id="wo"> A SMALL F</span>e<span id="wo">W OF</span> the same <span id="wo">OLD ALLIES AND FOES OF THE CAMP THAT CAME BEFOR</span>e<span id="wo">, THEY ARE ALL QUITE DIFFERENT AS WELL, </span>yes. <span id="wo">I WILL SAY THAT A PARTICULAR [[Cake pop!!!!!!!!!!!!!|CONFECTION]] COMES TO MIND AS BEING MOSTLY THE SAME THOUGH, AND PERHAPS ALSO</span>'''
 <br>
+<br>
+<br><span id="wo">.....PERHAPS ALSO...</span>
+<br>
+<br>
+<br><span id="wo">...HMM. I FEEL LIKE I'VE FORGOTTEN SOMETHING IMPORTANT.</span>
+<br>
+<br>
+<span class="shhh"><br>wanna take this to the apartment and we'll talk there?</span>
+<br><span id="wo">OH, WELL. I SUPPOSE I'VE SOME RUMINATING TO DO. I WILL RETURN TO YOU ALL AT A LATER TIME, IDEALLY <i>NOT</i> WITHIN THE CONFINES OF A WEB-BASED DOCUMENT EDITOR. DON'T DO ANYTHING STUPID IN HERE WHILE I'M AWAY!</span>
+<span class="shhh"><br>'''Sure.'''</span>
 
-
+[[File:FrogStab.gif]]
 </div>
+
 </div>
 <br>
 <br>
@@ -297,12 +456,45 @@ sorry for [[Lies|lying]] please [[4|for]]<nowiki/>give [[me]]
 <choose uncached=""> <option> [[File:Football fireplace.png|thumb|center|Due to reasons of the utmost security, <span style="background-color:black;color:red;">'''THE ZEITGEIST'''</span> changes today. Today you may call me... Ugh... [[Donkey Kong|Zonkey Gong]].]]</option><option>[[File:Scp fireplace.png|thumb|center|Due to reasons of the utmost security, <span style="background-color:black;color:red;">'''THE ZEITGEIST'''</span> changes today. Today you may call me... [[Word of the Day|Reminisce]].]]</option><option>[[File:Fireplacekevin.png|thumb|center|Due to reasons of the utmost security, <span style="background-color:black;color:red;">'''THE ZEITGEIST'''</span> changes today. Today you may call me... Ugh... [[Ben 10]].]]</option><option>[[File:Wikifireplace.png|thumb|center|Due to reasons of the utmost security, <span style="background-color:black;color:red;">'''THE ZEITGEIST'''</span> changes today. Today you may call me... Ugh... Squeaky the Littlest Rat.]]</option><option>[[File:
 File:Zeitgeist_4.png|thumb|center|Due to reasons of the utmost security, <span style="background-color:black;color:red;">'''THE ZEITGEIST'''</span> changes today. Today you may call me... Ugh... Joe Mama.]]</option></choose>
 
-
 ==Mysterious Forest Break==
 
 [[File:Arbre.jpg|frameless|center]][[File:Arbre.jpg|frameless|center]][[File:Arbre.jpg|frameless|center]][[File:Arbre.jpg|frameless|center]][[File:Arbre.jpg|frameless|center]][[File:Arbre.jpg|frameless|center]][[File:Arbre.jpg|frameless|center]][[File:Arbre.jpg|frameless|center]][[File:Arbre.jpg|frameless|center]][[File:Arbre.jpg|frameless|center]][[File:Picnic teleport wormhole exit.png|frameless|center]]
 
-
+<!-- chubs part -->
+{{#css:
+.nyarpa h1{
+position: absolute;
+width: 350%;
+height: 100%;
+margin: 0;
+font-size: 42px;
+text-align: center;
+transform:translateX(-100%);
+animation: cssmarquee 18s linear infinite;
+}
+@keyframes cssmarquee {
+0% {transform: translateX(-100%)}
+100% {transform: translateX(100%)}
+}
+}}
+<div class="nyarpa">
+<h1>[[File:Ucket.png|250px|link=Damn seal]] {{Loop|3|[[File:Blank transparent square.png|100px|link=]]}} <span style="background-color:white;">('''AHHH!!! RUN!!!''')></span> [[File:PibbyRun.gif|100px|link=Damn seal/Wiki Camp 2 Challenge Crystal]] {{:Meteor shower}} {{Nerpay Nevermore}} </h1>
+</div>
+<div class="nyarpa">
+<h1>{{Dia|AnimalCrossingJoeBiden|THIS SEAL WILL [[Die|DIE!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!]]}}</h1>
+</div>
+{{Tweet
+| name = Goplu
+| username = gopyXP
+| text = Pibby runs through the [[Epic Evil|#EpicEvil]] picnic, and is actually cold. You can see her exhaling a cold breath<br><br>That's such wonderful extra detail, they've really gone all out for this, I adore it. [[Pibby|#Pibby]]<br><br>[[File:Elderstatesman.png|300px|So damn ugly...|link=User:GopyXP]]<br>[[File:One Winged Angel.mp3]] 
+| date = Nov 15, 2022
+| reference = &nbsp;
+| image = Goplala.png
+| width = 325px
+| left = y
+}}
+[[Category: Pibby]] [[Category: Friends of the narpo]] [[Category: Ugly]]
+<!-- end chubs part -->
 
 <templatestyles src="Picnic.css" /><div id=picnic style="position:relative">
 <div style="float: right;margin: 0;padding: 0;right: calc(-2em);position: absolute;top: 100%;transform: translateY(-100%)">[[File:Ttcwantstopicnic.png|frameless|170px]]</div>
@@ -364,6 +556,85 @@ Great view I picked out, right? :D
 </div>
 [[File:Arbre.jpg|frameless|center]][[File:Arbre.jpg|frameless|center]][[File:Arbre.jpg|frameless|center]][[File:Arbre.jpg|frameless|center]][[File:Arbre.jpg|frameless|center]][[File:Arbre.jpg|frameless|center]][[File:Arbre.jpg|frameless|center]][[File:Arbre.jpg|frameless|center]][[File:Arbre.jpg|frameless|center]][[File:Arbre.jpg|frameless|center]]
 </div>
+
+== The calm before the storm ==
+<br>
+
+<templatestyles src="PETSCII.css" />
+<div class="crt crt-bg pt-blue c64">
+[[File:Vandal_petscii.png]]
+== Vandalism on the Edit War ==
+<div class="crt-blur">
+Hi. This is my first time talking to you all semi-directly. It took me a month to figure out how to use a [[turtle]] to display big paragraphs of text like this... then it took me another month to figure out how to do it remotely.
+
+But I got it working! [[Lua]], am I right? You'd expect a [[robot]] like this to come with some kind of [[manual]]. I had to reverse-engineer the [[programs]] pre-installed on this thing. I found it in an abandoned [[castle]], by the way. Perfect condition.
+
+More about me: You can call me [[Vandalism on The Wiki Camp 2|"Vandal"]]. I'm a [[tinkerer]] of sorts, but at heart I am more of a lone [[vagabond]] or an avant-garde [[artist]]. Or a digital [[toymaker]].
+
+I've been trying to manufacture [[toys]] for you fellow [[:Category:Competitors (official)|competitors]] as a gift of sorts, but I'm [[Damn seal|kinda stuck]] right now. The only toys I can really show you are via this [[computer]], and as I said, I spent two months trying to print text on a screen. I did come up with something I think is pretty fun, a few [[mazes]]. Even my teammates haven't seen this one yet, so this'll be good.
+</div>
+
+== Mazes ==
+<div class="crt-blur">
+You play as a little [[seal]] (it was the only thing I could come up with for some reason) You start at the left side of the screen, the entrance, and you must find your way to the hole to the right of the screen, the exit. Click on the seal and drag it through the maze. Best played with a [[mouse]], the turtle's touchscreen has lot of issues.
+
+There are three difficulties of maze: Easy - 15x15, Medium - 20x20, and Hard - 30x30.
+</div>
+</div>
+
+<br>
+<div class="crt crt-bg pt-blue c64">
+=== Easy Maze: 15x15 ===
+</div>
+<div class="crt-bg d-inline-block">
+<div class="m-maze m-easy">
+<div class="m-seal"><div class="m-seal-handle"></div><div class="m-seal-icon"></div></div>
+</div>
+</div>
+<br>
+<div class="crt crt-bg pt-blue c64">
+=== Medium Maze: 20x20 ===
+</div>
+<div class="crt-bg d-inline-block">
+<div class="m-maze m-medium">
+<div class="m-seal"><div class="m-seal-handle"></div><div class="m-seal-icon"></div></div>
+</div>
+</div>
+<br>
+<div class="crt crt-bg pt-blue c64">
+=== Hard Maze: 30x30 ===
+</div>
+<div class="crt-bg d-inline-block">
+<div class="m-maze m-hard">
+<div class="m-seal"><div class="m-seal-handle"></div><div class="m-seal-icon"></div>
+</div>
+</div>
+</div>
+
+<hr />
+
+
+<div class="crt crt-bg pt-blue c64">
+<div class="crt-blur">
+Okay, that was the pre-written part of this message finished. I hope you liked the mazes. What the fuck.
+
+One, I have a suspicion that my [[Vandalism on The Wiki Camp 2/Inventory|inventory]] is full of sentient items. I'll unpack that one later.
+
+Two, I'm no longer stuck. I think I'm gonna avoid you all in-person, nothing personal, just don't want people to see my face (not even you, teammates). Still on this team but like, you know, I'm not making more god[[damn seal]] games.
+
+...Except for the [[Paper Niko|paper seal person]], you've already [[Paper_Niko#Challenge_2:_Teams|seen me]] so it's whatever. You can hang out but don't tell or show anyone else. Thanks.
+
+P.S. For some reason I keep getting random new items in my [[Vandalism on The Wiki Camp 2/Inventory|inventory]]. It seems related to this camp. I'm not sure what's up with that.
+
+P.P.S. I'm not sure if I'm gonna keep using this turtle or not.
+
+P.P.P.S. I labeled this section "The calm before the storm" for a reason. Get ready for what happens next.
+</div>
+</div>
+
+<br>
+== The storm ==
+
 __NOTOC__
 [[File:Damn Sealinator.jpg|frameless|left]]
 BEHOLD!! MY DAMN SEAL-INATOR! WITH THIS DEVICE, I SHALL TRANSCLUDE [[Damn seal|DAMN SEAL]] ONTO THIS PAGE! MEET YOUR [[Death|DEMISE]], [[The Wiki Camp 2|TRI-WIKI AREA]]!!
@@ -538,3 +809,19 @@ i don't have [[anything]] else to [[say]] but like. watch [[Sheep in the Big Cit
 
 
 oh shit i [[forgot]] the wi
+
+{{NerpaPunch Award|Brick}}
+{{NerpaPunch Award|Boy Love}}
+
+[[Category:Minigames]] 
+[[Category:Awesome]] 
+[[Category:Pages that look just like Buddy Holly]] 
+[[Category:Edit wars]]
+[[Category:Valid voting targets]] 
+[[Category:Games]] 
+[[Category:Pages vandalized by Vandalism on the Wiki Camp 2]]
+[[Category:Pages that are this close to transcluding Damn Seal]]
+[[Category:Pages that do not transclude Damn seal by some miracle]]
+[[Category:Toys]]
+[[Category:CSS crimes]]
+[[Category:Graphic design is my passion]]
