@@ -1,7 +1,15 @@
+<div style="position: absolute; width:100%; z-index: 3; text-align: right;">
+{| class="mw-collapsible mw-collapsed wikitable" data-expandtext="ENTER HOLE" data-collapsetext="RUN YOU FOOL!!!"
+|+ style="white-space:nowrap;font-size:250%;font-family:marioluigi2;background:none;border-style:none" | [[File:HOLE.gif|frameless]]
+|-
+! style="white-space:nowrap;font-size:250%;font-family:marioluigi2;background-color:black;border:5px ridge red;" | <youtube>https://youtu.be/csGhLtWXljM</youtube>
+|}
+</div>
+
 {{TWMtext|Look at this. I'm doing you all a *[[Favor|favor]]*. Because if it weren't for me, you'd all just destroy each other's [[Edit|edit]]s and NOTHING would be accomplished.}}
 
 
-{{TWMtext|Well I guess you already DID that, sooo... this is more of my remedy? I mean, these versions are ALL abhorrent and incomprehensible anyways, but it's far better we at least have the privilege of seeing the [[History|history]] rather than just a smidge of it all!}}
+{{TWMtext|Well I guess you already DID that, sooo... this is more of my re▓▓▓▓ ▓▓▓▓▓▓▓▓▓ ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ have the privilege of seeing the [[History|history]] rather than just a smidge of it all!}}
 
 
 {{TWMtext|Even if that means having to bear witness to some of your more [[Teenage Trouble Claws|embarrassing]] conversations.}}
@@ -13,7 +21,7 @@
 {{TWMtext|Or don't.}}
 
 
-{{TWMtext|(Don't.))}}
+{{TWMtext| Ȩ̸̛̛̲n̵̟̓t̶͍͕͊̍r̸̭̐͆ò̸͚̗p̵̩̾ẙ̷͎̿ ̷̜͊T̸̝̈́̀r̸̠͌í̶͚̥u̴̙̦̾̑m̶͇̝͌́p̸̧̬̿̿ȟ̴̯̊s̸̮̕͘ ̵̹̿A̶̭͗̊m̸̲͇͐͑b̶̖̒͝i̴̙̿t̷͚͂̀i̸̥̎o̸̟̬̊͆n̶̜̰͗  [[File:Loveu2.gif|frameless]]}}
 
 {{#css:
 
