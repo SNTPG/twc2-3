@@ -1,3 +1,4 @@
+HI GUYS
 <div style="position: fixed; left:98%; bottom: 2%; z-index: 9000;">[[File:Eheheheh.jpg|20px|link=Edit War (Yaoi Mode)]]</div>{{clear}}{{#css:
 .nyarpa h1{
 position: absolute;
@@ -287,6 +288,7 @@ A beautiful baby seal was just born in Mie Prefecture, Japan, in the cozy villag
 
 On this ancient hallowed land a seal once stood.
 It is remembered here by this simple stone.
+
 ==Yay!==
 [[123 Referee's Soundcloud]]<br>
 [[9150625's Soundcloud]]<br>
