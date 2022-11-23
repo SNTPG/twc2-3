@@ -14,62 +14,62 @@ color: #000000
 |-
 |[[File:Fourwhat.png|frameless]]
 |Uncontrollable Speed
-|Affected fighters have greatly increased speed overall but worse traction. The affected fighters have 2× ground and air speed, 0.75× ground traction, and 0.5× air friction.
+|Affecte'''d''' fighters hav'''e''' greatly increased '''s'''peed overall but worse traction. The affected fighters have 2× ground and air s'''p'''eed, 0.75× ground tract'''i'''on, and 0.5× air friction.
 |'''Mushrooms:''' none
 |-
 |[[File:The sbungly.png|frameless]]
 |[[File:The sbungly.png|frameless]]
-|Affected [[File:The sbungly.png|10px|frameless]]
+|Affec[[t]][[e]]<nowiki/>d [[File:The sbungly.png|10px|frameless]]
 |'''Mushrooms:''' 5
 |-
 |Fifty/fifty
 |[[File:The sbungly.png|frameless]]
-|Affected fighters have greatly increased methane production but a slight decrease in coal production.
+|Affected fighters have greatl'''y''' increased methane pr'''o'''d'''u'''ction but a slight dec'''r'''ease in coal '''p'''roduction.
 |'''Mushrooms:''' 99
 |-
 |[[File:Fourwhat.png|frameless]]
-|Uncontrollable Speed
-|Affected fighters have greatly increased speed overall but worse traction. The affected fighters have 2× ground and air speed, 0.75× ground traction, and 0.5× air friction.
+|Unc[[o]]<nowiki/>ntrollable S[[p]]<nowiki/>eed
+|Affected fighters have greatly increased speed overall but worse traction. The affected fighters have 2× gro[[u]]<nowiki/>nd and air speed, 0.75× ground traction, and 0.5× air friction.
 |'''Mushrooms:''' none
 |-
 |[[File:Fourwhat.png|frameless]]
-|Uncontrollable Speed
-|Affected fighters have greatly increased speed overall but worse traction. The affected fighters have 2× ground and air speed, 0.75× ground traction, and 0.5× air friction.
+|Uncontrol'''la'''ble Speed
+|Affected fighters have g'''r'''eatly '''i'''ncreased speed overall but worse traction. The affected fighters have 2× ground and air speed, 0.75× ground traction, and 0.5× air friction.
 |'''Mushrooms:''' none
 |-
 |[[File:Fourwhat.png|frameless]]
 |Uncontrollable [[Tokaido]]
-|The floor is overlaid with a colorful surface with waves emitting off of it. While on it, the player is forced into sleep. The effect can be nullified if the player has a spirit with Slumber Immunity equipped.
+|The floor is overlaid with a colorful surface with waves emitting off of it. While on it, the player is forced into sleep. The effect can be nullified if the player has a spirit with Slumber Immuni[[t]][[y]] equipped.
 |'''Mushrooms:''' 33
 |-
 |[[File:MDBag Wonder Orb TDS Sprite.png|frameless]]
 |All-Mach Orb
-|Ups Movement Speed of all team members by one level.
+|Ups Movement Speed of all team members b'''y''' '''o'''ne level.
 |Only in '''GEN IV'''
 |-
 |[[File:MDBag Wonder Orb TDS Sprite.png|frameless]]
-|All Power-Up Orb
-|Greatly increases the Attack and Special Attack of all teammates on the floor. 
+|All Power-[[U]]<nowiki/>p Orb
+|[[G]]<nowiki/>reatly increases the Attack and Special Attack [[o]]<nowiki/>f all [[t]]<nowiki/>eammates on the floor.
 |Introduced in '''GEN V'''
 |-
 |[[File:MDBag Wonder Orb TDS Sprite.png|frameless]]
 |Apathy Orb
-|Using it makes the floor status apathetic.
+|Using it mak'''e'''s the f'''l'''oor status apathetic.
 |Only in '''GEN VI'''
 |-
 |[[File:MDBag Wonder Orb TDS Sprite.png|frameless]]
-|Cleanse Orb
-|Using it makes the floor status apathetic.
+|Cl[[e]]<nowiki/>anse Orb
+|Using it [[m]]<nowiki/>akes the floor status apathetic.
 |Only in '''GEN VI'''
 |-
 |[[File:MDBag Wonder Orb TDS Sprite.png|frameless]][[File:MDBag Wonder Orb TDS Sprite.png|frameless]]
 |Soup Orb
-|Using it makes the floor status apathetic.
+|Us'''in'''g it makes the floor status '''a'''pa'''t'''hetic.
 |Only in '''GEN XI'''
 |-
 |[[File:The sbungly.png|frameless]]
-|Golden Punchy
-|Deletes your save file.
+|Gold[[e]]<nowiki/>n Punchy
+|[[D]]<nowiki/>eletes your save file.
 |'''Mushrooms:''' 5
 |-
 |[[File:The sbungly.png|frameless]]
@@ -92,7 +92,7 @@ color: #000000
 |Deletes your [[File:The sbungly.png|10px|frameless]], if one is being carried by the party leader.
 |'''Mushrooms:''' 5
 |-
-|[[File:The sbungly.png|20px|frameless]][[File:The sbungly.png|5px|frameless]][[File:The sbungly.png|5px|frameless]][[File:The sbungly.png|17px|frameless]]
+|[[File:The sbungly.png|20px|frameless]][[File:The sbungly.png|5px|frameless]][[File:astonishedloser.png|5px|frameless]][[File:The sbungly.png|5px|frameless]][[File:The sbungly.png|17px|frameless]]
 |
 |Deletes your save file.
 |
@@ -120,7 +120,138 @@ This is the edit war everyone! Get comfy and enjoy the beautiful sights until th
 [[File:Evil Popplio 12.jpg|center|thumb|200x200px|Anne: "Okay... Go! You got this!"]]
 [[File:Evil Popplio 13.jpg|center|thumb|200x200px]]
 [[File:Evil Popplio 14.gif|center|thumb|200x200px|Popplio: "WOW! Thanks for the potion Marcy! I feel epic now and I can finally go back to playing Animal Crossing on my Nintendo 3ds!"]]
-[[File:Evil Popplio 15.jpg|center|thumb|200x200px|Marcy: "No problem Popplio!"]]
+[[File:EviI Popplio 15.png|center|thumb|200x200px|Marcy(?): "No problem Popplio!"]]
 
 ==Celebrate==
 [[File:Peanuts-Dancing.gif|center]]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[[File:astonishedloser.png|7px|frameless]]
