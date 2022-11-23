@@ -20,5 +20,4 @@ animation: fadeOut 5s; } /* <-- edit this to adjust the timing */
 
 <div class="fade-out-image"><div id="imgbackground">[[File:EDITWARSPOILERS_IMG.png]]</div>
 </div>
-
-<!-- DID YOU SEE MY COMMENT AT THE TOP OF THE PAGE?? DELETE EVERYTHING BETWEEN THESE TWO COMMENTS OR ELSE -->
+[[File:Cringe ass nae nae mashup.png|alt=I LIVE!|thumb|You can't kill me]]<!-- DID YOU SEE MY COMMENT AT THE TOP OF THE PAGE?? DELETE EVERYTHING BETWEEN THESE TWO COMMENTS OR ELSE -->
