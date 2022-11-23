@@ -1,3 +1,10 @@
+{{#css:
+.mw-body {
+background-image: linear-gradient(#faaff7 0%, #BCDEF8 100%);
+color: #000000
+} 
+}}
+
 {| class="wikitable"
 |+
 !Icon
@@ -90,3 +97,30 @@
 |Deletes your save file.
 |
 |}
+
+[[File:Cringe ass nae nae mashup.png|center|alt=I LIVE!|thumb|You can't kill me]]
+[[File:Shadow Theme.mp3|center]]
+
+This is the edit war everyone! Get comfy and enjoy the beautiful sights until they possibly D.I.S.S.A.P.E.A.R. again!
+*Decent Information Suddenly Sent Away Possibly Escaping Any Risks
+**This acronym was brought to you by [[A Clique of Radical Omnicool Nonchalant Young-ish Members]]
+
+==Gallery==
+[[File:Evil Popplio 1.png|center|thumb|200x200px|Evil Popplio: "HAHAHAHAHAHHAAHAHUAH I'M EVIL POPPLIO. I HAVE TURNED EVIL AND WILL DESTROY THE WIKI CAMP".]]
+[[File:Evil Popplio 2.jpg|center|thumb|200x200px|Marcy: "Oh no it's Evil Popplio! I have to cure him with the unevil potion!"]]
+[[File:Evil Popplio 3.jpg|center|thumb|200x200px|Anne: "NO! I'll do it. You just... stay here."]]
+[[File:Evil Popplio 4.jpg|center|thumb|200x200px|Marcy: "Anne, only I've studied Popplio biology. It has to be me!"]]
+[[File:Evil Popplio 5.jpg|center|thumb|200x200px|Anne: "No it doesn't! I can handle it!"]]
+[[File:Evil Popplio 6.jpg|center|thumb|200x200px|Marcy: "ARRGH! WHY WON'T YOU JUST LET ME GO!?"]]
+[[File:Evil Popplio 7.jpg|center|thumb|200x200px|Anne: "BECAUSE THE PAGE MIGHT BE NUKED AGAIN OKAY!"]]
+[[File:Evil Popplio 8.jpg|center|thumb|200x200px|Marcy is shocked to hear this information.]]
+[[File:Evil Popplio 9.jpg|center|thumb|200x200px|Anne: "And also I don't... I don't wanna lose you again..."]]
+[[File:Evil Popplio 10.jpg|center|thumb|200x200px|Marcy smiles.]]
+[[File:Evil Popplio 11.jpg|center|thumb|200x200px|Marcy: "You won't... I promise..."]]
+[[File:Evil Popplio 12.jpg|center|thumb|200x200px|Anne: "Okay... Go! You got this!"]]
+[[File:Evil Popplio 13.jpg|center|thumb|200x200px]]
+[[File:Evil Popplio 14.gif|center|thumb|200x200px|Popplio: "WOW! Thanks for the potion Marcy! I feel epic now and I can finally go back to playing Animal Crossing on my Nintendo 3ds!"]]
+[[File:Evil Popplio 15.jpg|center|thumb|200x200px|Marcy: "No problem Popplio!"]]
+
+==Celebrate==
+[[File:Peanuts-Dancing.gif|center]]
