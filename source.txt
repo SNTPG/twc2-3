@@ -1,231 +1,339 @@
+<div style="position: fixed; left:98%; bottom: 2%; z-index: 9000;">[[File:Eheheheh.jpg|20px|link=Edit War (Yaoi Mode)]]</div>
+{{clear}}
+__NOTOC__
 {{#css:
-.mw-body{
-background: #E86187;
+.nyarpa h1{
+position: absolute;
+width: 350%;
+height: 100%;
+margin: 0;
+font-size: 42px;
+text-align: center;
+transform:translateX(-100%);
+animation: cssmarquee 18s linear infinite;
+}
+@keyframes cssmarquee {
+0% {transform: translateX(-100%)}
+100% {transform: translateX(100%)}
+}
+}}
+<div class="nyarpa">
+<h1>[[File:Ucket.png|250px|link=Damn seal]] {{Loop|3|[[File:Blank transparent square.png|100px|link=]]}} <span style="background-color:white;">('''AHHH!!! RUN!!!''')></span> [[File:PibbyRun.gif|100px|link=Damn seal/Wiki Camp 2 Challenge Crystal]] {{:Meteor shower}} {{Nerpay Nevermore}} </h1>
+</div>
+<div class="nyarpa">
+<h1>{{Dia|AnimalCrossingJoeBiden|THIS SEAL WILL [[Die|DIE!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!]]}}</h1>
+</div>
+{{Tweet
+| name = Goplu
+| username = gopyXP
+| text = Pibby runs through the [[Crying shame|#TheObituaryCamp2]], and is actually cold. You can see her exhaling a cold breath<br><br>That's such wonderful extra detail, they've really gone all out for this, I adore it. [[Pibby|#Pibby]]<br><br>[[File:Elderstatesman.png|300px|So damn ugly...|link=User:GopyXP]]<br>[[File:One Winged Angel.mp3]]
+| date = Nov 15, 2022
+| reference = &nbsp;
+| image = Goplala.png
+| width = 325px
+| left = y
 }}
 
-[[File:Damnfire.gif]]
 
-==Introduction==
-[[Hello]] [[Peasants]] [[of]] [[The Wiki Camp 2]]! [[I]] [[AM]] [[EVIL TAHMAHTOH]]. I [[am]] [[Tahmahtoh]][[S]] [[GREATEST ENEMY]]. I [[have]] [[1]] [[Intention]] [[and]] 1 Intention [[only]][[,]] [[to]] [[rule]] The Wiki Camp 2 [[once]] and for [[all]]!!!!!
-I [[will]] [[be]] [[Hacking]] [[This]] [[page]] [[for]] [[good]] [[until]] I [[get]] [[my]] [[way]] [[or]] [[if]] [[someone]] [[does]] [[an]] [[edit]]. [[Please]] [[don't]] [[do]] [[that]], [[it'll]] [[ruin]] [[my]] [[evil]] [[plans]] [[goddammit]]!
+Obitchuaries of everyone ever… so sad! Be respectful…
 
-Oh yeah, to up my status in The Wiki Camp 2... My only intention in this challenge is to win for my selfish needs! That's every word in the monologue above is a [[Blue Link]] or [[Red Link]]
+<div style="filter:contrast(1)"><div style="filter:contrast(1) saturate(0)">[[File:GenuineMark.png|150px|thumb|'''NAME'''</br> WORDS OF DEATH]]</div>
 
-[[File:EVILTAHMAHTOHLAUGH.gif|500px]]
+<templatestyles src="ZEITGEIST.css" />
+[[File:Evil little flowers.png|200px|left]]</br>
+<div style="filter:contrast(1)"><div style="filter:contrast(1) saturate(0)">[[File:123.png|150px|thumb|'''[[123 Referee]]'''</br>Loved by many sport people.<br> Squished by [[tractor]]… [[Crying shame|SAD]] (not actually sad)!Hello… I am UdyCamp the [[Seal]]… I know you all hate me, but… I have a confession! I… I’m the [[Impostor]]!!]]</div>
 
-Also, just in case I ''do'' end up ruling The Wiki Camp 2... I have a set of rules you must ALL Abide by!
+<div style="filter:contrast(1)"><div style="filter:contrast(1) saturate(0)">[[File:055.png|150px|thumb|link=9150625|{{Blink|[[9150625|'''9150625''']]}}</br> OOh! I don’t remember dude…One thing’s for sure…{{Blink|theyre}} '''NOT ALIVE'''! OHHHH!! 🤣🤣🤣🤣🤣]]</div>
 
-==Rules under my command==
-[[File:Rules.png|thumb|da rules]]
-* '''Rule 1''' All [[Teams]] MUST throw the challenge except for my very own team, [[Team 17]]. But once I make a my own team... Team 17 is free to concede to me!
-* '''Rule 2''' [[The Divine Goddess]] Must give up her position for me, sorry but there can only be one! Scram!
-* '''Rule 3''' [[Nerpy Scuba]] and all [[Seals]] must all leave, too ugly! Farewell!
-* '''Rule 4''' [[Spike]] and [[Michael Bloomberg]] are the only people in this join I actually like, they can be my henchmen!
-*'''Rule 5''' [[Competitors]] will be able to help me build my empire. Those [[Eliminated]] traitors can burn in hell. (Or heaven? I dont know man)
-Speaking of Empire...
+<div style="filter:contrast(1)"><div style="filter:contrast(1) saturate(0)">[[File:Ad.png|150px|thumb|link=Ad|'''[[Ad]]'''</br>Sold 32.4 used [[Car|cars]] in their lifetime...<br>Bought [[Hulu]] with no [[Ad|Ads]]! Yay!]]</div>
 
-==Goals==
-Once I have full control over the Wiki Camp 2... I will force everyone to do things nobody ever wants to do, these tasks will include of...
-*Eating Arbys
-*Responding to 'lol'
-*Small talk
-*Unsubscribing from [[Pengooin]] on [[YouTube]]
-*Remembering someone's name who you genuinely don't remember so you have to say "you" instead of their actual name
-*Ask for an extension in camp challenges.
-*Playing [[The Toy Where You Put The Shape In The Corresponding Hole‏‎]]
-*Driving
+<div style="filter:contrast(1)"><div style="filter:contrast(1) saturate(0)">[[File:Asc clip.png|150px|thumb|'''[[Atlanta Souvenir Cup]]'''</br> Eaten by a dinosaurs! Ahh!!! In loving memory…]]</div>
 
-==Gallery==
-<gallery>
-File:The_n_in_m&ms.jpg|1000px|I found this once its cool i guess 
-</gallery>
-==Ending==
-So yeah! That's my fucking edit dipshits... Have a cruddy day and just know if I take over The Wiki Camp 2.. refer to this edit to know your FATE!!! THIS IS ALL I NEED TO SAY GOODBYWait Hold on my [[Mom]] came into my room... I'll brb!
+<div style="filter:contrast(1)"><div style="filter:contrast(1) saturate(0)">[[File:Coke.png|150px|thumb|'''[[Bacon Cola]]'''</br>Crushed by anvil, heh, rookie mistake!]]</div>
 
+<div style="filter:contrast(1)"><div style="filter:contrast(1) saturate(0)">[[File:Animate iaAKUBTRpO.png|150px|thumb|'''[[Bean Sprout]]'''</br>evolvedinto [[Bean Stalk]] and grew so high they reached the skyward castle domain of an [[THE BIG CHEESE|evil giant]]…talk about a fe fi fo [[fumble]]! 😬]]</div>
 
-''Evil Tahmahtoh: Last seen online 2 months ago''
+<div style="filter:contrast(1)"><div style="filter:contrast(1) saturate(0)">[[File:Big Boy.jpg|150px|thumb|'''[[Big Boy]]'''</br> Sued to death by Big Boy Burger Place. So sad! Remove this entire edit if you are sad about this!]]</div>
 
-[[File:Damnfire.gif]]
+<div style="filter:contrast(1)"><div style="filter:contrast(1) saturate(0)">[[File:Biscuit Tin New Pose.png|150px|thumb|'''[[Biscuit Tin]]'''</br>found love in Paris, that city of lights. Crushed by the late [[Eiffel Tower]] on the anniversary of his [[heart transplant]]...]]</div>
 
-[[Category:Fruits]]
-[[Category:Food]]
-[[Category:Plants]]
-[[Category:2021 video games‏]]
-[[Category:2022 tournaments]]
-[[Category:20th-century American businesspeople]]
-[[Category:20th-century American essaywasts‏‎]]
-[[Category:Agender]]
-[[Category:All Wikipedia neutral point of view disputes‏]]
-[[Category:All articles with incomplete citations]]
-[[Category:All articles with unsourced but acceptable statements‏‎]]
-[[Category:All articles with unsourced statements]]
-[[Category:Amateur radio people]]
-[[Category:Articles containing hijinks]]
-[[Category:Articles containing misinformation]]
-[[Category:Articles with unsourced statements from October 2016]]
-[[Category:Articles you like]]
-[[Category:Articles you love‏‎]]
-[[Category:Australian Characters‏‎]]
-[[Category:BFDI]]
-[[Category:Awesome]]
-[[Category:Bacteria]]
-[[Category:Based]]
-[[Category:Baby]]
-[[Category:Beatles‏‎]]
-[[Category:Bot Pages]]
-[[Category:Candidates in the 2020 United States presidential election‏]]
-[[Category:Candidates in the 2021 United States presidential election‏]]
-[[Category:Candidates in the 2022 United States presidential election‏]]
-[[Category:Candidates in the 2023 United States presidential election‏]]
-[[Category:Candidates that ran for the prior 4 years but decided they were too good to be president anyway and ran away‏]]
-[[Category:Characters voiced by Richard Horvitz‏‎]]
-[[Category:Characters with transgender swag]]
-[[Category:Chopped liver]]
-[[Category:Conflicts in 2022]]
-[[Category:Continuations‏‎]]
-[[Category:Creepypasta]]
-[[Category:Crimes]]
-[[Category:Cringy]]
-[[Category:Cute]]
-[[Category:Deceased]]
-[[Category:Difficult‏‎]]
-[[Category:Elements of the Periodic Table]]
-[[Category:Eliminated (unofficial)‏]]
-[[Category:Events]]
-[[Category:Challenges]]
-[[Category:Fictional characters]]
-[[Category:Faustralians]]
-[[Category:Fiction about monsters‏‎]]
-[[Category:Fictional intelligence agencies‏‎ ]]
-[[Category:Fictional laboratories]]
-[[Category:Fictional monster hunters‏‎]]
-[[Category:Fictional paramilitary organizations]]
-[[Category:Fictional paranormal investigators‏‎]]
-[[Category:Fictional prisons‏‎]]
-[[Category:Food]]
-[[Category:Fruit]]
-[[Category:Fruits]]
-[[Category:Funny]]
-[[Category:Fox mains (SSBU)]]
-[[Category:French]]
-[[Category:Funny haha politicians]]
-[[Category:Gamers]]
-[[Category:Games]]
-[[Category:Games Released on December 3rd, 2007]]
-[[Category:Games User:Chubs likes]]
-[[Category:Gay]]
-[[Category:Gender]]
-[[Category:Goblins]]
-[[Category:Goofballs]]
-[[Category:He/Theys]]
-[[Category:Heroes]]
-[[Category:Higher Powers]]
-[[Category:Hijinks]]
-[[Category:History]]
-[[Category:Home Video Game Consoles]]
-[[Category:Home video game consoles]]
-[[Category:I know it was you]]
-[[Category:Lincoln Loud characters]]
-[[Category:Mario Games]]
-[[Category:Minigames‏‎]]
-[[Category:Moral dilemmas]]
-[[Category:Mythology]]
-[[Category:New Wyoming]]
-[[Category:Niko]]
-[[Category:Okinesque Articles]]
-[[Category:Outdated Articles]]
-[[Category:Oxymorons]]
-[[Category:( pages i exist in )7 :D]]
-[[Category:Pages protected from fire]]
-[[Category:Pages that are not safe from the hogs‏‎]]
-[[Category:Pages that are safe from the hog]]
-[[Category:Pages that diverge from the divergence of the main story]]
-[[Category:Pages that cause an intense load on users' graphical processing units‏‎]]
-[[Category:Peace and Love on Planet Earth]]
-[[Category:Plants]]
-[[Category:Playable Characters‏‎]]
-[[Category:Pokémon‏]]
-[[Category:Politicians]]
-[[Category:Poorly Aged Things]]
-[[Category:R]]
-[[Category:Recipes]]
-[[Category:Residents of Lake Baikal‏‎]]
-[[Category:Robots‏‎]]
-[[Category:Restaurants]]
-[[Category:Ry]]
-[[Category:Scandals]]
-[[Category:Scary]]
-[[Category:Science]]
-[[Category:Science fantasy]]
-[[Category:Season 10 first appearances‏]]
-[[Category:Season 4 Episodes (Better Call Saul)‏‎]]
-[[Category:Shampoo Drinker characters‏]]
-[[Category:She/Its]]
-[[Category:Sheik mains (SSBU)‏]]
-[[Category:Shulk mains (SSBU)]]
-[[Category:Slugs]]
-[[Category:Snails]]
-[[Category:Squid-Adjacent Articles‏‎]]
-[[Category:Squid Games]]
-[[Category:Stadiums‏‎]]
-[[Category:Sports]]
-[[Category:States‏‎]]
-[[Category:Super Smash Bros. Ultimate players]]
-[[Category:Teams (unofficial)]]
-[[Category:Theories‏‎]]
-[[Category:Things That Aged]]
-[[Category:Things That Aged Wel]]
-[[Category:Things that aren't necessarily ghosts but also it's not an impossibility that they might be]]
-[[Category:Tools‏‎]]
-[[Category:Tragedies]]
-[[Category:Twitter]]
-[[Category:Ugly]]
-[[Category:Uncanny pages]]
-[[Category:United Kingdom]]
-[[Category:Valid voting targets‏‎]]
-[[Category:Weird Als‏‎]]
-[[Category:Women‏‎]]
-[[Category:Work in Progress‏‎]]
-[[Category:Works In Progress]]
-[[Category:You have to stop him‏]]
-[[Category:Young Link mains (SSBU)‏‎]]
-[[Category:YOU SHOULD STILL FOLLOW RULE 1 THOUGH‏‎]]
-[[Category:XD so random!!!111one]]
-[[Category:Events]]
-[[Category:Wars]]
-[[Category:World Wars]]
-[[Category:Conflicts in 2022]]
-[[Category:Global conflicts]]
-[[Category:Nuclear warfare]]
-[[Category:Wars involving A Clique of Radical Omnicool Nonchalant Young-ish Members]]
-[[Category:Wars involving AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA]]
-[[Category:Wars involving Anyone Who's Played Candy Crush Level 87 Understands That the Idea of a Compassionate God Is a Naive One]]
-[[Category:Wars involving BREAKFAST Party]]
-[[Category:Wars involving Checkpoint]]
-[[Category:Wars involving Damn seal]]
-[[Category:Wars involving Epic Evil]]
-[[Category:Wars involving Host]]
-[[Category:Wars involving I like this Team Name]]
-[[Category:Wars involving Low Hangers]]
-[[Category:Wars involving Team 17]]
-[[Category:Wars involving Teem Fair-E Land]]
-[[Category:Wars involving The Mario Party]]
-[[Category:Wars involving The Ostaps]]
-[[Category:Wars involving The Sponsored Segments]]
-[[Category:Wars involving The Ultimate Heist Crew]]
-[[Category:Wars involving Wanted contestants]]
-[[Category:Wars involving \\err:404]]
-[[Category:Pages User:Misch13vous is not allowed to interact with]]
-[[Category:Edit wars]]
-[[Category:Pages featuring Statler and Waldorf]]
-[[Category:Statley and Waldonf Cinema University]]
-[[Category:Pages featuring Statley and Waldonf's egg]]
-[[Category:Pages featuring TheDeviousSeal32]]
-[[Category:Pages featuring Spike]]
-[[Category:Pages featuring Michael Bloomberg]]
-[[Category:Pages featuring bombs]]
-[[Category:Story pages]]
-[[Category:He/Theys]]
+<div style="filter:contrast(1)"><div style="filter:contrast(1) saturate(0)">[[File:GenuineMark.png|150px|thumb|'''The Oopis'''</br> discovered a new [[love]] for life!]]</div>
+
+<div style="filter:contrast(1)"><div style="filter:contrast(1) saturate(0)">[[File:Blackcurrent.png|150px|thumb|'''[[Black]]'''</br> Defeated by other stick figure… named Jordan T. Orgle!]]</div>
+
+<div style="filter:contrast(1)"><div style="filter:contrast(1) saturate(0)">[[File:Plushold.png|150px|thumb|'''[[Bot the mew]]'''</br> [[Donut|Blender]] incident… the software or the device…? Nobody knows… Ahh… [[Bikini Bottom]]!]]</div>
+
+<div style="filter:contrast(1)"><div style="filter:contrast(1) saturate(0)">[[File:Briny1.png|150px|thumb|'''[[Briny]]'''</br> new video :o]]</div>
+
+<div style="filter:contrast(1)"><div style="filter:contrast(1) saturate(0)">[[File:Bullseye Official Render.png|150px|thumb|'''[[Bullseye]]'''</br> Smoked that Target Weed 😭😭😭]]</div>
+
+🤦whaddahell… this page reeks!
+
+<div style="filter:contrast(1)"><div style="filter:contrast(1) saturate(0)">[[File:Cakepop!!!render.jpg|150px|thumb|'''[[Cake pop!!!!!!!!!!!!!]]'''</br> oooh you died.]]</div>
+
+<div style="filter:contrast(1)"><div style="filter:contrast(1) saturate(0)">[[File:CandyStick2.jpeg|150px|thumb|'''[[Candy Stick]]'''</br> Ook! Oof! There was fentanyl in this halloween candy!]]</div>
+
+<div style="filter:contrast(1)"><div style="filter:contrast(1) saturate(0)">[[File:Cauldron.png|150px|thumb|'''[[Cauldron]]'''</br> overheated in the sun…]]</div>
+
+<div style="filter:contrast(1)"><div style="filter:contrast(1) saturate(0)">[[File:Cellphone.png|150px|thumb|'''[[Cellphone]]'''</br> Drake stopped calling…]]</div>
+
+<div style="filter:contrast(1)"><div style="filter:contrast(1) saturate(0)">[[File:Cellphone.png|150px|thumb|'''[[Cellphone]]'''</br> Drake stopped calling…]]</div>
+
+<div style="filter:contrast(1)"><div style="filter:contrast(1) saturate(0)">[[File:Christmas Techo Scarf.png|150px|thumb|'''[[Christmas Techo Scarf]]'''</br>Yikes! That died!]]</div>
+
+<div style="filter:contrast(1)"><div style="filter:contrast(1) saturate(0)">[[File:Copperpepperpose.png|150px|thumb|'''[[Copper Pepper]]'''</br>Squished by statue of liberty.]]</div>
+
+<div style="filter:contrast(1)"><div style="filter:contrast(1) saturate(0)">[[File:Rolly.png|150px|thumb|'''[[Rolly]]'''</br> OKIN PANCAKE]]</div>
+
+<div style="filter:contrast(1)"><div style="filter:contrast(1) saturate(0)">[[File:CrAIyon NEW!.png|150px|thumb|'''[[CrAIyon]]'''</br> got blown away with a leaf blower. Sad. idc though. Yes i do]]</div>
+
+<div style="filter:contrast(1)"><div style="filter:contrast(1) saturate(0)">[[File:Daisy2.png|150px|thumb|'''[[daisy]]'''</br> blew a huge [[bubble]] with [[gum]] and when it [[popped]] they where [[gone]]]]</div>
+
+<div style="filter:contrast(1)"><div style="filter:contrast(1) saturate(0)">[[File:NormalCactus.png|150px|thumb|[[File:Dexter cut catchphrase.png|200px]]<br>'''dexter cut'''</br>mario came out of the toilet and jumped on them]]</div>
+
+<div style="filter:contrast(1)"><div style="filter:contrast(1) saturate(0)">[[File:GenuineMark.png|150px|thumb|'''diffuser'''</br> got grounded grounded grounded]]</div>
+
+<div style="filter:contrast(1)"><div style="filter:contrast(1) saturate(0)">[[File:GenuineMark.png|150px|thumb|'''dodgeball'''</br> got a hurt’s donut]]</div>
+
+<div style="filter:contrast(1)"><div style="filter:contrast(1) saturate(0)">[[File:GenuineMark.png|150px|thumb|'''dora'''</br> explored]]</div>
+
+<div style="filter:contrast(1)"><div style="filter:contrast(1) saturate(0)">[[File:GenuineMark.png|150px|thumb|'''duplo'''</br> idk chubs just said something mean to me ]]</div>
+
+<div style="filter:contrast(1)"><div style="filter:contrast(1) saturate(0)">[[File:GenuineMark.png|150px|thumb|'''emoticon'''</br> :(((((((((((((((((((((((( erased with eraser on paper!]]</div>
+
+<div style="filter:contrast(1)"><div style="filter:contrast(1) saturate(0)">[[File:GenuineMark.png|150px|thumb|'''evil cake pop'''</br>saw goplus mom]]</div>
+
+<div style="filter:contrast(1)"><div style="filter:contrast(1) saturate(0)">[[File:GenuineMark.png|150px|thumb|'''fictional character'''</br> got real]]</div>
+
+<div style="filter:contrast(1)"><div style="filter:contrast(1) saturate(0)">[[File:GenuineMark.png|150px|thumb|'''font mini'''</br> saw font huge]]</div>
+
+<div style="filter:contrast(1)"><div style="filter:contrast(1) saturate(0)">[[File:GenuineMark.png|150px|thumb|'''game'''</br> found love in writing poetry and resigned to a life of wonder in the country side. Died of old sage. 98]]</div>
+
+<div style="filter:contrast(1)"><div style="filter:contrast(1) saturate(0)">[[File:GenuineMark.png|150px|thumb|'''go sign'''</br> smelled a terrible stink]]</div>
+
+<div style="filter:contrast(1)"><div style="filter:contrast(1) saturate(0)">[[File:GenuineMark.png|150px|thumb|'''head of lettuce''</br>lost a rap battle against arm of lettuce….(Note: The joke here is that head and arm are what we like to call… [[body parts]]! If this edit was awesome, please re-punch!]]</div>
+
+<div style="filter:contrast(1)"><div style="filter:contrast(1) saturate(0)">[[File:GenuineMark.png|150px|thumb|'''heat death of the universe'''</br> cheated on math test]]</div>
+
+<div style="filter:contrast(1)"><div style="filter:contrast(1) saturate(0)">[[File:GenuineMark.png|150px|thumb|'''image'''</br>unknown death. Found under the sofa]]</div>
+
+<div style="filter:contrast(1)"><div style="filter:contrast(1) saturate(0)">[[File:GenuineMark.png|150px|thumb|'''in a nutshell'''</br> so cutes!]]</div>
+
+<div style="filter:contrast(1)"><div style="filter:contrast(1) saturate(0)">[[File:GenuineMark.png|150px|thumb|'''jurta'''</br> the glurbis 🤦]]</div>
+
+<div style="filter:contrast(1)"><div style="filter:contrast(1) saturate(0)">[[File:GenuineMark.png|150px|thumb|'''kumon'''</br> forgot math problems and got an F]]</div>
+
+<div style="filter:contrast(1)"><div style="filter:contrast(1) saturate(0)">[[File:GenuineMark.png|150px|thumb|'''Let Tumes Tari'''</br> scared of the dark]]</div>
+
+<div style="filter:contrast(1)"><div style="filter:contrast(1) saturate(0)">[[File:GenuineMark.png|150px|thumb|'''LiSt'''</br> fell in a puddle]]</div>
+
+<div style="filter:contrast(1)"><div style="filter:contrast(1) saturate(0)">[[File:GenuineMark.png|150px|thumb|'''lost artifact'''</br> got found]]</div>
+
+<div style="filter:contrast(1)"><div style="filter:contrast(1) saturate(0)">[[File:GenuineMark.png|150px|thumb|'''mahjong tile'''</br> fell in between couch cushions ]]</div>
+
+<div style="filter:contrast(1)"><div style="filter:contrast(1) saturate(0)">[[File:GenuineMark.png|150px|thumb|'''mangrove'''</br> ate a okin berry]]</div>
+
+<div style="filter:contrast(1)"><div style="filter:contrast(1) saturate(0)">[[File:GenuineMark.png|150px|thumb|'''mcdoalds sweet n sour sauce'''</br> went to burger king]]</div>
+
+<div style="filter:contrast(1)"><div style="filter:contrast(1) saturate(0)">[[File:GenuineMark.png|150px|thumb|'''meme folder'''</br> didn’t have the perfect reaction image in their reaction image folded.]]</div>
+
+<div style="filter:contrast(1)"><div style="filter:contrast(1) saturate(0)">[[File:GenuineMark.png|150px|thumb|'''miso'''</br> got drank]]</div>
+
+<div style="filter:contrast(1)"><div style="filter:contrast(1) saturate(0)">[[File:GenuineMark.png|150px|thumb|'''monitor'''</br> saw something scary on google]]</div>
+
+<div style="filter:contrast(1)"><div style="filter:contrast(1) saturate(0)">[[File:GenuineMark.png|150px|thumb|'''multiball'''</br> got vacuumed up]]</div>
+
+<div style="filter:contrast(1)"><div style="filter:contrast(1) saturate(0)">[[File:GenuineMark.png|150px|thumb|'''number 1 pen'''</br>ran out of toilet paper]]</div>
+
+<div style="filter:contrast(1)"><div style="filter:contrast(1) saturate(0)">[[File:GenuineMark.png|150px|thumb|'''nurse cap'''</br> goplu said i should start capitalizing these but i dont want to]]</div>
+
+<div style="filter:contrast(1)"><div style="filter:contrast(1) saturate(0)">[[File:File:PibbyRun.gif|150px|thumb|'''open sesame'''</br>burned alive horrifically. Due to falling off a big funny trampoline.]]</div>
+
+<div style="filter:contrast(1)"><div style="filter:contrast(1) saturate(0)">[[File:GenuineMark.png|150px|thumb|'''ostap''</br>fall into a pit that was hidden under a pile of leaves]]</div>
+
+<div style="filter:contrast(1)"><div style="filter:contrast(1) saturate(0)">[[File:GenuineMark.png|150px|thumb|'''padlock'''</br> hit the ground hard, parachute didnt work!]]</div>
+
+<div style="filter:contrast(1)"><div style="filter:contrast(1) saturate(0)">[[File:Paper rudy.png|150px|thumb|'''[[Paper_Niko#Paper_Rudy-0|Paper Rudy]]'''</br> shredder..? Scissors..? {{Dia|TheDeviousSeal32|Who<br>gives<br>a[[:Template:Fuck|f uck]],<br> honestly.}}]]</div>
+
+<div style="filter:contrast(1)"><div style="filter:contrast(1) saturate(0)">[[File:GenuineMark.png|150px|thumb|'''Owner of Okinglueberry Farms'''</br> lost game of cards.]]</div>
+
+<div style="filter:contrast(1)"><div style="filter:contrast(1) saturate(0)">[[File:GenuineMark.png|150px|thumb|'''pentagon'''</br> penta el zero M got them….]]</div>
+
+<div style="filter:contrast(1)"><div style="filter:contrast(1) saturate(0)">[[File:GenuineMark.png|150px|thumb|'''perry Llelogram'''</br>exploded]]</div>
+
+<div style="filter:contrast(1)"><div style="filter:contrast(1) saturate(0)">[[File:GenuineMark.png|150px|thumb|'''playlist'''</br> went to toba aquarium and got so disgusted by what they saw]]</div>
+
+<div style="filter:contrast(1)"><div style="filter:contrast(1) saturate(0)">[[File:GenuineMark.png|150px|thumb|'''plumbers hero'''</br>saw chubworld’s mom]]</div>
+
+<div style="filter:contrast(1)"><div style="filter:contrast(1) saturate(0)">[[File:GenuineMark.png|150px|thumb|'''push dagger'''</br> watched every episode of the simpsons and the immediately exploded]]</div>
+
+<div style="filter:contrast(1)"><div style="filter:contrast(1) saturate(0)">[[File:GenuineMark.png|150px|thumb|'''rolly'''</br> have you ever see better call saul? It was like how ###### died]]</div>
+
+<div style="filter:contrast(1)"><div style="filter:contrast(1) saturate(0)">[[File:GenuineMark.png|150px|thumb|'''rotob'''</br>baked into a pie]]</div>
+
+<div style="filter:contrast(1)"><div style="filter:contrast(1) saturate(0)">[[File:GenuineMark.png|150px|thumb|'''A Martian from the planet Mars'''</br> blasted by damn laser.]]</div>
+
+<div style="filter:contrast(1)"><div style="filter:contrast(1) saturate(0)">[[File:GenuineMark.png|150px|thumb|'''SFD jigsaw piece'''</br>saw the mona lisa and cried so hard they got dehydrated and died]]</div>
+
+<div style="filter:contrast(1)"><div style="filter:contrast(1) saturate(0)">[[File:GenuineMark.png|150px|thumb|'''sir feet'''</br>vampire bite]]</div>
+
+<div style="filter:contrast(1)"><div style="filter:contrast(1) saturate(0)">[[File:GenuineMark.png|150px|thumb|'''sketchy'''</br>natural causes]]</div>
+
+<div style="filter:contrast(1)"><div style="filter:contrast(1) saturate(0)">[[File:GenuineMark.png|150px|thumb|'''slime'''</br>fell into the toilet and got flushed down]]</div>
+
+<div style="filter:contrast(1)"><div style="filter:contrast(1) saturate(0)">[[File:GenuineMark.png|150px|thumb|'''Smobo''</br>got shrunk down with a shrinkray and then got stepped on]]</div>
+
+<div style="filter:contrast(1)"><div style="filter:contrast(1) saturate(0)">[[File:GenuineMark.png|150px|thumb|'''sock hater'''</br> realized they loved sock….]]</div>
+
+<div style="filter:contrast(1)"><div style="filter:contrast(1) saturate(0)">[[File:GenuineMark.png|150px|thumb|'''SswtUPtyOLI'''</br>lactose intolerant. Ate cheese. Tummy ache. Speaks for itself]]</div>
+
+<div style="filter:contrast(1)"><div style="filter:contrast(1) saturate(0)">[[File:GenuineMark.png|150px|thumb|'''strawberry'''</br> got eated]]</div>
+
+<div style="filter:contrast(1)"><div style="filter:contrast(1) saturate(0)">[[File:GenuineMark.png|150px|thumb|'''summermelon.docx'''</br>needed chapstick but left it at home]]</div>
+
+<div style="filter:contrast(1)"><div style="filter:contrast(1) saturate(0)">[[File:DiaBloomberg.png|150px|thumb|'''Bloomberg'''</br> bet his money on a stupid horse]]</div>
+
+<div style="filter:contrast(1)"><div style="filter:contrast(1) saturate(0)">[[File:GenuineMark.png|150px|thumb|'''sunny'''</br> looked at sun]]</div>
+
+<div style="filter:contrast(1)"><div style="filter:contrast(1) saturate(0)">[[File:GenuineMark.png|150px|thumb|'''tahmahtoh'''</br>spelt icup]]</div>
+
+<div style="filter:contrast(1)"><div style="filter:contrast(1) saturate(0)">[[File:T Series Car 5134.png|150px|thumb|'''t series car 5134'''</br> cars arent even alive]]</div>
+
+<div style="filter:contrast(1)"><div style="filter:contrast(1) saturate(0)">[[File:GenuineMark.png|150px|thumb|'''teenage trouble claws'''</br>plahyed overwatch]]</div>
+
+<div style="filter:contrast(1)"><div style="filter:contrast(1) saturate(0)">[[File:GenuineMark.png||150px|thumb|'''[[THE BIG CHEESE]]'''</br>too [[big]] :/ we had to use a pic of mark genuine sorry<br>[[piano]] fell from top of [[building]].]]</div>
+
+<div style="filter:contrast(1)"><div style="filter:contrast(1) saturate(0)">[[File:GenuineMark.png|150px|thumb|'''[[Terra]]''</br> ice level was too hard. I just bought ████ in the meta█████ ████████████[[France|███████████████████]]█████████████████████████████<br>[[File:Censor-beep-3.mp3]]]]</div>
+
+<div style="filter:contrast(1)"><div style="filter:contrast(1) saturate(0)">[[File:GenuineMark.png|150px|thumb|'''[[The Computer]]'''</br>amazing accident. You shoudlve been there….]]</div>
+
+<div style="filter:contrast(1)"><div style="filter:contrast(1) saturate(0)">[[File:TEOWbutTransparbent?!.png|150px|thumb|'''the eater of wikis'''</br> played bambi ps2]]</div>
+
+<div style="filter:contrast(1)"><div style="filter:contrast(1) saturate(0)">[[File:GenuineMark.png|150px|thumb|'''The Entirety of Host'''</br> fell off.]]</div>
+
+<div style="filter:contrast(1)"><div style="filter:contrast(1) saturate(0)">[[File:The wiki machine.png|150px|thumb|'''[[The Wiki Machine]]'''</br> bomb.]]</div>
+
+<div style="filter:contrast(1)"><div style="filter:contrast(1) saturate(0)">[[File:GenuineMark.png|150px|thumb|'''TheLegend27'''</br> got jealous of OBAMA! For not being SODA!! And just VANISHED. Has not been seen for 1 week???]]</div>
+
+<div style="filter:contrast(1)"><div style="filter:contrast(1) saturate(0)">[[File:Toasty.png|150px|thumb|'''[[Toasty|me]]'''</br> got toasted to death. Only goplu came to the funeral]]</div>
+
+<div style="filter:contrast(1)"><div style="filter:contrast(1) saturate(0)">[[File:GenuineMark.png|150px|thumb|'''tombstone'''</br> tombstone like the wrestling move. That happened… to the tombstone… LOL. okay…lets file this article under [https://tvtropes.org/pmwiki/pmwiki.php/Main/NightmareFuel TVTropes/Nightmare Fuel]…]]</div>
+
+<div style="filter:contrast(1)"><div style="filter:contrast(1) saturate(0)">[[File:GenuineMark.png|150px|thumb|''toy blocks'''</br> idk ]]</div>
+
+<div style="filter:contrast(1)"><div style="filter:contrast(1) saturate(0)">[[File:GenuineMark.png|150px|thumb|'''traffic regulatorN'''</br> slipped on a bababaa]]</div>
+<!--- huh?! A… baby nurpon! --->
+<div style="filter:contrast(1)"><div style="filter:contrast(1) saturate(0)">[[File:Tunna.png|150px|thumb|'''Tuna'''<br> tuunnaaa 🤤<br>[[Uncanny|Uncannied]] by a can opener and had his contents<ref>mmm..chubsworlds loves tuna sashimi…</ref> eaten by a nasty..little…[[pinniped]]...🤢]]</div>
 
 
-[[File:Eheheheh.jpg|thumb||I'm still here hi guys this is Object Planet]]
+<div style="filter:contrast(1)"><div style="filter:contrast(1) saturate(0)">[[File:GenuineMark.png|150px|thumb|'''twimble'''</br> listened to super idol…..one million times? What? Why? How did that kill them? ok…]]</div>
+
+
+<div style="filter:contrast(1)"><div style="filter:contrast(1) saturate(0)">[[File:GenuineMark.png|150px|thumb|'''U.U.F.O.'''</br> was at walmart when the roof caved in from years of water damage. will be missed ]]</div>
+
+
+<div style="filter:contrast(1)"><div style="filter:contrast(1) saturate(0)">[[File:GenuineMark.png|150px|thumb|'''Vandalism on The Wiki Camp 2'''</br> got vandalized…. Jk it was old age]]</div>
+
+
+<div style="filter:contrast(1)"><div style="filter:contrast(1) saturate(0)">[[File:GenuineMark.png|150px|thumb|'''what'''</br>fell off a cliff]]</div>
+
+
+<div style="filter:contrast(1)"><div style="filter:contrast(1) saturate(0)">[[File:GenuineMark.png|150px|thumb|'''wrecking ball'''</br>died in an embarrassing way…….]]</div>
+
+<div style="filter:contrast(1)"><div style="filter:contrast(1) saturate(0)">[[File:Zeitgeist 5.png|150px|thumb|<span class=wocky>''[THE TOY WHERE YOU PUT THE SHAPE IN THE CORRESPONDING HOLE]'''</span></br>So fucking sad, died in huge circus accident]]</div>
+
+<div style="filter:contrast(1)"><div style="filter:contrast(1) saturate(0)">[[File:GenuineMark.png|150px|thumb|'''RUDY'''</br> Got udy slopped.]]</div>
+
+{{clear}}
+
+Neepa! Yes that’s right:
+A beautiful baby seal was just born in Mie Prefecture, Japan, in the cozy village of Toba! Many seals live here but CHUBSWORLD_ DIE!!!!!!!!!!!!! BITCH! CHUBSOWRLD, DIE!
+
+
+On this ancient hallowed land a seal once stood.
+It is remembered here by this simple stone.
+==Yay!==
+[[123 Referee's Soundcloud]]<br>
+[[9150625's Soundcloud]]<br>
+[[Ad's Soundcloud]]<br>
+[[Atlanta Souviner Cup's Soundcloud]]<br>
+[[Fabric the seal’s soundcloud]]<br>
+[[Mark genuine’s soundcloud]]<br>
+[[NeNerpa Scuba’s soundcloud]]<br>
+[[Kiny’s soundcloud]]<br>
+[[Little caesars pizza’s soundcloud]]<br>
+[[Bot the mew’s tiktok]]<br>
+[[Staffa island’s soundcloud]]<br>
+[[Atlanta souvenir cup’s soundcloud]]<br>
+[[Mugshot’s soundcloud]]<br>
+[[Witches cauldron’s duolingo]]<br>
+[[The joker’s soundcloud]]<br>
+[[Creative commons and copyright’s soundcloud]]<br>
+[[9150625’s soundcloud]]<br>
+[[Ad’s soundcloud]]<br>
+[[Bacon cola’s soundcloud]]<br>
+[[Bean spout’s soundcloud]]<br>
+[[Big boy’s soundcloud]]<br>
+[[chubsworld’s soundcloud]]<br>
+[[Biscuit tin’s soundcloud]]<br>
+[[Black’s soundcloud]]<br>
+[[Briny’s second life]]<br>
+[[Bullseye’s soundcloud]]<br>
+[[Cake pop!!!’s soundcloud]]<br>
+[[Candy stick’s soundcloud]]<br>
+[[Cauldron’s soundcloud]]<br>
+[[Cellphone’s soundcloud]]<br>
+[[Christmas techno scarf’s 3 cheese pizza]] yum<br>
+[[Copper pepper’s soundcloud]]<br>
+[[caAIyon’s soundcloud]]<br>
+[[Daisy’s soundcloud]]<br>
+[[Dexter cut’s soundcloud]]<br>
+[[Diary’s soundcloud]]<br>
+[[Dodgeballs’s soundcloud im not fixing the possessive mark]]<br>
+[[Dora’s soundcloud]]<br>
+[[Dupio]]<br>
+[[Emoticon’s soundcloud]]<br>
+[[Evil cake pop’s sound cloud]]<br>
+[[goplu is trying to gaslight me :(]]<br>
+[[fictional characet’s Xbox…?]]]<br>
+[[Flag ’dog’s ‘ d’s d’f ‘’’’’’’’’’’’ ‘’’;;’’’’]]]<br>
+[[Font mini gamer’s soundcloud]]<br>
+<br>[[Go sign’s epic rap battle yt channel]]<br>
+[[Head of lettuce’s lettuce..? And soundcloud! yay!]]
+[[Heat death of universe’s sound cloud]]<br>
+[[Image’s image]]
+[[In a Nutshell|a beautiful okinsupper!]]
+[[Jurta: hi]]
+[[Kumon’s sound cloud]]<br>
+[[Let tumes tari’s soundcloud]]<br>
+[[LiSt’s soundcloud]]<br>
+[[Lost artifact’s soundcloud]]<br>
+[[Mahjong tile’s soundcloud]]<br>
+[[Mangrove’s soundcloud]]<br>
+[[Mdcoandsl swete n sour sauce’s sound clud]]<br>
+[[Meme folder’s soundcloud folder!]]
+[[Miso’s soundcloud]]<br>
+[[Miitor oh my god im typing so many of these]]<br>
+[[Multiball’s Soundcloud]]
+[[Number 1 pen’s sound clud]]<br>
+[[Nurse cap’s Umm I forgot!]]
+[[A damp cave|Open Sesame’s Cohost]]
+Idc about the rest.
+
+They will be myst
+
+THE END…? Or is it?
+
+Here’s Fabric’s Opinion…
+
+[[File:Fabricsopinion.png]]
+
+Transcript:
+
+[[Carly]] [[came]] to my [[house]] the [[Damn seal|other day]] and my [[sink]] wasnt [[working fsr]] and they said that [[they]] could fix [[it]] because theyve done [[it]] before anad i was like [[Okin|okay]] and they prcoceeded to swab up all the [[Brown|shit]] and gunk inside of the sink and took a [[huge bite]] out of it and i was so fucking [[disgusted]] i didnt say [[anything]] for the [[rest]] of the [[night]]
+
+[[Burpa|🥂]] heres to the ones that we got [[Agu|🥂]]
+
+<div style="position: absolute; width:100%; z-index: -2; text-align: right;"> [[File:Minormark.png|left|200px]] </div>
+
+==References==
