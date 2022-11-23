@@ -1,23 +1,92 @@
-<!-- HEY YOU. EDITOR. DELETE ALL THIS CODE IF YOU'RE GOING TO EDIT. LIKE ACTUALLY JUST GET RID OF ALL OF IT. I MEAN IT. PLEASE -->
-{{#css:
-#imgbackground img {
-size: 40%;
-position: relative;
-top: -250px;
-z-index: 1;
-}
-
-.fade-out-image {
-opacity: 0;
-visibility: hidden;
-animation: fadeOut 5s; } /* <-- edit this to adjust the timing */
-
-@keyframes fadeOut {
-  0% { opacity: 1; visibility: visible; }
-  100% { opacity: 0; visibility: hidden; }
-}
-}}
-
-<div class="fade-out-image"><div id="imgbackground">[[File:EDITWARSPOILERS_IMG.png]]</div>
-</div>
-[[File:Cringe ass nae nae mashup.png|alt=I LIVE!|thumb|You can't kill me]]<!-- DID YOU SEE MY COMMENT AT THE TOP OF THE PAGE?? DELETE EVERYTHING BETWEEN THESE TWO COMMENTS OR ELSE -->
+{| class="wikitable"
+|+
+!Icon
+!Award
+!Message
+!Notes
+|-
+|[[File:Fourwhat.png|frameless]]
+|Uncontrollable Speed
+|Affected fighters have greatly increased speed overall but worse traction. The affected fighters have 2× ground and air speed, 0.75× ground traction, and 0.5× air friction.
+|'''Mushrooms:''' none
+|-
+|[[File:The sbungly.png|frameless]]
+|[[File:The sbungly.png|frameless]]
+|Affected [[File:The sbungly.png|10px|frameless]]
+|'''Mushrooms:''' 5
+|-
+|Fifty/fifty
+|[[File:The sbungly.png|frameless]]
+|Affected fighters have greatly increased methane production but a slight decrease in coal production.
+|'''Mushrooms:''' 99
+|-
+|[[File:Fourwhat.png|frameless]]
+|Uncontrollable Speed
+|Affected fighters have greatly increased speed overall but worse traction. The affected fighters have 2× ground and air speed, 0.75× ground traction, and 0.5× air friction.
+|'''Mushrooms:''' none
+|-
+|[[File:Fourwhat.png|frameless]]
+|Uncontrollable Speed
+|Affected fighters have greatly increased speed overall but worse traction. The affected fighters have 2× ground and air speed, 0.75× ground traction, and 0.5× air friction.
+|'''Mushrooms:''' none
+|-
+|[[File:Fourwhat.png|frameless]]
+|Uncontrollable [[Tokaido]]
+|The floor is overlaid with a colorful surface with waves emitting off of it. While on it, the player is forced into sleep. The effect can be nullified if the player has a spirit with Slumber Immunity equipped.
+|'''Mushrooms:''' 33
+|-
+|[[File:MDBag Wonder Orb TDS Sprite.png|frameless]]
+|All-Mach Orb
+|Ups Movement Speed of all team members by one level.
+|Only in '''GEN IV'''
+|-
+|[[File:MDBag Wonder Orb TDS Sprite.png|frameless]]
+|All Power-Up Orb
+|Greatly increases the Attack and Special Attack of all teammates on the floor. 
+|Introduced in '''GEN V'''
+|-
+|[[File:MDBag Wonder Orb TDS Sprite.png|frameless]]
+|Apathy Orb
+|Using it makes the floor status apathetic.
+|Only in '''GEN VI'''
+|-
+|[[File:MDBag Wonder Orb TDS Sprite.png|frameless]]
+|Cleanse Orb
+|Using it makes the floor status apathetic.
+|Only in '''GEN VI'''
+|-
+|[[File:MDBag Wonder Orb TDS Sprite.png|frameless]][[File:MDBag Wonder Orb TDS Sprite.png|frameless]]
+|Soup Orb
+|Using it makes the floor status apathetic.
+|Only in '''GEN XI'''
+|-
+|[[File:The sbungly.png|frameless]]
+|Golden Punchy
+|Deletes your save file.
+|'''Mushrooms:''' 5
+|-
+|[[File:The sbungly.png|frameless]]
+|Golden Punchy
+|Deletes your save file.
+|'''Mushrooms:''' 5
+|-
+|[[File:The sbungly.png|frameless]]
+|Golden Punchy
+|Deletes your save file.
+|'''Mushrooms:''' 5
+|-
+|[[File:The sbungly.png|frameless]]
+|Golden Punchy
+|Deletes your save file.
+|'''Mushrooms:''' 32
+|-
+|[[File:The sbungly.png|frameless]]
+|Golden [[Mimosa]]
+|Deletes your [[File:The sbungly.png|10px|frameless]], if one is being carried by the party leader.
+|'''Mushrooms:''' 5
+|-
+|[[File:The sbungly.png|20px|frameless]][[File:The sbungly.png|5px|frameless]][[File:The sbungly.png|5px|frameless]][[File:The sbungly.png|17px|frameless]]
+|
+|Deletes your save file.
+|
+|}
