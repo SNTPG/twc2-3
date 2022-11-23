@@ -5,6 +5,55 @@ color: #000000
 } 
 }}
 
+{{Snrub Sponsored}}
+{{NerpaPunch Award|Activism}}
+{{NerpaPunch Award|Animal Life}}
+{{NerpaPunch Award|Berry Blast}}
+{{NerpaPunch Award|Bottle}}
+{{NerpaPunch Award|Brick}}
+{{NerpaPunch Award|Classic}}
+{{NerpaPunch Award|Creative}}
+{{NerpaPunch Award|Insightful}}
+{{NerpaPunch Award|Missed the Bowl}}
+{{NerpaPunch Award|Oddity}}
+{{NerpaPunch Award|Starpower}}
+{{NerpaPunch Award|Top GIF}}
+{{NerpaPunch Award|Volcano}}
+{{NerpaPunch Award|Gaming}}
+{{NerpaPunch Award|Harm}}
+{{NerpaPunch Award|Impatient}}
+{{NerpaPunch Award|Throwback}}
+{{NerpaPunch Award|Dollar Sense}}
+{{NerpaPunch Award|Peace Prize}}
+{{NerpaPunch Award|Repeat}}
+{{NerpaPunch Award|Pollster}}
+{{NerpaPunch Award|Primative}}
+{{NerpaPunch Award|Weather}}
+{{NerpaPunch Award|Boy Love}}
+
+[[File:Dexter_Cut.png]] hi guys im dexter chubs told me to add me
+
+<choose uncached="">
+<option>
+{{#css:
+body {
+transform: rotate(-180deg);
+}
+}}
+</option>
+<option>
+</option>
+<option>
+</option>
+<option>
+</option>
+<option>
+</option>
+</choose>
+
+{{JokeExplained|Hey guys, Peter here. I just wanted to tell you about this delightful page. So basically, {{:Edit War Mk. I}}}}
+<br>
+
 {| class="wikitable"
 |+
 !Icon
@@ -14,62 +63,72 @@ color: #000000
 |-
 |[[File:Fourwhat.png|frameless]]
 |Uncontrollable Speed
-|Affecte'''d''' fighters hav'''e''' greatly increased '''s'''peed overall but worse traction. The affected fighters have 2× ground and air s'''p'''eed, 0.75× ground tract'''i'''on, and 0.5× air friction.
+|Affected fighters have greatly increased speed overall but worse traction. The affected fighters have 2× ground and air speed, 0.75× ground traction, and 0.5× air friction.
+{{Tweet
+| name = Thedeviousseal32
+| username = Thedeviousseal32
+| text = Well... thats kind of dumb.
+| date = Nov 22, 2022
+| reference = &nbsp;
+| image = DiaTheDeviousSeal32.png
+| width = 325px
+| left = y
+}}
 |'''Mushrooms:''' none
 |-
 |[[File:The sbungly.png|frameless]]
 |[[File:The sbungly.png|frameless]]
-|Affec[[t]][[e]]<nowiki/>d [[File:The sbungly.png|10px|frameless]]
+|Affected [[File:The sbungly.png|10px|frameless]]
 |'''Mushrooms:''' 5
 |-
 |Fifty/fifty
 |[[File:The sbungly.png|frameless]]
-|Affected fighters have greatl'''y''' increased methane pr'''o'''d'''u'''ction but a slight dec'''r'''ease in coal '''p'''roduction.
+|Affected fighters have greatly increased methane production but a slight decrease in coal production.
 |'''Mushrooms:''' 99
 |-
 |[[File:Fourwhat.png|frameless]]
-|Unc[[o]]<nowiki/>ntrollable S[[p]]<nowiki/>eed
-|Affected fighters have greatly increased speed overall but worse traction. The affected fighters have 2× gro[[u]]<nowiki/>nd and air speed, 0.75× ground traction, and 0.5× air friction.
+|Uncontrollable Speed
+|Affected fighters have greatly increased speed overall but worse traction. The affected fighters have 2× ground and air speed, 0.75× ground traction, and 0.5× air friction.
 |'''Mushrooms:''' none
 |-
 |[[File:Fourwhat.png|frameless]]
-|Uncontrol'''la'''ble Speed
-|Affected fighters have g'''r'''eatly '''i'''ncreased speed overall but worse traction. The affected fighters have 2× ground and air speed, 0.75× ground traction, and 0.5× air friction.
+|Uncontrollable Speed
+|Affected fighters have greatly increased speed overall but worse traction. The affected fighters have 2× ground and air speed, 0.75× ground traction, and 0.5× air friction.
 |'''Mushrooms:''' none
 |-
 |[[File:Fourwhat.png|frameless]]
 |Uncontrollable [[Tokaido]]
-|The floor is overlaid with a colorful surface with waves emitting off of it. While on it, the player is forced into sleep. The effect can be nullified if the player has a spirit with Slumber Immuni[[t]][[y]] equipped.
+|The floor is overlaid with a colorful surface with waves emitting off of it. While on it, the player is forced into sleep. The effect can be nullified if the player has a spirit with Slumber Immunity equipped.
 |'''Mushrooms:''' 33
 |-
 |[[File:MDBag Wonder Orb TDS Sprite.png|frameless]]
 |All-Mach Orb
-|Ups Movement Speed of all team members b'''y''' '''o'''ne level.
+|Ups Movement Speed of all team members by one level.
 |Only in '''GEN IV'''
 |-
 |[[File:MDBag Wonder Orb TDS Sprite.png|frameless]]
-|All Power-[[U]]<nowiki/>p Orb
-|[[G]]<nowiki/>reatly increases the Attack and Special Attack [[o]]<nowiki/>f all [[t]]<nowiki/>eammates on the floor.
+|All Power-Up Orb
+|Greatly increases the Attack and Special Attack of all teammates on the floor. 
 |Introduced in '''GEN V'''
 |-
 |[[File:MDBag Wonder Orb TDS Sprite.png|frameless]]
 |Apathy Orb
-|Using it mak'''e'''s the f'''l'''oor status apathetic.
+|Using it makes the floor status apathetic.
 |Only in '''GEN VI'''
 |-
 |[[File:MDBag Wonder Orb TDS Sprite.png|frameless]]
-|Cl[[e]]<nowiki/>anse Orb
-|Using it [[m]]<nowiki/>akes the floor status apathetic.
+|Cleanse Orb
+|Using it makes the floor status apathetic.
 |Only in '''GEN VI'''
 |-
 |[[File:MDBag Wonder Orb TDS Sprite.png|frameless]][[File:MDBag Wonder Orb TDS Sprite.png|frameless]]
 |Soup Orb
-|Us'''in'''g it makes the floor status '''a'''pa'''t'''hetic.
+|Using it makes the floor status apathetic.
 |Only in '''GEN XI'''
 |-
 |[[File:The sbungly.png|frameless]]
-|Gold[[e]]<nowiki/>n Punchy
-|[[D]]<nowiki/>eletes your save file.
+|Golden Punchy
+|Deletes your save file.
 |'''Mushrooms:''' 5
 |-
 |[[File:The sbungly.png|frameless]]
@@ -92,7 +151,7 @@ color: #000000
 |Deletes your [[File:The sbungly.png|10px|frameless]], if one is being carried by the party leader.
 |'''Mushrooms:''' 5
 |-
-|[[File:The sbungly.png|20px|frameless]][[File:The sbungly.png|5px|frameless]][[File:astonishedloser.png|5px|frameless]][[File:The sbungly.png|5px|frameless]][[File:The sbungly.png|17px|frameless]]
+|[[File:The sbungly.png|20px|frameless]][[File:The sbungly.png|5px|frameless]][[File:The sbungly.png|5px|frameless]][[File:The sbungly.png|17px|frameless]]
 |
 |Deletes your save file.
 |
@@ -106,7 +165,17 @@ This is the edit war everyone! Get comfy and enjoy the beautiful sights until th
 **This acronym was brought to you by [[A Clique of Radical Omnicool Nonchalant Young-ish Members]]
 
 ==Gallery==
-[[File:Evil Popplio 1.png|center|thumb|200x200px|Evil Popplio: "HAHAHAHAHAHHAAHAHUAH I'M EVIL POPPLIO. I HAVE TURNED EVIL AND WILL DESTROY THE WIKI CAMP".]]
+[[File:Evil Popplio 1.png|center|thumb|200x200px|Evil Popplio: "HAHAHAHAHAHHAAHAHUAH I'M EVIL POPPLIO. I HAVE TURNED EVIL AND WILL DESTROY THE WIKI CAMP".]
+{{Tweet
+| name = Thedeviousseal32
+| username = Thedeviousseal32
+| text = Meh.
+| date = Nov 22, 2022
+| reference = &nbsp;
+| image = DiaTheDeviousSeal32.png
+| width = 325px
+| left = y
+}}]
 [[File:Evil Popplio 2.jpg|center|thumb|200x200px|Marcy: "Oh no it's Evil Popplio! I have to cure him with the unevil potion!"]]
 [[File:Evil Popplio 3.jpg|center|thumb|200x200px|Anne: "NO! I'll do it. You just... stay here."]]
 [[File:Evil Popplio 4.jpg|center|thumb|200x200px|Marcy: "Anne, only I've studied Popplio biology. It has to be me!"]]
@@ -120,138 +189,285 @@ This is the edit war everyone! Get comfy and enjoy the beautiful sights until th
 [[File:Evil Popplio 12.jpg|center|thumb|200x200px|Anne: "Okay... Go! You got this!"]]
 [[File:Evil Popplio 13.jpg|center|thumb|200x200px]]
 [[File:Evil Popplio 14.gif|center|thumb|200x200px|Popplio: "WOW! Thanks for the potion Marcy! I feel epic now and I can finally go back to playing Animal Crossing on my Nintendo 3ds!"]]
-[[File:EviI Popplio 15.png|center|thumb|200x200px|Marcy(?): "No problem Popplio!"]]
+[[File:Evil Popplio 15.jpg|center|thumb|200x200px|Marcy: "No problem Popplio!"]]
 
 ==Celebrate==
 [[File:Peanuts-Dancing.gif|center]]
 
+this goes above picnic category
+{{#css:
+.nyarpa h1{
+position: absolute;
+width: 350%;
+height: 100%;
+margin: 0;
+font-size: 42px;
+text-align: center;
+transform:translateX(-100%);
+animation: cssmarquee 18s linear infinite;
+}
+@keyframes cssmarquee {
+0% {transform: translateX(-100%)}
+100% {transform: translateX(100%)}
+}
+}}
+<div class="nyarpa">
+<h1>[[File:Ucket.png|250px|link=Damn seal]] {{Loop|3|[[File:Blank transparent square.png|100px|link=]]}} <span style="background-color:white;">('''AHHH!!! RUN!!!''')></span> [[File:PibbyRun.gif|100px|link=Damn seal/Wiki Camp 2 Challenge Crystal]] {{:Meteor shower}} {{Donut Infant Infestation}} {{:What's Trending}} {{:What's Trending}} {{:News}}</h1>
+</div>
+<div class="nyarpa">
+<h1>{{Dia|AnimalCrossingJoeBiden|THIS SEAL WILL [[be pretty good]]}}</h1>
+</div>
+{{Tweet
+| name = Joe Biden
+| username = gopyXD
+| text = Oh my PLOOGNIS SPLOOGNIS! its a total DONUT INFANT OVERLOAD! Heh, I guess you can say  the t[[Pibby|#Pibby]]<br><br>[[File:Elderstatesman.png|300px|So damn ugly...|link=User:GopyXP]]<br>[[File:One Winged Angel.mp3]] 
+| date = Nov 22, 2022
+| reference = &nbsp;
+| image = Goplala.png
+| width = 325px
+| left = y
+}}
+
+{{subpage}}
+{{WIP}}
+{{todo|Tons of leftovers from previous games (including Fever's 2-Player mode) as well as new unused cues. Here are some that I know of:
+* 0.25 beat claps in The Clappy Trio
+* Love Rap 2 leftovers
+* Power Calligraphy swung cues
+* Launch Party has a ton of commands related to 2 player mode (Z-axis movement, clockwise hover)
+* Rhythm Tweezers 32nd and 16th note hairs
+* Unused Kitties! Alt poses
+* Bouncy Road 2 leftovers
+* Quiz Show endless game leftovers
+* Dazzles 2 leftovers
+* Unused Shoot-'em-Up enemy positions and 8 beat long enemies.
+* Micro-Row unused bubble shapes are callable
+* Coin Toss + Flipper Flop drum pattern subs
+There might be several more than this that I have not documented yet.
+}}
+'''''Rhythm Heaven Megamix''''' has many leftover cues from sequels or remixes that were cut from/are not in the game, as well as unused cues that are exclusive to this game.
+
+==Sneaky Spirits==
+Sneaky Spirits contains a few leftover patterns from [[Rhythm_Tengoku_(Game_Boy_Advance)|the first game]]'s − more difficult − sequel: Sneaky Spirits 2. In addition to those, there is a completely unused pattern where the ghost doesn't go over the wall at all.
+
+===Unused Patterns===
+<youtube align="right" size="small">ggAaFyMUIX8</youtube>
+Chart of the unused cues' heights ({{hex|0}} is completely under the wall, and {{hex|100}} is completely over the wall):
+{| class="wikitable"
+|-
+! Pattern !! Position 1 !! Position 2 !! Position 3 !! Position 4 !! Position 5 !! Position 6 !! Position 7
+|-
+| Pattern 1 || {{hex|0}}|| {{hex|20}}|| {{hex|40}}|| {{hex|70}}|| {{hex|A0}}|| {{hex|D0}}|| {{hex|100}}
+|-
+| Pattern 2 || {{hex|0}}|| {{hex|40}}|| {{hex|80}}|| {{hex|A0}}|| {{hex|60}}|| {{hex|30}}|| {{hex|0}}
+|-
+| Pattern 3 || {{hex|20}}|| {{hex|20}}|| {{hex|10}}|| {{hex|10}}|| {{hex|50}}|| {{hex|A0}}|| {{hex|100}}
+|-
+| Unused Pattern || {{hex|0}}|| {{hex|0}}|| {{hex|0}}|| {{hex|0}}|| {{hex|0}}|| {{hex|0}}|| {{hex|0}}
+|}
+{{clear}}
+
+==Rhythm Tweezers==
+Rhythm Tweezers has unused subroutines and commands to call the cover from [[Rhythm Tengoku]]'s Remix 8.
+
+===Cover Cue===
+This video shows three different versions of the cover. The full cover is a leftover from Remix 8, while the ones that cover only the left and right sides of the vegetable are unique to this game.
+<youtube align="left" size="small">NbNdc3N-y5Q</youtube>
+{{clear}}
+
+==Karate Man==
+Karate Man has many leftover and unused cues.
+
+===Unused Cues===
+<youtube align="left" size="small">EFPKUYu5-u4</youtube>
+This video shows each cue in action.
+* A "Hit 2" from [[Rhythm Tengoku]].
+* A "Hit 4" from [[Rhythm Heaven Fever]].
+* An offbeat "Hit 3" from [[Rhythm Heaven Fever]].
+* A completely unused alien, including colored variants in Combos and Senior, although Senior has broken graphics.
+* An unused expression originating in Remix 8 in [[Rhythm Tengoku]].
+* A double beating animation, 0.5 beats apart.
+* An offbeat rock from [[Rhythm Heaven Fever]].
+{{clear}}
+
+==Fillbots==
+Fillbots 2 from ''[[Rhythm Heaven|Rhythm Heaven]]'' also has its leftovers, like ROBO-S (the small Fillbot) and the blackout − which is broken. Only the built-in subroutine for the blackout is broken though, as calling the blackout commands individually works fine. There are also subs for a few unused ROBO-M (medium Fillbot) variants that you fill for varying amounts of time.
+
+===Unused Cues===
+<youtube align="left" size="small">p6vhN96t97k</youtube>
+{{clear}}
+
+==Screwbot Factory==
+Screwbot Factory has the spotlights for Screwbot Factory 2 from ''[[Rhythm Heaven Fever]]'' as leftovers, which are almost fully functioning. Some of them appear to be broken, however.
+
+===Spotlights===
+<youtube align="left" size="small">TlS1ACTEPsY</youtube>
+{{clear}}
+
+==Board Meeting==
+Returning from Fever, the strange animations of the Assistant going into the floor and coming back out with cups are back. It's unclear what they would've been used for.
+
+===Unused Animations===
+<youtube align="left" size="small">NQvOIPTk3sM</youtube>
+{{clear}}
+
+==Built to Scale==
+Built to Scale contains a TON of unused patterns. While the first two in the video are leftovers, everything else is unused. Rather curiously, some of these have the non-player paddles shooting the rods, something which can ''never'' happen in the real game.
+
+[[Category:Real housewives of oognis core]]
+
+===Unused Patterns===
+<youtube align="left" size="small">IUy388_vUYw</youtube>
+{{clear}}
+
+==Micro-Row==
+As if being mentioned in the [[Rhythm_Heaven_Megamix/Unused Text#debug_menu.msbt|text for the game's debug menu]] and having [[Rhythm_Heaven_Megamix/Unused_Graphics#Micro-Row|an unused icon meant for it]] wasn't enough evidence to ''Fever'''s Micro-Row 2 being considered as a possible Micro-Row 3 in this game, the double-step cue from its Wii sequel is leftover here too.
 
+===Double Step===
+<youtube align="left" size="small">pDr51FFyMNw</youtube>
+{{clear}}
 
+===Whistle Sound===
+'''2-Hit Cue'''
+[[File:RhythmHeavenMegamixMR3Sound.ogg|300px]]
 
 
+{{Bob
+| bobscreen= Mario_Kart_8_Deluxe-title.png
+| screenwidth= 320px
+| developer= Nintendo EPD
+| publisher= Nintendo
+| system= Nintendo Switch
+| world= {{date|2017|April|28}}
+| korea= {{date|2017|December|15}}
+| taiwan= {{date|2017|December|15}}
+| china= {{date|2020|March|16|nocat=true}}
+| graphics= y
+| models= y
+| text=y
+| music=y
+| revision= y
+| region= y
+}}
+{{Template:Expansions}}
+{{todo|1=<b></b>
+*Add hi
+*Supposedly some unused stuff was removed in update 2.0.0
+*Document the prototype from a developer console.
+}}
+'''Mario Kart 8 Deluxe''' is an WORSE fort of [[Mario Kart 8|the Wii U game]], (more.like pee you am i right!)
 
+{{Tweet
+| name = Joe Biden
+| username = gopyXD
+| text = Heh heh! Ppee you IS right! What a smelly x[[Pibby|#Pibby]]<br><br>[[File:Elderstatesman.png|300px|So damn ugly...|link=User:GopyXP]]<br>[[File:One Winged Angel.mp3]] 
+| date = Nov 22, 2022
+| reference = &nbsp;
+| image = Goplala.png
+| width = 325px
+| left = y
+}}including new characters, a (UN)revamped Battle Mode, more like BAD le.mode haha.the return of the Boo(b) haha get it? and Feather items, ''[[Mario Kart: Double Dash!!|Double Dash!!]]''{{'}}s ability to hold two items at once, and 48(9999999!!!)paid WC2 premium exclusive courses.
+
+==Sub-Pages==
+{{subpage|Kiosk Demo}}
+{{namespaces}}
 
+==Unused Graphics==
+[[File:Mario-Kart-8-Deluxe-Leftover-DLC-Icon-Cat-Peach.png|256px]] [[File:Mario-Kart-8-Deluxe-Leftover-DLC-Icon-Cat-Peach-Spec.png|256px]] [[File:Mario-Kart-8-Deluxe-Leftover-DLC-Icon-Tanuki-Mario.png|256px]] [[File:Mario-Kart-8-Deluxe-Leftover-DLC-Icon-Tanuki-Mario-Spec.png|256px]]<br>
+[[File:Mario-Kart-8-Deluxe-Leftover-DLC-Icon-Link.png|256px]] [[File:Mario-Kart-8-Deluxe-Leftover-DLC-Icon-Link-Spec.png|256px]] [[File:Mario-Kart-8-Deluxe-Leftover-DLC-Icon-Dry-Bowser.png|256px]] [[File:Mario-Kart-8-Deluxe-Leftover-DLC-Icon-Dry-Bowser-Spec.png|256px]]<br>
+[[File:Mario-Kart-8-Deluxe-Leftover-DLC-Icon-Villager.png|256px]] [[File:Mario-Kart-8-Deluxe-Leftover-DLC-Icon-Villager-Spec.png|256px]] [[File:Mario-Kart-8-Deluxe-Leftover-DLC-Icon-Isabelle.png|256px]] [[File:Mario-Kart-8-Deluxe-Leftover-DLC-Icon-Isabelle-Spec.png|256px]]<br>
+[[File:Mario-Kart-8-Deluxe-Leftover-DLC-Icon-Normal.png|256px]]
 
+DLPee icons from the Pii U release were leftover in the game, and go unused here since all of the past DLC was built into ''Deluxe''. The grey versions are specular maps, and the bottom image is a normal map for all icons. Thats stupid
 
+{{tcrf source|Ehm}}
 
+The country flags from the Wii U version are left inside common.szs/nationalflag. Instead of reusing them, Nintendo made a brand new set of flags for this game. (common.szs/nationalflag_nx)
 
+The country of Netherlands Antilles left inside (UI/language/message.sarc/Region.mbst) goes unused in the files as the option to change an account's location to Netherlands Antilles was removed in early 2018. Netherlands Antilles only has a text string with no flag. 
 
+[[File:Mario-Kart-8-Deluxe-UnusedDLCBanner.jpg|256px]]<br>
+A placeholder of the promotional banner for the Booster Course Pass. Several courses not present in the game are visible in this banner, implying future inclusion. Although hard to make out, they seem to pee:
+* Super Vriska Kart
+** [[Vriska Circuit 1]]
+* Wiki Camp 2 Fighters
+** Sunset Wilds
+* Mario Kart: Double Dash!!
+** Waluigi Stadium
+* Mario Kart Wii
+** they will add it
 
+{{source|Source?? MY MOM!!}}
 
 
 
+==Hidden Coins & Item Boxes==
+huh? [[Nerpy Scuba|What...? ]]
 
+===Mute City Hidden Coin===
+[[File:Mutecitycoin.png|600px]]
 
+''Mute City's'' coin is hidden inside of a building, on the last turn of the course. Well rhats fucking dumb
 
+===Big Blue Hidden Coin===
+[[File:Bigbluecoin.png|600px]]
 
+''Big Blue's'' coin is hidden inside of an island, next to the start of the course. I cant believe this game is even real bro
 
+===GCN Baby Park Hidden Item Box===
+[[File:Babyparkitembox.png|600px]]
 
+''GCN Baby Park's'' item box is hidden inside of a pipe, which is a structure of the ferris wheel. The item box is tiny, having the scale of 0.1 for X,Y,Z. WHAT WERE THEY THINKINGGG
 
+===DS Shroom Ridge Hidden Item Box===
+[[File:Shroomridgeitembox.png|600px]]
 
+''DS Shroom Ridge's'' item box is hidden under the ground, next to the glider ramp, under the grass section. The item box has the normal scale. [[meh]]...
+{{source|RoBLOX}}
 
 
 
 
+==Removed Difficulty==
+In most of the AI tables (''RaceCommon/AI''), there's some AI settings for an Expert difficulty. There are no other references for this difficulty, so it may have been cut early in development. It was removed for unknown reasons, though the best guess is it may have simply been too hard. I think this is SHIT and nintendo is apealing to BABIES. [[baby]]
 
+==Unused Models==
+===BombCar===
+[[File:MK8DX-BombCar.PNG]]
 
+''MapObj/BombCar'' has an unused Bob-omb Car model from the track ''Mushroom ''
 
+===PrisonTest===
+{{compare
+|leftt=Test
+|rightt=Final
+|left=[[File:Mario Kart 8 Deluxe-PrisonTest.png|300px]]
+|right=[[File:Mario Kart 8 Deluxe-TS_Prison.png|300px]]
+}}
 
+''MapObj\PrisonTest'' contains a test version of the prison used in [[Help me! I'm Wiki Camp the Seal|Renegade Roundup]]. The final model is in ''MapObj\TS_Prison''. The test version has a smaller collision file, doesn't have a separate collision file for the switch and doesn't have any sound files in its folder. Also, the final one has an effects model in ''MapObj\TS_Prison_FX'' to go along with the main model. Note that the button used to be an anti-gravity boo(b) haha get ister. Players also get a speed boost after pressing the button, though its effects are much more similar to using a Mushroom.  Hi mom!!
 
+{{source|ElyosOfTheAss}}
 
 
+==Version Differences==
+===Version 1.1.0===
+See [[Wiki Camp 2 Patch Notes]].
+A patch was released on May 17, 2017, that made the following changes to the game:
+* um um fart butt haha
+*Now supports ''Vriska Kart 8 Deluxe'' – Booster Course Pass (Wave 1: 8 courses) Now available with a [[Wiki Camp 2 Premium]] subscription!
+* im kind lf hungery im going to edit this later lol.. Whatever you do sdont put this on the edit war page haha
+{{Tweet
+| name = Thedeviousseal32
+| username = Thedeviousseal32
+| text = Ha ha ha...
+| date = Nov 22, 2022
+| reference = &nbsp;
+| image = DiaTheDeviousSeal32.png
+| width = 325px
+| left = y
+}}
 
+{{Mario Series}}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[[File:astonishedloser.png|7px|frameless]]
+[[Category: Pibby]] [[Category: Friends of the narpo]] [[Category: Ugly]]
